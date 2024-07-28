@@ -4,5 +4,7 @@
             "Holger Ehrmann"
         ]
     },
+    "bonusfeatures": "Bonus Features",
+    "bonusfeatures-desc": "Provides bonus features for users based on their points",
     "bonusfeatures-title": "Bonus Features"
 }

@@ -37,7 +37,7 @@ class SpecialBonusFeatures extends SpecialPage
         $row = $dbr->selectRow(
             'user_stats',
             'stats_total_points',
-            ['stats_user_id' => $user->getId()],
+            ['stats_actor' => $user->getActorId()],
             __METHOD__
         );
 
@@ -47,8 +47,8 @@ class SpecialBonusFeatures extends SpecialPage
     private function getFeatures($userPoints)
     {
         $features = [
-            ['title' => 'Feature 1', 'description' => 'Beschreibung 1', 'requiredPoints' => 2000],
-            ['title' => 'Feature 2', 'description' => 'Beschreibung 2', 'requiredPoints' => 4000],
+            ['title' => 'Belohnung 1: Statistiken', 'description' => 'Als Belohnung für deine ersten Schritte hier im Maddraxikon erhältst du Zugriff auf die ausführlichen Statistiken zur Serie. Welcher Roman wurde am besten bewertet? Welcher wurde am häufigsten bewertet? Welche Zyklen wurden besonders gut bewertet? Welche Autoren schreiben die am besten bewerteten Romane? Das alles sind Fragen, die dir hiermit beantwortet werden!', 'requiredPoints' => 2000],
+            ['title' => 'Belohnung 2: Hörbücher vorab', 'description' => 'Erahlte Zugriff auf die neuesten, unveröffentlichten EARDRAX-Fanhörbücher. Hier wird immer mindestens ein unveröffentlichtes Hörbuch angeboten - noch bevor es auf YouTube erscheint!', 'requiredPoints' => 4000],
             ['title' => 'Feature 3', 'description' => 'Beschreibung 3', 'requiredPoints' => 8000],
             ['title' => 'Feature 4', 'description' => 'Beschreibung 4', 'requiredPoints' => 16000],
             ['title' => 'Feature 5', 'description' => 'Beschreibung 5', 'requiredPoints' => 32000],
