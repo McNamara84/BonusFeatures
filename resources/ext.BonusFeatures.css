@@ -1,0 +1,19 @@
+.bonus-features {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.feature {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.feature.locked {
+    opacity: 0.5;
+}
+
+.feature.unlocked {
+    background-color: #e6ffe6;
+}
