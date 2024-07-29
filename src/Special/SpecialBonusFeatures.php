@@ -81,7 +81,9 @@ class SpecialBonusFeatures extends SpecialPage
         if ($feature['unlocked']) {
             $html .= "<a href='#'>Link zum Feature</a>";
         } else {
+            $progress = min(100, ($this->userPoints / $feature['requiredPoints']) * 100);
             $html .= "<p>Benötigt {$feature['requiredPoints']} Punkte</p>";
+            $html .= "<div class='progress-bar'><div class='progress' style='width: {$progress}%'></div></div>";
         }
         $html .= '</div>';
         return $html;
