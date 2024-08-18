@@ -6,5 +6,7 @@
     },
     "bonusfeatures": "Bonus Features",
     "bonusfeatures-desc": "Provides bonus features for users based on their points",
-    "bonusfeatures-title": "Bonus Features"
+    "bonusfeatures-title": "Bonus Features",
+    "bonushoerbuch-title": "Bonus Audiobook",
+    "bonusschauplatzstatistiken-title": "Statistics on locations in the MADDRAX series"
 }

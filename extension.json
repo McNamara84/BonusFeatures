@@ -17,6 +17,12 @@
 	"SpecialPages": {
 		"BonusFeatures": {
 			"class": "MediaWiki\\Extension\\BonusFeatures\\Special\\SpecialBonusFeatures"
+		},
+		"BonusHoerbuch": {
+			"class": "MediaWiki\\Extension\\BonusFeatures\\Special\\SpecialBonusHoerbuch"
+		},
+		"BonusSchauplatzStatistiken": {
+			"class": "MediaWiki\\Extension\\BonusFeatures\\Special\\SpecialBonusSchauplatzStatistiken"
 		}
 	},
 	"MessagesDirs": {
@@ -28,6 +34,15 @@
 		"BonusFeaturesAlias": "BonusFeatures.alias.php"
 	},
 	"ResourceModules": {
+		"ext.bonusFeatures.init": {
+			"scripts": [
+				"resources/ext.bonusFeatures.init.js"
+			],
+			"dependencies": [
+				"mediawiki.api",
+				"mediawiki.util"
+			]
+		},
 		"ext.bonusFeatures": {
 			"styles": [
 				"resources/ext.bonusFeatures.css"
@@ -39,6 +54,48 @@
 				"bonusfeatures-specialpage-title"
 			],
 			"dependencies": []
+		},
+		"ext.bonusFeatures.statistics": {
+			"styles": [
+				"resources/ext.bonusFeatures.statistics.css",
+				"https://cdn.datatables.net/2.1.2/css/dataTables.dataTables.min.css"
+			],
+			"scripts": [
+				"resources/ext.bonusFeatures.statistics.js"
+			],
+			"dependencies": [
+				"jquery",
+				"mediawiki.api",
+				"ext.bonusFeatures.externalLibraries"
+			]
+		},
+		"ext.bonusFeatures.externalLibraries": {
+			"scripts": [
+				"https://cdn.datatables.net/2.1.2/js/dataTables.min.js",
+				"https://cdn.jsdelivr.net/npm/chart.js",
+				"https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.30.1/moment.min.js",
+				"https://cdnjs.cloudflare.com/ajax/libs/chartjs-adapter-moment/1.0.1/chartjs-adapter-moment.min.js"
+			],
+			"targets": [
+				"desktop",
+				"mobile"
+			]
+		},
+		"ext.bonusFeatures.data": {
+			"class": "ResourceLoaderFileModule",
+			"scripts": [],
+			"styles": [],
+			"dependencies": [],
+			"messages": [],
+			"targets": [
+				"desktop",
+				"mobile"
+			],
+			"defaultSkin": null,
+			"skipFunction": null,
+			"fileList": [
+				"resources/maddrax.json"
+			]
 		}
 	},
 	"ResourceFileModulePaths": {

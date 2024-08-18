@@ -47,12 +47,28 @@ class SpecialBonusFeatures extends SpecialPage
     private function getFeatures($userPoints)
     {
         $features = [
-            ['title' => 'Belohnung 1: Statistiken', 'description' => 'Als Belohnung für deine ersten Schritte hier im Maddraxikon erhältst du Zugriff auf die ausführlichen Statistiken zur Serie. Welcher Roman wurde am besten bewertet? Welcher wurde am häufigsten bewertet? Welche Zyklen wurden besonders gut bewertet? Welche Autoren schreiben die am besten bewerteten Romane? Das alles sind Fragen, die dir hiermit beantwortet werden!', 'requiredPoints' => 2000],
-            ['title' => 'Belohnung 2: Hörbücher vorab', 'description' => 'Erhalte Zugriff auf die neuesten, unveröffentlichten EARDRAX-Fanhörbücher. Hier wird immer mindestens ein unveröffentlichtes Hörbuch angeboten - noch bevor es auf YouTube erscheint!', 'requiredPoints' => 4000],
-            ['title' => 'Belohnung 3: Coming soon', 'description' => 'Folgt.', 'requiredPoints' => 8000],
-            ['title' => 'Belohnung 4: Coming soon', 'description' => 'Folgt.', 'requiredPoints' => 16000],
-            ['title' => 'Belohnung 5: Coming soon', 'description' => 'Folgt.', 'requiredPoints' => 32000],
-            ['title' => 'Belohnung 6: Coming soon', 'description' => 'Folgt.', 'requiredPoints' => 64000],
+            [
+                'title' => 'Belohnung 1: Statistiken - Schauplätze',
+                'description' => 'Als Belohnung für deine ersten Schritte hier im Maddraxikon erhältst du Zugriff auf die ausführlichen Statistiken zu Handlunsgorten der Serie. Hier findest du alle Informationen zu den Schauplätzen der Maddrax-Romane.',
+                'requiredPoints' => 2000,
+                'linkText' => 'Zu den Schauplatz-Statistiken',
+                'linkUrl' => 'BonusSchauplatzStatistiken'
+            ],
+            [
+                'title' => 'Belohnung 2: Hörbücher vorab',
+                'description' => 'Erhalte Zugriff auf die neuesten, unveröffentlichten EARDRAX-Fanhörbücher. Hier wird immer mindestens ein unveröffentlichtes Hörbuch angeboten - noch bevor es auf YouTube erscheint!',
+                'requiredPoints' => 4000,
+                'linkText' => 'Zur Hörbuch-Vorschau',
+                'linkUrl' => 'BonusHoerbuch'
+            ],
+            [
+                'title' => 'Belohnung 3: Statistiken - Romanbewertungen',
+                'description' => 'Erhalte Zugriff auf die ausführlichen Statistiken zu den Romanbewertungen. Hier findest du alle Informationen zu den Bewertungen der Maddrax-Romane.',
+                'requiredPoints' => 8000,
+                'linkText' => 'Zu den Roman-Statistiken',
+                'linkUrl' => 'BonusRomanStatistiken'
+            ],
+            // TODO: Weitere Belohnungen hinzufügen
         ];
 
         foreach ($features as &$feature) {
@@ -79,7 +95,8 @@ class SpecialBonusFeatures extends SpecialPage
         $html .= "<h3>{$feature['title']}</h3>";
         $html .= "<p>{$feature['description']}</p>";
         if ($feature['unlocked']) {
-            $html .= "<a href='#'>Link zum Feature</a>";
+            $linkUrl = SpecialPage::getTitleFor($feature['linkUrl'])->getLocalURL();
+            $html .= "<a href='{$linkUrl}'>{$feature['linkText']}</a>";
         } else {
             $progress = min(100, ($this->userPoints / $feature['requiredPoints']) * 100);
             $html .= "<p>Benötigt {$feature['requiredPoints']} Punkte</p>";
