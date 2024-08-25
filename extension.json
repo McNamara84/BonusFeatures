@@ -75,7 +75,8 @@
 				"resources/hardcover.json",
 				"resources/missionmars.json",
 				"resources/dasvolkdertiefe.json",
-				"resources/2012.json"
+				"resources/2012.json",
+				"resources/dieabenteurer.json"
 			]
 		},
 		"ext.bonusFeatures.tableUpdate": {

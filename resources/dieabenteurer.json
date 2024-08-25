@@ -1,0 +1,230 @@
+[
+    {
+        "nummer": 1,
+        "titel": "Das magische Auge",
+        "evt": "05.05.1992",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 5,
+        "stimmen": 2,
+        "text": "Hubert H. Simon",
+        "personen": [
+            "Thomas Ericson",
+            "Gudrun Heber"
+        ],
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 2,
+        "titel": "Die Insel der G\u00f6tter",
+        "evt": "???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.Der Datenwert \u201e???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 5,
+        "stimmen": null,
+        "text": "Hubert H. Simon",
+        "personen": [
+            "Thomas Ericson",
+            "Gudrun Heber"
+        ],
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 3,
+        "titel": "Die unsichtbare Macht",
+        "evt": null,
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 4,
+        "stimmen": null,
+        "text": "Hubert H. Simon",
+        "personen": [
+            "Thomas Ericson",
+            "Gudrun Heber"
+        ],
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 4,
+        "titel": "Das Erbe von Stonehenge",
+        "evt": null,
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 5,
+        "stimmen": null,
+        "text": "Frank Thys",
+        "personen": [
+            "Thomas Ericson",
+            "Gudrun Heber"
+        ],
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 5,
+        "titel": "Die versunkene Stadt",
+        "evt": null,
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 3,
+        "stimmen": null,
+        "text": "Hubert H. Simon",
+        "personen": [
+            "Thomas Ericson",
+            "Gudrun Heber",
+            "Connor"
+        ],
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 6,
+        "titel": "Das Schiff des Todes",
+        "evt": null,
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 5,
+        "stimmen": null,
+        "text": "Hubert H. Simon",
+        "personen": [
+            "Thomas Ericson",
+            "Gudrun Heber",
+            "Connor"
+        ],
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 7,
+        "titel": "Die Brut",
+        "evt": null,
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 3,
+        "stimmen": null,
+        "text": "Marten Veit",
+        "personen": [
+            "Pierre Leroy"
+        ],
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 8,
+        "titel": "Der Goldkopf von Yukatan",
+        "evt": null,
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 5,
+        "stimmen": null,
+        "text": "Hubert H. Simon",
+        "personen": [
+            "Thomas Ericson",
+            "Gudrun Heber"
+        ],
+        "orte": [
+            "Yukatan",
+            "Mexiko;"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 9,
+        "titel": "Das Tor der R\u00e4tsel",
+        "evt": null,
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 4,
+        "stimmen": null,
+        "text": "Marten Veit",
+        "personen": [
+            "Thomas Ericson",
+            "Gudrun Heber",
+            "Kar"
+        ],
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 10,
+        "titel": "Der Weg des Orakels",
+        "evt": "???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.Der Datenwert \u201e???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 5,
+        "stimmen": null,
+        "text": "Robert de Vries",
+        "personen": [
+            "Thomas Ericson",
+            "Gudrun Heber",
+            "Pierre Leroy",
+            "Valerie Gideon"
+        ],
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 11,
+        "titel": "Todesfalle Bangkok",
+        "evt": "???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.Der Datenwert \u201e???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 2,
+        "stimmen": null,
+        "text": "Frank Thys",
+        "personen": [
+            "Thomas Ericson",
+            "Gudrun Heber",
+            "Pierre Leroy",
+            "Valerie Gideon"
+        ],
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 12,
+        "titel": "Der \u00bbMann in Schwarz\u00ab",
+        "evt": "???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.Der Datenwert \u201e???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 5,
+        "stimmen": null,
+        "text": "Hubert H. Simon",
+        "personen": [
+            "Thomas Ericson",
+            "Gudrun Heber",
+            "Pierre Leroy",
+            "Valerie Gideon",
+            "Ian Sutherland"
+        ],
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 13,
+        "titel": "Wo Menschen wie G\u00f6tter sind...",
+        "evt": "???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.Der Datenwert \u201e???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 4,
+        "stimmen": null,
+        "text": "Frank Thys",
+        "personen": [
+            "Thomas Ericson",
+            "Gudrun Heber",
+            "Pierre Leroy",
+            "Valerie Gideon",
+            "Ian Sutherland"
+        ],
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 14,
+        "titel": "Kloster der Pr\u00fcfungen",
+        "evt": "???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.Der Datenwert \u201e???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 5,
+        "stimmen": null,
+        "text": "Robert de Vries",
+        "personen": [
+            "Thomas Ericson",
+            "Gudrun Heber",
+            "Pierre Leroy",
+            "Valerie Gideon",
+            "Ian Sutherland"
+        ],
+        "orte": null,
+        "schlagworte": null
+    }
+]

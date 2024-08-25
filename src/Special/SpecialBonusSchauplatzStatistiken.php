@@ -79,6 +79,8 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
                     $output->addWikiTextAsContent($this->getSeriesTable('dasvolkdertiefe'));
                 } elseif ($heading === "2012" && $userPoints >= 20000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('2012'));
+                } elseif ($heading === "Die Abenteuer" && $userPoints >= 20000) {
+                    $output->addWikiTextAsContent($this->getSeriesTable('dieabenteurer'));
                 }
             }
         } catch (\Exception $e) {
@@ -234,25 +236,13 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
 
         // Tabelle für Schauplätze nach Häufigkeit
         $output .= "=== Schauplätze nach Häufigkeit ===\n";
-        $output .= $this->getPaginatedTable(
-            $series . '-haeufigkeit',
-            ['Ort', 'Häufigkeit'],
-            [], // Leeres Array, da die Daten asynchron geladen werden
-            null,
-            1
-        );
+        $output .= "<div id='{$series}-haeufigkeit-container'></div>\n";
 
         $output .= "\n\n"; // Füge etwas Abstand zwischen den Tabellen hinzu
 
         // Tabelle für beliebteste Schauplätze
         $output .= "=== Beliebteste Schauplätze ===\n";
-        $output .= $this->getPaginatedTable(
-            $series . '-bewertung',
-            ['Ort', 'Durchschnittliche Bewertung', 'Anzahl der bewerteten Romane'],
-            [], // Leeres Array, da die Daten asynchron geladen werden
-            null,
-            1
-        );
+        $output .= "<div id='{$series}-bewertung-container'></div>\n";
 
         return $output;
     }
