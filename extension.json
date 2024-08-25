@@ -71,7 +71,8 @@
 			"defaultSkin": null,
 			"skipFunction": null,
 			"fileList": [
-				"resources/maddrax.json"
+				"resources/maddrax.json",
+				"resources/hardcover.json"
 			]
 		},
 		"ext.bonusFeatures.tableUpdate": {

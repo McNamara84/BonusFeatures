@@ -70,7 +70,9 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
             foreach ($headings as $heading) {
                 $output->addWikiTextAsContent("== $heading ==\n");
                 if ($heading === "Hauptserie" && $userPoints >= 20000) {
-                    $output->addWikiTextAsContent($this->getMainSeriesTable());
+                    $output->addWikiTextAsContent($this->getSeriesTable('maddrax'));
+                } elseif ($heading === "Hardcover" && $userPoints >= 20000) {
+                    $output->addWikiTextAsContent($this->getSeriesTable('hardcover'));
                 }
             }
         } catch (\Exception $e) {
@@ -112,7 +114,10 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
 
     public function getTableData($prefix, $page)
     {
-        $jsonFile = __DIR__ . '/../../resources/maddrax.json';
+        $series = explode('-', $prefix)[0];
+        $type = explode('-', $prefix)[1];
+
+        $jsonFile = __DIR__ . '/../../resources/' . $series . '.json';
 
         if (!file_exists($jsonFile)) {
             $this->logError('JSON file not found: {file}', ['file' => $jsonFile]);
@@ -155,14 +160,14 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
             }
         }
 
-        if ($prefix === 'haeufigkeit') {
+        if ($type === 'haeufigkeit') {
             arsort($ortsHaeufigkeit);
             $tableData = $ortsHaeufigkeit;
             $headers = ['Ort', 'Häufigkeit'];
             $rowCallback = function ($ort, $haeufigkeit) {
                 return [$ort, $haeufigkeit];
             };
-        } elseif ($prefix === 'bewertung') {
+        } elseif ($type === 'bewertung') {
             // Entferne Orte mit weniger als 5 bewerteten Romanen für die Bewertungstabelle
             $ortsBewertungen = array_filter($ortsBewertungen, function ($bewertung) {
                 return $bewertung['count'] >= 5;
@@ -217,14 +222,14 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
             "Deine aktuelle Punktzahl beträgt " . $userPoints . " Punkte.";
     }
 
-    private function getMainSeriesTable()
+    private function getSeriesTable($series)
     {
         $output = "";
 
         // Tabelle für Schauplätze nach Häufigkeit
         $output .= "=== Schauplätze nach Häufigkeit ===\n";
         $output .= $this->getPaginatedTable(
-            'haeufigkeit',
+            $series . '-haeufigkeit',
             ['Ort', 'Häufigkeit'],
             [], // Leeres Array, da die Daten asynchron geladen werden
             null,
@@ -236,7 +241,7 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
         // Tabelle für beliebteste Schauplätze
         $output .= "=== Beliebteste Schauplätze ===\n";
         $output .= $this->getPaginatedTable(
-            'bewertung',
+            $series . '-bewertung',
             ['Ort', 'Durchschnittliche Bewertung', 'Anzahl der bewerteten Romane'],
             [], // Leeres Array, da die Daten asynchron geladen werden
             null,

@@ -51,7 +51,9 @@
   $(function () {
     showLoading("haeufigkeit");
     showLoading("bewertung");
-    loadTableData("haeufigkeit");
-    loadTableData("bewertung");
+    loadTableData("maddrax-haeufigkeit");
+    loadTableData("maddrax-bewertung");
+    loadTableData("hardcover-haeufigkeit");
+    loadTableData("hardcover-bewertung");
   });
 })(jQuery, mediaWiki);
