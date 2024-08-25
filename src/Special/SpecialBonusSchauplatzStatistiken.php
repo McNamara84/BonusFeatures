@@ -112,7 +112,7 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
 
     public function getTableData($prefix, $page)
     {
-        $jsonFile = __DIR__ . '/../../resources/maddrax.json';  // Passen Sie diesen Pfad an
+        $jsonFile = __DIR__ . '/../../resources/maddrax.json';
 
         if (!file_exists($jsonFile)) {
             $this->logError('JSON file not found: {file}', ['file' => $jsonFile]);
@@ -135,14 +135,23 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
         $ortsBewertungen = [];
 
         foreach ($data as $roman) {
+            // Zähle Häufigkeit für alle Romane
             foreach ($roman['orte'] as $ort) {
                 if (!isset($ortsHaeufigkeit[$ort])) {
                     $ortsHaeufigkeit[$ort] = 0;
-                    $ortsBewertungen[$ort] = ['sum' => 0, 'count' => 0];
                 }
                 $ortsHaeufigkeit[$ort]++;
-                $ortsBewertungen[$ort]['sum'] += $roman['bewertung'];
-                $ortsBewertungen[$ort]['count']++;
+            }
+
+            // Berücksichtige Bewertungen nur für Romane mit mindestens 5 Stimmen
+            if ($roman['stimmen'] >= 5) {
+                foreach ($roman['orte'] as $ort) {
+                    if (!isset($ortsBewertungen[$ort])) {
+                        $ortsBewertungen[$ort] = ['sum' => 0, 'count' => 0];
+                    }
+                    $ortsBewertungen[$ort]['sum'] += $roman['bewertung'];
+                    $ortsBewertungen[$ort]['count']++;
+                }
             }
         }
 
@@ -154,15 +163,20 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
                 return [$ort, $haeufigkeit];
             };
         } elseif ($prefix === 'bewertung') {
+            // Entferne Orte mit weniger als 5 bewerteten Romanen für die Bewertungstabelle
+            $ortsBewertungen = array_filter($ortsBewertungen, function ($bewertung) {
+                return $bewertung['count'] >= 5;
+            });
+
             $durchschnittsBewertungen = [];
             foreach ($ortsBewertungen as $ort => $bewertung) {
                 $durchschnittsBewertungen[$ort] = $bewertung['sum'] / $bewertung['count'];
             }
             arsort($durchschnittsBewertungen);
             $tableData = $durchschnittsBewertungen;
-            $headers = ['Ort', 'Durchschnittliche Bewertung'];
-            $rowCallback = function ($ort, $bewertung) {
-                return [$ort, number_format($bewertung, 2)];
+            $headers = ['Ort', 'Durchschnittliche Bewertung', 'Anzahl der bewerteten Romane'];
+            $rowCallback = function ($ort, $bewertung) use ($ortsBewertungen) {
+                return [$ort, number_format($bewertung, 2), $ortsBewertungen[$ort]['count']];
             };
         } else {
             return ['error' => 'Ungültiger Präfix'];
