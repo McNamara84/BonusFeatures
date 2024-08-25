@@ -57,5 +57,7 @@
     loadTableData("hardcover-bewertung");
     loadTableData("missionmars-haeufigkeit");
     loadTableData("missionmars-bewertung");
+    loadTableData("dasvolkdertiefe-haeufigkeit");
+    loadTableData("dasvolkdertiefe-bewertung");
   });
 })(jQuery, mediaWiki);

@@ -73,7 +73,8 @@
 			"fileList": [
 				"resources/maddrax.json",
 				"resources/hardcover.json",
-				"resources/missionmars.json"
+				"resources/missionmars.json",
+				"resources/dasvolkdertiefe.json"
 			]
 		},
 		"ext.bonusFeatures.tableUpdate": {

@@ -1,0 +1,202 @@
+[
+    {
+        "nummer": 1,
+        "titel": "Eine Wunde in der Erde",
+        "evt": "25.09.2007",
+        "zyklus": "Afra (Zyklus)",
+        "bewertung": 3.43,
+        "stimmen": 7,
+        "text": "Michael M. Thurner",
+        "personen": [
+            "Kinga",
+            "Lourdes de Rozier"
+        ],
+        "orte": [
+            "Kilmalie"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 2,
+        "titel": "Der gierige Schlund",
+        "evt": "09.10.2007",
+        "zyklus": "Afra (Zyklus)",
+        "bewertung": 3.57,
+        "stimmen": 7,
+        "text": "Michael M. Thurner",
+        "personen": [
+            "Kinga",
+            "Nabuu",
+            "Gonho",
+            "Eric De Beer"
+        ],
+        "orte": [
+            "Kilmalie"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 3,
+        "titel": "Tod in den Wolken",
+        "evt": "23.10.2007",
+        "zyklus": "Afra (Zyklus)",
+        "bewertung": 3.71,
+        "stimmen": 7,
+        "text": "Mia Zorn",
+        "personen": [
+            "Nabuu",
+            "Antoinette de Rozier",
+            "Pil\u00e2tre de Rozier"
+        ],
+        "orte": [
+            "Kilmalie",
+            "Avignon-\u00e0-l'Hauteur",
+            "Wimereux-\u00e0-l'Hauteur"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 4,
+        "titel": "Zwischen Leben und Sterben",
+        "evt": "06.11.2007",
+        "zyklus": "Afra (Zyklus)",
+        "bewertung": 3.43,
+        "stimmen": 7,
+        "text": "Jo Zybell",
+        "personen": [
+            "Tom Percival",
+            "Jan van der Groot",
+            "Hanns-Joseph Dark",
+            "Joel Decker",
+            "Charles Poronyoma"
+        ],
+        "orte": [
+            "London",
+            "K\u00f6ln",
+            "Tansania"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 5,
+        "titel": "Tag der Vernichtung",
+        "evt": "20.11.2007",
+        "zyklus": "Afra (Zyklus)",
+        "bewertung": 4.14,
+        "stimmen": 7,
+        "text": "Jo Zybell",
+        "personen": [
+            "Jan van der Groot",
+            "Charles Poronyoma",
+            "Tom Percival",
+            "Leila Dark",
+            "Knox",
+            "Eusebia"
+        ],
+        "orte": [
+            "Amsterdam",
+            "Tansania",
+            "K\u00f6ln"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 6,
+        "titel": "Erstarrte Zeit",
+        "evt": "04.12.2007",
+        "zyklus": "Afra (Zyklus)",
+        "bewertung": 3.33,
+        "stimmen": 6,
+        "text": "Jo Zybell",
+        "personen": [
+            "Charles Poronyoma",
+            "Maren Verbeck",
+            "Vera van Dam",
+            "Carlo",
+            "Knox",
+            "Eusebia",
+            "Jan van de Groot",
+            "Eddie",
+            "Tom Percival",
+            "Leila Dark",
+            "Willi Keller"
+        ],
+        "orte": [
+            "Tansania",
+            "Kilimandscharo"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 7,
+        "titel": "Niemandes Welt",
+        "evt": "18.12.2007",
+        "zyklus": "Afra (Zyklus)",
+        "bewertung": 4.13,
+        "stimmen": 8,
+        "text": "Dario Vandis",
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 8,
+        "titel": "Anti-Serum",
+        "evt": "02.01.2008",
+        "zyklus": "Afra (Zyklus)",
+        "bewertung": 4.14,
+        "stimmen": 7,
+        "text": "Dario Vandis",
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 9,
+        "titel": "Die t\u00f6dliche Woge",
+        "evt": "15.01.2008",
+        "zyklus": "Afra (Zyklus)",
+        "bewertung": 3.83,
+        "stimmen": 6,
+        "text": "Dario Vandis",
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 10,
+        "titel": "Tod im Blut",
+        "evt": "29.01.2008",
+        "zyklus": "Afra (Zyklus)",
+        "bewertung": 3.67,
+        "stimmen": 6,
+        "text": "Claudia Kern",
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 11,
+        "titel": "Flammender Himmel",
+        "evt": "12.02.2008",
+        "zyklus": "Afra (Zyklus)",
+        "bewertung": 4.33,
+        "stimmen": 6,
+        "text": "Stephanie Seidel",
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 12,
+        "titel": "Dokk",
+        "evt": "26.02.2008",
+        "zyklus": "Afra (Zyklus)",
+        "bewertung": 4.67,
+        "stimmen": 6,
+        "text": "Claudia Kern",
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    }
+]
