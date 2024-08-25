@@ -68,7 +68,7 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
             ];
 
             foreach ($headings as $heading) {
-                $output->addWikiTextAsContent("== $heading ==");
+                $output->addWikiTextAsContent("== $heading ==\n");
                 if ($heading === "Hauptserie" && $userPoints >= 20000) {
                     $output->addWikiTextAsContent($this->getMainSeriesTable());
                 }
