@@ -1,0 +1,228 @@
+[
+    {
+        "nummer": 1,
+        "titel": "Die Ankunft",
+        "evt": null,
+        "zyklus": "Mars (Zyklus)",
+        "bewertung": 5,
+        "stimmen": 8,
+        "text": "Wolfgang Hohlbein",
+        "personen": [
+            "Marianne Angelis",
+            "Akina Tsuyoshi",
+            "Irena Batrikowa"
+        ],
+        "orte": [
+            "BRADBURY"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 2,
+        "titel": "Gestrandet",
+        "evt": null,
+        "zyklus": "Mars (Zyklus)",
+        "bewertung": 4.71,
+        "stimmen": 7,
+        "text": "Claudia Kern",
+        "personen": [
+            "Marianne Angelis",
+            "Akina Tsuyoshi",
+            "Irena Batrikowa"
+        ],
+        "orte": [
+            "Mars"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 3,
+        "titel": "\u00dcberleben",
+        "evt": null,
+        "zyklus": "Mars (Zyklus)",
+        "bewertung": 4.43,
+        "stimmen": 7,
+        "text": "Susan Schwartz",
+        "personen": [
+            "Leonie Angelis",
+            "Marianne Angelis",
+            "Akina Tsuyoshi"
+        ],
+        "orte": [
+            "Mars"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 4,
+        "titel": "Artefakte",
+        "evt": null,
+        "zyklus": "Mars (Zyklus)",
+        "bewertung": 4.43,
+        "stimmen": 7,
+        "text": "Frank Thys",
+        "personen": [
+            "Michael Tsuyoshi",
+            "Sharice Angelis"
+        ],
+        "orte": [
+            "Bradbury",
+            "Mars"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 5,
+        "titel": "Invasion!",
+        "evt": null,
+        "zyklus": "Mars (Zyklus)",
+        "bewertung": 4.29,
+        "stimmen": 7,
+        "text": "Frank Thys",
+        "personen": [
+            "Michael Tsuyoshi",
+            "Sharice Angelis"
+        ],
+        "orte": [
+            "Anlage der Alten"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 6,
+        "titel": "Der Vorsto\u00df",
+        "evt": null,
+        "zyklus": "Mars (Zyklus)",
+        "bewertung": 4.29,
+        "stimmen": 7,
+        "text": "Frank Thys",
+        "personen": [
+            "Michael Tsuyoshi",
+            "Sharice Angelis"
+        ],
+        "orte": [
+            "Anlage der Alten"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 7,
+        "titel": "Die Brut",
+        "evt": null,
+        "zyklus": "Mars (Zyklus)",
+        "bewertung": 4,
+        "stimmen": 7,
+        "text": "Timothy Stahl",
+        "personen": [
+            "Shola Angelis",
+            "Darven Angelis",
+            "Eiila Angelis"
+        ],
+        "orte": [
+            "Vegas",
+            "Otmanu"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 8,
+        "titel": "Inferno",
+        "evt": null,
+        "zyklus": "Mars (Zyklus)",
+        "bewertung": 4.29,
+        "stimmen": 7,
+        "text": "Timothy Stahl",
+        "personen": [
+            "Shola Angelis",
+            "Darven Angelis",
+            "Rondo Gonzales"
+        ],
+        "orte": [
+            "Otmanu",
+            "Vegas"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 9,
+        "titel": "Bruderkrieg",
+        "evt": null,
+        "zyklus": "Mars (Zyklus)",
+        "bewertung": 4.29,
+        "stimmen": 7,
+        "text": "Timothy Stahl",
+        "personen": [
+            "Baummutter",
+            "Darven Angelis",
+            "Eiila Angelis",
+            "Shola Angelis",
+            "Rondo Gonzales"
+        ],
+        "orte": [
+            "Wald"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 10,
+        "titel": "Aufbruch",
+        "evt": null,
+        "zyklus": "Mars (Zyklus)",
+        "bewertung": 4.43,
+        "stimmen": 7,
+        "text": "Susan Schwartz",
+        "personen": [
+            "Maya Joy Tsuyoshi",
+            "John Carter Tsuyoshi",
+            "Windt\u00e4nzer",
+            "Leto Jolar Angelis"
+        ],
+        "orte": [
+            "Mars"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 11,
+        "titel": "Die Basis",
+        "evt": null,
+        "zyklus": "Mars (Zyklus)",
+        "bewertung": 4.43,
+        "stimmen": 7,
+        "text": "Susan Schwartz",
+        "personen": [
+            "Maya Joy Tsuyoshi",
+            "Lorres Rauld Gonzales",
+            "Leto Jolar Angelis",
+            "Anjani Gonzales",
+            "Albo Saklid"
+        ],
+        "orte": [
+            "CARTER"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 12,
+        "titel": "R\u00fcckkehr",
+        "evt": null,
+        "zyklus": "Mars (Zyklus)",
+        "bewertung": 4.43,
+        "stimmen": 7,
+        "text": "Susan Schwartz",
+        "personen": [
+            "Maya Joy Tsuyoshi",
+            "Lorres Rauld Gonzales",
+            "Albo Saklid",
+            "Leto Jolar Angelis",
+            "Anjani Gonzales",
+            "Roy Braxton",
+            "Jawie Tsuyoshi",
+            "Clarice Braxton"
+        ],
+        "orte": [
+            "Schottland"
+        ],
+        "schlagworte": null
+    }
+]

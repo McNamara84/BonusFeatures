@@ -73,6 +73,8 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
                     $output->addWikiTextAsContent($this->getSeriesTable('maddrax'));
                 } elseif ($heading === "Hardcover" && $userPoints >= 20000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('hardcover'));
+                } elseif ($heading === "Mission Mars" && $userPoints >= 20000) {
+                    $output->addWikiTextAsContent($this->getSeriesTable('missionmars'));
                 }
             }
         } catch (\Exception $e) {

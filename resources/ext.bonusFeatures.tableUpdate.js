@@ -55,5 +55,7 @@
     loadTableData("maddrax-bewertung");
     loadTableData("hardcover-haeufigkeit");
     loadTableData("hardcover-bewertung");
+    loadTableData("missionmars-haeufigkeit");
+    loadTableData("missionmars-bewertung");
   });
 })(jQuery, mediaWiki);

@@ -72,7 +72,8 @@
 			"skipFunction": null,
 			"fileList": [
 				"resources/maddrax.json",
-				"resources/hardcover.json"
+				"resources/hardcover.json",
+				"resources/missionmars.json"
 			]
 		},
 		"ext.bonusFeatures.tableUpdate": {
