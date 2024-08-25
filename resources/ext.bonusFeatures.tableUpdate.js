@@ -32,9 +32,8 @@
             // Initialize tablesorter
             $("#table-" + prefix).tablesorter();
           } else {
-            // Wenn keine Daten vorhanden sind, entferne den Container und die Überschrift
-            $("#" + prefix + "-container").closest("h3").remove();
-            $("#" + prefix + "-container").remove();
+            // Wenn keine Daten vorhanden sind, entferne den gesamten Section-Container
+            $("#" + prefix + "-section").remove();
           }
         } else {
           console.error("Unexpected API response format:", response);
@@ -55,16 +54,15 @@
 
   // Initial load
   $(function () {
-    var series = ['maddrax', 'hardcover', 'missionmars', 'dasvolkdertiefe', '2012', 'dieabenteurer'];
-    var types = ['haeufigkeit', 'bewertung'];
+    var series = ["maddrax", "hardcover", "missionmars", "dasvolkdertiefe", "2012", "dieabenteurer"];
+    var types = ["haeufigkeit", "bewertung"];
 
-    series.forEach(function(serie) {
-      types.forEach(function(type) {
+    series.forEach(function (serie) {
+      types.forEach(function (type) {
         var prefix = serie + "-" + type;
         showLoading(prefix);
         loadTableData(prefix);
       });
     });
   });
-
 })(jQuery, mediaWiki);

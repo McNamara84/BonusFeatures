@@ -234,15 +234,19 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
     {
         $output = "";
 
-        // Tabelle für Schauplätze nach Häufigkeit
-        $output .= "=== Schauplätze nach Häufigkeit ===\n";
+        // Container für Schauplätze nach Häufigkeit
+        $output .= "<div id='{$series}-haeufigkeit-section'>\n";
+        $output .= "<h3>Schauplätze nach Häufigkeit</h3>\n";
         $output .= "<div id='{$series}-haeufigkeit-container'></div>\n";
+        $output .= "</div>\n";
 
         $output .= "\n\n"; // Füge etwas Abstand zwischen den Tabellen hinzu
 
-        // Tabelle für beliebteste Schauplätze
-        $output .= "=== Beliebteste Schauplätze ===\n";
+        // Container für beliebteste Schauplätze
+        $output .= "<div id='{$series}-bewertung-section'>\n";
+        $output .= "<h3>Beliebteste Schauplätze</h3>\n";
         $output .= "<div id='{$series}-bewertung-container'></div>\n";
+        $output .= "</div>\n";
 
         return $output;
     }
