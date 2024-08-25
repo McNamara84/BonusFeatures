@@ -14,6 +14,9 @@
 	"AutoloadNamespaces": {
 		"MediaWiki\\Extension\\BonusFeatures\\": "src/"
 	},
+	"APIModules": {
+		"getTableData": "MediaWiki\\Extension\\BonusFeatures\\Api\\BonusFeaturesApi"
+	},
 	"SpecialPages": {
 		"BonusFeatures": {
 			"class": "MediaWiki\\Extension\\BonusFeatures\\Special\\SpecialBonusFeatures"
@@ -55,32 +58,6 @@
 			],
 			"dependencies": []
 		},
-		"ext.bonusFeatures.statistics": {
-			"styles": [
-				"resources/ext.bonusFeatures.statistics.css",
-				"https://cdn.datatables.net/2.1.2/css/dataTables.dataTables.min.css"
-			],
-			"scripts": [
-				"resources/ext.bonusFeatures.statistics.js"
-			],
-			"dependencies": [
-				"jquery",
-				"mediawiki.api",
-				"ext.bonusFeatures.externalLibraries"
-			]
-		},
-		"ext.bonusFeatures.externalLibraries": {
-			"scripts": [
-				"https://cdn.datatables.net/2.1.2/js/dataTables.min.js",
-				"https://cdn.jsdelivr.net/npm/chart.js",
-				"https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.30.1/moment.min.js",
-				"https://cdnjs.cloudflare.com/ajax/libs/chartjs-adapter-moment/1.0.1/chartjs-adapter-moment.min.js"
-			],
-			"targets": [
-				"desktop",
-				"mobile"
-			]
-		},
 		"ext.bonusFeatures.data": {
 			"class": "ResourceLoaderFileModule",
 			"scripts": [],
@@ -95,6 +72,15 @@
 			"skipFunction": null,
 			"fileList": [
 				"resources/maddrax.json"
+			]
+		},
+		"ext.bonusFeatures.tableUpdate": {
+			"scripts": [
+				"resources/ext.bonusFeatures.tableUpdate.js"
+			],
+			"dependencies": [
+				"jquery",
+				"mediawiki.util"
 			]
 		}
 	},
