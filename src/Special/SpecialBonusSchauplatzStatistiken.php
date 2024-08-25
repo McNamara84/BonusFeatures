@@ -219,7 +219,11 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
 
     private function getMainSeriesTable()
     {
-        $haeufigkeitTable = $this->getPaginatedTable(
+        $output = "";
+
+        // Tabelle für Schauplätze nach Häufigkeit
+        $output .= "=== Schauplätze nach Häufigkeit ===\n";
+        $output .= $this->getPaginatedTable(
             'haeufigkeit',
             ['Ort', 'Häufigkeit'],
             [], // Leeres Array, da die Daten asynchron geladen werden
@@ -227,15 +231,19 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
             1
         );
 
-        $bewertungTable = $this->getPaginatedTable(
+        $output .= "\n\n"; // Füge etwas Abstand zwischen den Tabellen hinzu
+
+        // Tabelle für beliebteste Schauplätze
+        $output .= "=== Beliebteste Schauplätze ===\n";
+        $output .= $this->getPaginatedTable(
             'bewertung',
-            ['Ort', 'Durchschnittliche Bewertung'],
+            ['Ort', 'Durchschnittliche Bewertung', 'Anzahl der bewerteten Romane'],
             [], // Leeres Array, da die Daten asynchron geladen werden
             null,
             1
         );
 
-        return $haeufigkeitTable . "\n\n" . $bewertungTable;
+        return $output;
     }
 
     private function getPaginatedTable($prefix, $headers, $data, $rowCallback, $currentPage)
