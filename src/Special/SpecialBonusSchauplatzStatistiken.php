@@ -77,6 +77,8 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
                     $output->addWikiTextAsContent($this->getSeriesTable('missionmars'));
                 } elseif ($heading === "Das Volk der Tiefe" && $userPoints >= 20000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('dasvolkdertiefe'));
+                } elseif ($heading === "2012" && $userPoints >= 20000) {
+                    $output->addWikiTextAsContent($this->getSeriesTable('2012'));
                 }
             }
         } catch (\Exception $e) {

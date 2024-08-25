@@ -74,7 +74,8 @@
 				"resources/maddrax.json",
 				"resources/hardcover.json",
 				"resources/missionmars.json",
-				"resources/dasvolkdertiefe.json"
+				"resources/dasvolkdertiefe.json",
+				"resources/2012.json"
 			]
 		},
 		"ext.bonusFeatures.tableUpdate": {

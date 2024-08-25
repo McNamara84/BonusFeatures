@@ -1,0 +1,164 @@
+[
+    {
+        "nummer": 1,
+        "titel": "Botschaft aus Stein",
+        "evt": "06.09.2011",
+        "serie": "2012 - Jahr der Apokalypse",
+        "bewertung": 3.67,
+        "stimmen": 6,
+        "text": "Hubert Haensel",
+        "personen": [
+            "Tom Ericson"
+        ],
+        "orte": [
+            "Hiva Oa",
+            "M\u00e9rida"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 2,
+        "titel": "Der \u00bbMann in Wei\u00df\u00ab",
+        "evt": "20.09.2011",
+        "serie": "2012 - Jahr der Apokalypse",
+        "bewertung": 3.5,
+        "stimmen": 6,
+        "text": "Christian Schwarz",
+        "personen": [
+            "Tom Ericson"
+        ],
+        "orte": [
+            "Cozumel"
+        ],
+        "schlagworte": null
+    },
+    {
+        "nummer": 3,
+        "titel": "T\u00f6dliches Verm\u00e4chtnis",
+        "evt": "04.10.2011",
+        "serie": "2012 - Jahr der Apokalypse",
+        "bewertung": 3.33,
+        "stimmen": 6,
+        "text": "Hubert Haensel",
+        "personen": [
+            "Thomas Ericson (Apokalypse-2012-Welt)",
+            "Mann in Wei\u00df"
+        ],
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 4,
+        "titel": "Spuren der Vergangenheit",
+        "evt": "18.10.2011",
+        "serie": "2012 - Jahr der Apokalypse",
+        "bewertung": 4.29,
+        "stimmen": 7,
+        "text": "Manfred Weinland",
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 5,
+        "titel": "Der Conquistador",
+        "evt": "02.11.2011",
+        "serie": "2012 - Jahr der Apokalypse",
+        "bewertung": 3.83,
+        "stimmen": 6,
+        "text": "Manfred Weinland",
+        "personen": [
+            "Francisco Hern\u00e1ndez de C\u00f3rdoba"
+        ],
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 6,
+        "titel": "Prophet der Apokalypse",
+        "evt": "15.11.2011",
+        "serie": "2012 - Jahr der Apokalypse",
+        "bewertung": 4,
+        "stimmen": 6,
+        "text": "Manfred Weinland",
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 7,
+        "titel": "Ein Grab im Dschungel",
+        "evt": "29.11.2011",
+        "serie": "2012 - Jahr der Apokalypse",
+        "bewertung": 4.83,
+        "stimmen": 6,
+        "text": "Timothy Stahl",
+        "personen": [
+            "Tom Ericson",
+            "Alejandro Su\u00e1rez",
+            "Maria Luisa Su\u00e1rez"
+        ],
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 8,
+        "titel": "Der zeitlose Raum",
+        "evt": "13.12.2011",
+        "serie": "2012 - Jahr der Apokalypse",
+        "bewertung": 5,
+        "stimmen": 6,
+        "text": "Timothy Stahl",
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 9,
+        "titel": "Die Weltuntergangs-Maschine",
+        "evt": "27.12.2011",
+        "serie": "2012 - Jahr der Apokalypse",
+        "bewertung": 4.83,
+        "stimmen": 6,
+        "text": "Timothy Stahl",
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 10,
+        "titel": "Im Bann der Loge",
+        "evt": "10.01.2012",
+        "serie": "2012 - Jahr der Apokalypse",
+        "bewertung": 4.67,
+        "stimmen": 6,
+        "text": "Oliver Fr\u00f6hlich",
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 11,
+        "titel": "Menschheitsd\u00e4mmerung",
+        "evt": "24.01.2012",
+        "serie": "2012 - Jahr der Apokalypse",
+        "bewertung": 5,
+        "stimmen": 6,
+        "text": "Oliver Fr\u00f6hlich",
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 12,
+        "titel": "Die Nadel der G\u00f6tter",
+        "evt": "07.02.2012",
+        "serie": "2012 - Jahr der Apokalypse",
+        "bewertung": 5,
+        "stimmen": 6,
+        "text": "Oliver Fr\u00f6hlich",
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    }
+]

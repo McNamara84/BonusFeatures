@@ -59,5 +59,7 @@
     loadTableData("missionmars-bewertung");
     loadTableData("dasvolkdertiefe-haeufigkeit");
     loadTableData("dasvolkdertiefe-bewertung");
+    loadTableData("2012-haeufigkeit");
+    loadTableData("2012-bewertung");
   });
 })(jQuery, mediaWiki);
