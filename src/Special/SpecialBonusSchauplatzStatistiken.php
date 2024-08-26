@@ -4,6 +4,7 @@ namespace MediaWiki\Extension\BonusFeatures\Special;
 
 use SpecialPage;
 use MediaWiki\MediaWikiServices;
+use MediaWiki\Title\Title;
 
 class SpecialBonusSchauplatzStatistiken extends SpecialPage
 {
@@ -132,8 +133,9 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
 
     public function getTableData($prefix, $page)
     {
-        $series = explode('-', $prefix)[0];
-        $type = explode('-', $prefix)[1];
+        $parts = explode('-', $prefix);
+        $series = $parts[0];
+        $type = $parts[1];
 
         if ($series === 'maddraxiversum') {
             $jsonFiles = [
@@ -198,7 +200,7 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
             $tableData = $ortsHaeufigkeit;
             $headers = ['Ort', 'Häufigkeit'];
             $rowCallback = function ($ort, $haeufigkeit) {
-                return [$ort, $haeufigkeit];
+                return [$this->createWikiLink($ort), $haeufigkeit];
             };
         } elseif ($type === 'bewertung') {
             // Entferne Orte mit weniger als 5 bewerteten Romanen für die Bewertungstabelle
@@ -214,7 +216,7 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
             $tableData = $durchschnittsBewertungen;
             $headers = ['Ort', 'Durchschnittliche Bewertung', 'Anzahl der bewerteten Romane'];
             $rowCallback = function ($ort, $bewertung) use ($ortsBewertungen) {
-                return [$ort, number_format($bewertung, 2), $ortsBewertungen[$ort]['count']];
+                return [$this->createWikiLink($ort), number_format($bewertung, 2), $ortsBewertungen[$ort]['count']];
             };
         } else {
             return ['error' => 'Ungültiger Präfix'];
@@ -232,6 +234,17 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
             'currentPage' => $page,
             'totalPages' => $totalPages
         ];
+    }
+
+    private function createWikiLink($ort)
+    {
+        $title = Title::newFromText($ort);
+        if ($title !== null) {
+            $url = $title->getLocalURL();
+            $linkText = htmlspecialchars($ort);
+            return "<a href=\"$url\">$linkText</a>";
+        }
+        return htmlspecialchars($ort);
     }
 
     private function getUserPoints($user)
@@ -314,7 +327,11 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
 
         foreach ($paginatedData as $key => $value) {
             $row = $rowCallback($key, $value);
-            $output .= "<tr><td>" . implode("</td><td>", $row) . "</td></tr>\n";
+            $output .= "<tr>";
+            foreach ($row as $cell) {
+                $output .= "<td>" . $cell . "</td>";  // Hier wird das HTML nicht escaped
+            }
+            $output .= "</tr>\n";
         }
 
         $output .= "</tbody></table>\n";
