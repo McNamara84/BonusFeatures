@@ -55,6 +55,9 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
                 'updateUrl' => $this->getPageTitle()->getLocalURL()
             ]);
 
+            // Füge den Link zur BonusFeatures-Seite am Anfang hinzu
+            $output->addWikiTextAsContent("[[Spezial:BonusFeatures|Zurück zur Übersicht der Bonus-Features]]\n\n");
+
             $output->addWikiTextAsContent("Diese Seite bietet Statitiken zu den Schauplätzen der MADDRAX-Serie. Sie basieren auf den Daten des Maddraxikons und werden wöchentlich aktualisiert um den Server nicht zu überlasten. Die Auflistung der Schauplätze nach Häufigkeit enthält eine vollständige Liste aller Schauplätze. Die beliebtesten Schauplätze enthalten nur Schauplätze, die in mindestens 5 Romanen vorkommen. Die Durchschnittsbewertung basiert auf den Bewertungen der einzelnen Schauplätze.");
 
             // Füge die Maddraxiversum-Tabelle hinzu
@@ -86,6 +89,10 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
                     $output->addWikiTextAsContent($this->getSeriesTable('dieabenteurer'));
                 }
             }
+
+            // Füge den Link zur BonusFeatures-Seite am Ende hinzu
+            $output->addWikiTextAsContent("\n\n[[Spezial:BonusFeatures|Zurück zur Übersicht der Bonus-Features]]");
+
         } catch (\Exception $e) {
             $this->logError('Error in BonusSchauplatzStatistiken: {message}', [
                 'message' => $e->getMessage(),
