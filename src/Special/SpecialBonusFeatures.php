@@ -49,7 +49,7 @@ class SpecialBonusFeatures extends SpecialPage
         $features = [
             [
                 'title' => 'Belohnung 1: Statistiken - Schauplätze',
-                'description' => 'Als Belohnung für deine ersten Schritte hier im Maddraxikon erhältst du Zugriff auf die ausführlichen Statistiken zu Handlunsgorten der Serie. Hier findest du alle Informationen zu den Schauplätzen der Maddrax-Romane.',
+                'description' => 'Als Belohnung für deine ersten Schritte hier im Maddraxikon erhältst du Zugriff auf die ausführlichen Statistiken zu Handlunnsorten der Serie. Hier findest du alle Informationen zu den Schauplätzen der Maddrax-Romane.',
                 'requiredPoints' => 2000,
                 'linkText' => 'Zu den Schauplatz-Statistiken',
                 'linkUrl' => 'BonusSchauplatzStatistiken'
@@ -62,11 +62,25 @@ class SpecialBonusFeatures extends SpecialPage
                 'linkUrl' => 'BonusHoerbuch'
             ],
             [
-                'title' => 'Belohnung 3: Statistiken - Romanbewertungen',
-                'description' => 'Erhalte Zugriff auf die ausführlichen Statistiken zu den Romanbewertungen. Hier findest du alle Informationen zu den Bewertungen der Maddrax-Romane.',
+                'title' => 'Belohnung 3: Statistiken - Personen',
+                'description' => 'Erhalte mit 8.000 Punkten Zugriff auf die ausführlichen Statistiken zu den Charakteren der Serie. Welche Charaktere kamen häufiger vor? Welche sind die beliebtesten? Hier findest du alle Informationen zu den Charakteren der Maddrax-Romane.',
                 'requiredPoints' => 8000,
+                'linkText' => 'Zu den Personen-Statistiken',
+                'linkUrl' => 'BonusPersonenStatistiken'
+            ],
+            [
+                'title' => 'Belohnung 4: Statistiken - Romanbewertungen',
+                'description' => 'In Arbeit.',
+                'requiredPoints' => 16000,
                 'linkText' => 'Zu den Roman-Statistiken',
                 'linkUrl' => 'BonusRomanStatistiken'
+            ],
+            [
+                'title' => 'Belohnung 5: Klemmbaustein-Anleitung - Prototyp XP-1',
+                'description' => 'Mit 32.000 Punkten erhältst du Zugriff auf die Anleitung zum Bau des Prototyp XP-1 aus Klemmbausteinen. Bau Dir dein eigenes Modell des Prototyp XP-1!',
+                'requiredPoints' => 32000,
+                'linkText' => 'Zum Download',
+                'linkUrl' => 'BonusProtoAnleitung'
             ],
             // TODO: Weitere Belohnungen hinzufügen
         ];
