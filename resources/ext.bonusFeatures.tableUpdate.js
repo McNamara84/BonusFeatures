@@ -15,7 +15,7 @@
         console.log("API Response:", response);
         if (response.getTableData && response.getTableData.error) {
           console.error("API Error:", response.getTableData.error);
-          $("#" + prefix + "-container").html("<p>Error: " + response.getTableData.error + "</p>");
+          $("#" + prefix + "-container").html("<p class='cdx-message cdx-message--error'>Error: " + response.getTableData.error + "</p>");
           return;
         }
         if (response.getTableData && response.getTableData.tableHtml) {
@@ -23,7 +23,7 @@
             $("#" + prefix + "-container").html(response.getTableData.tableHtml);
 
             // Attach click events to the new pagination links
-            $("#table-" + prefix + "-pagination .prev-page, #table-" + prefix + "-pagination .next-page").on("click", function (e) {
+            $("#table-" + prefix + "-pagination .cdx-button").on("click", function (e) {
               e.preventDefault();
               var newPage = $(this).data("page");
               loadTableData(prefix, newPage);
@@ -37,19 +37,19 @@
           }
         } else {
           console.error("Unexpected API response format:", response);
-          $("#" + prefix + "-container").html("<p>Error: Unexpected API response format</p>");
+          $("#" + prefix + "-container").html("<p class='cdx-message cdx-message--error'>Error: Unexpected API response format</p>");
         }
       },
       error: function (xhr, status, error) {
         console.error("AJAX Error:", status, error);
-        $("#" + prefix + "-container").html("<p>Error: " + error + "</p>");
+        $("#" + prefix + "-container").html("<p class='cdx-message cdx-message--error'>Error: " + error + "</p>");
       },
     });
   }
 
   // Function to show loading indicator
   function showLoading(prefix) {
-    $("#" + prefix + "-container").html("<p>Loading...</p>");
+    $("#" + prefix + "-container").html("<div class='cdx-progress-bar cdx-progress-bar--inline'></div>");
   }
 
   // Initial load

@@ -321,7 +321,7 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
 
         $tableId = "table-" . $prefix;
         $output = "<div id='{$tableId}-container'>\n";
-        $output .= "<table class='wikitable sortable' id='{$tableId}'>\n";
+        $output .= "<table class='cdx-table sortable' id='{$tableId}'>\n";
         $output .= "<thead><tr><th>" . implode("</th><th>", $headers) . "</th></tr></thead>\n";
         $output .= "<tbody>\n";
 
@@ -337,16 +337,15 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
         $output .= "</tbody></table>\n";
 
         // Add pagination links
+        // Pagination-Buttons aktualisieren
         $output .= "<div class='bonusfeatures-pagination' id='{$tableId}-pagination'>\n";
         if ($currentPage > 1) {
-            $output .= "<a href='#' class='prev-page' data-prefix='{$prefix}' data-page='" . ($currentPage - 1) . "'>< Vorherige</a> ";
+            $output .= "<a href='#' class='cdx-button cdx-button--action-progressive cdx-button--weight-quiet prev-page' data-prefix='{$prefix}' data-page='" . ($currentPage - 1) . "'>< Vorherige</a> ";
         }
         $output .= "Seite {$currentPage} von {$totalPages} ";
         if ($currentPage < $totalPages) {
-            $output .= "<a href='#' class='next-page' data-prefix='{$prefix}' data-page='" . ($currentPage + 1) . "'>Nächste ></a>";
+            $output .= "<a href='#' class='cdx-button cdx-button--action-progressive cdx-button--weight-quiet next-page' data-prefix='{$prefix}' data-page='" . ($currentPage + 1) . "'>Nächste ></a>";
         }
-        $output .= "</div>\n";
-
         $output .= "</div>\n";
 
         return $output;
