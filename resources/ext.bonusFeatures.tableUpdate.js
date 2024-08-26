@@ -54,7 +54,7 @@
 
   // Initial load
   $(function () {
-    var series = ["maddrax", "hardcover", "missionmars", "dasvolkdertiefe", "2012", "dieabenteurer"];
+    var series = ["maddraxiversum", "maddrax", "hardcover", "missionmars", "dasvolkdertiefe", "2012", "dieabenteurer"];
     var types = ["haeufigkeit", "bewertung"];
 
     series.forEach(function (serie) {

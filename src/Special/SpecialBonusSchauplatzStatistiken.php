@@ -57,8 +57,11 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
 
             $output->addWikiTextAsContent("Diese Seite bietet Statitiken zu den Schauplätzen der MADDRAX-Serie. Sie basieren auf den Daten des Maddraxikons und werden wöchentlich aktualisiert um den Server nicht zu überlasten. Die Auflistung der Schauplätze nach Häufigkeit enthält eine vollständige Liste aller Schauplätze. Die beliebtesten Schauplätze enthalten nur Schauplätze, die in mindestens 5 Romanen vorkommen. Die Durchschnittsbewertung basiert auf den Bewertungen der einzelnen Schauplätze.");
 
+            // Füge die Maddraxiversum-Tabelle hinzu
+            $output->addWikiTextAsContent("== Maddraxiversum ==\n");
+            $output->addWikiTextAsContent($this->getMaddraxiversumTable());
+
             $headings = [
-                "Maddraxiversum",
                 "Hauptserie",
                 "Hardcover",
                 "Mission Mars",
@@ -125,45 +128,60 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
         $series = explode('-', $prefix)[0];
         $type = explode('-', $prefix)[1];
 
-        $jsonFile = __DIR__ . '/../../resources/' . $series . '.json';
-
-        if (!file_exists($jsonFile)) {
-            $this->logError('JSON file not found: {file}', ['file' => $jsonFile]);
-            return ['error' => 'JSON-Datei nicht gefunden'];
-        }
-
-        $jsonData = file_get_contents($jsonFile);
-        if ($jsonData === false) {
-            $this->logError('Could not read JSON file: {file}', ['file' => $jsonFile]);
-            return ['error' => 'Konnte JSON-Datei nicht lesen'];
-        }
-
-        $data = json_decode($jsonData, true);
-        if (json_last_error() !== JSON_ERROR_NONE) {
-            $this->logError('JSON decoding error: {error}', ['error' => json_last_error_msg()]);
-            return ['error' => 'JSON-Decodierungsfehler: ' . json_last_error_msg()];
+        if ($series === 'maddraxiversum') {
+            $jsonFiles = [
+                'maddrax',
+                'hardcover',
+                'missionmars',
+                'dasvolkdertiefe',
+                '2012',
+                'dieabenteurer'
+            ];
+        } else {
+            $jsonFiles = [$series];
         }
 
         $ortsHaeufigkeit = [];
         $ortsBewertungen = [];
 
-        foreach ($data as $roman) {
-            // Zähle Häufigkeit für alle Romane
-            foreach ($roman['orte'] as $ort) {
-                if (!isset($ortsHaeufigkeit[$ort])) {
-                    $ortsHaeufigkeit[$ort] = 0;
-                }
-                $ortsHaeufigkeit[$ort]++;
+        foreach ($jsonFiles as $file) {
+            $jsonFile = __DIR__ . '/../../resources/' . $file . '.json';
+
+            if (!file_exists($jsonFile)) {
+                $this->logError('JSON file not found: {file}', ['file' => $jsonFile]);
+                continue;
             }
 
-            // Berücksichtige Bewertungen nur für Romane mit mindestens 5 Stimmen
-            if ($roman['stimmen'] >= 5) {
+            $jsonData = file_get_contents($jsonFile);
+            if ($jsonData === false) {
+                $this->logError('Could not read JSON file: {file}', ['file' => $jsonFile]);
+                continue;
+            }
+
+            $data = json_decode($jsonData, true);
+            if (json_last_error() !== JSON_ERROR_NONE) {
+                $this->logError('JSON decoding error: {error}', ['error' => json_last_error_msg()]);
+                continue;
+            }
+
+            foreach ($data as $roman) {
+                // Zähle Häufigkeit für alle Romane
                 foreach ($roman['orte'] as $ort) {
-                    if (!isset($ortsBewertungen[$ort])) {
-                        $ortsBewertungen[$ort] = ['sum' => 0, 'count' => 0];
+                    if (!isset($ortsHaeufigkeit[$ort])) {
+                        $ortsHaeufigkeit[$ort] = 0;
                     }
-                    $ortsBewertungen[$ort]['sum'] += $roman['bewertung'];
-                    $ortsBewertungen[$ort]['count']++;
+                    $ortsHaeufigkeit[$ort]++;
+                }
+
+                // Berücksichtige Bewertungen nur für Romane mit mindestens 5 Stimmen
+                if ($roman['stimmen'] >= 5) {
+                    foreach ($roman['orte'] as $ort) {
+                        if (!isset($ortsBewertungen[$ort])) {
+                            $ortsBewertungen[$ort] = ['sum' => 0, 'count' => 0];
+                        }
+                        $ortsBewertungen[$ort]['sum'] += $roman['bewertung'];
+                        $ortsBewertungen[$ort]['count']++;
+                    }
                 }
             }
         }
@@ -246,6 +264,27 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
         $output .= "<div id='{$series}-bewertung-section'>\n";
         $output .= "<h3>Beliebteste Schauplätze</h3>\n";
         $output .= "<div id='{$series}-bewertung-container'></div>\n";
+        $output .= "</div>\n";
+
+        return $output;
+    }
+
+    private function getMaddraxiversumTable()
+    {
+        $output = "";
+
+        // Container für Schauplätze nach Häufigkeit
+        $output .= "<div id='maddraxiversum-haeufigkeit-section'>\n";
+        $output .= "<h3>Schauplätze nach Häufigkeit</h3>\n";
+        $output .= "<div id='maddraxiversum-haeufigkeit-container'></div>\n";
+        $output .= "</div>\n";
+
+        $output .= "\n\n"; // Füge etwas Abstand zwischen den Tabellen hinzu
+
+        // Container für beliebteste Schauplätze
+        $output .= "<div id='maddraxiversum-bewertung-section'>\n";
+        $output .= "<h3>Beliebteste Schauplätze</h3>\n";
+        $output .= "<div id='maddraxiversum-bewertung-container'></div>\n";
         $output .= "</div>\n";
 
         return $output;
