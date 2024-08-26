@@ -23,12 +23,16 @@ class SpecialBonusHoerbuch extends SpecialPage
         $output->setPageTitle($this->msg('bonushoerbuch-title'));
 
         $userPoints = $this->getUserPoints($user);
+        // Füge den Link zur BonusFeatures-Seite am Anfang hinzu
+        $output->addWikiTextAsContent("[[Spezial:BonusFeatures|Zurück zur Übersicht der Bonus-Features]]\n\n");
 
         if ($userPoints >= 4000) {
             $output->addHTML($this->renderHoerbuecher());
         } else {
             $output->addHTML("<p>Du benötigst mindestens 4000 Punkte, um auf diese Seite zugreifen zu können.</p>");
         }
+        // Füge den Link zur BonusFeatures-Seite am Ende hinzu
+        $output->addWikiTextAsContent("[[Spezial:BonusFeatures|Zurück zur Übersicht der Bonus-Features]]\n\n");
     }
 
     private function getUserPoints($user)
@@ -49,7 +53,7 @@ class SpecialBonusHoerbuch extends SpecialPage
     private function renderHoerbuecher()
     {
         $html = "<div class='bonus-hoerbuecher'>";
-        $html .= "<h2>Exklusives Hörbuch für fleißige Maddraxikaner vor der eigentlichen Veröffentlichung hören</h2>";
+        $html .= "<p>Hier kannst du exklusiv das nächste Hörbuch noch vor der eigentlichen Veröffentlichung hören.</p>";
 
         // Hier können Sie die YouTube-Videos einbinden
         $videos = [
