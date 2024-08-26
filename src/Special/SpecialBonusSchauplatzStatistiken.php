@@ -58,7 +58,7 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
             // Füge den Link zur BonusFeatures-Seite am Anfang hinzu
             $output->addWikiTextAsContent("[[Spezial:BonusFeatures|Zurück zur Übersicht der Bonus-Features]]\n\n");
 
-            $output->addWikiTextAsContent("Diese Seite bietet Statitiken zu den Schauplätzen der MADDRAX-Serie. Sie basieren auf den Daten des Maddraxikons und werden wöchentlich aktualisiert um den Server nicht zu überlasten. Die Auflistung der Schauplätze nach Häufigkeit enthält eine vollständige Liste aller Schauplätze. Die beliebtesten Schauplätze enthalten nur Schauplätze, die in mindestens 5 Romanen vorkommen. Die Durchschnittsbewertung basiert auf den Bewertungen der einzelnen Schauplätze.");
+            $output->addWikiTextAsContent("Diese Seite bietet Statitiken zu den Schauplätzen der MADDRAX-Serie. Sie basieren auf den Daten des Maddraxikons und werden wöchentlich aktualisiert um den Server nicht zu überlasten. Die Auflistung der Häufigste Schauplätze enthält eine vollständige Liste aller Schauplätze. Die beliebtesten Schauplätze enthalten nur Schauplätze, die in mindestens 5 Romanen vorkommen. Die Durchschnittsbewertung basiert auf den Bewertungen der einzelnen Schauplätze.");
 
             // Füge die Maddraxiversum-Tabelle hinzu
             $output->addWikiTextAsContent("== Maddraxiversum ==\n");
@@ -259,17 +259,17 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
     {
         $output = "";
 
-        // Container für Schauplätze nach Häufigkeit
+        // Tabelle für Häufigste Schauplätze
+        $output .= "=== Häufigste Schauplätze ===\n";
         $output .= "<div id='{$series}-haeufigkeit-section'>\n";
-        $output .= "<h3>Schauplätze nach Häufigkeit</h3>\n";
         $output .= "<div id='{$series}-haeufigkeit-container'></div>\n";
         $output .= "</div>\n";
 
         $output .= "\n\n"; // Füge etwas Abstand zwischen den Tabellen hinzu
 
-        // Container für beliebteste Schauplätze
+        // Tabelle für beliebteste Schauplätze
+        $output .= "=== Beliebteste Schauplätze ===\n";
         $output .= "<div id='{$series}-bewertung-section'>\n";
-        $output .= "<h3>Beliebteste Schauplätze</h3>\n";
         $output .= "<div id='{$series}-bewertung-container'></div>\n";
         $output .= "</div>\n";
 
@@ -280,17 +280,17 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
     {
         $output = "";
 
-        // Container für Schauplätze nach Häufigkeit
+        // Container für Häufigste Schauplätze
+        $output .= "=== Häufigste Schauplätze ===\n";
         $output .= "<div id='maddraxiversum-haeufigkeit-section'>\n";
-        $output .= "<h3>Schauplätze nach Häufigkeit</h3>\n";
         $output .= "<div id='maddraxiversum-haeufigkeit-container'></div>\n";
         $output .= "</div>\n";
 
         $output .= "\n\n"; // Füge etwas Abstand zwischen den Tabellen hinzu
 
         // Container für beliebteste Schauplätze
+        $output .= "=== Beliebteste Schauplätze ===\n";
         $output .= "<div id='maddraxiversum-bewertung-section'>\n";
-        $output .= "<h3>Beliebteste Schauplätze</h3>\n";
         $output .= "<div id='maddraxiversum-bewertung-container'></div>\n";
         $output .= "</div>\n";
 
