@@ -69,15 +69,15 @@ class SpecialBonusFeatures extends SpecialPage
                 'linkUrl' => 'BonusPersonenStatistiken'
             ],
             [
-                'title' => 'Belohnung 4: Statistiken - Romanbewertungen',
-                'description' => 'In Arbeit.',
+                'title' => 'Belohnung 4: Statistiken - Autoren',
+                'description' => 'Wer hat am meisten Romane im Maddraxiversum verfasst? Welcher Autor schreibt die am besten bewerteten Romane? Mit 16.000 Punkten erhältst du Zugriff auf die ausführlichen Statistiken zu den Autoren der Serie.',
                 'requiredPoints' => 16000,
-                'linkText' => 'Zu den Roman-Statistiken',
-                'linkUrl' => 'BonusRomanStatistiken'
+                'linkText' => 'Zu den Autoren-Statistiken',
+                'linkUrl' => 'BonusAutorenStatistiken'
             ],
             [
                 'title' => 'Belohnung 5: Klemmbaustein-Anleitung - Prototyp XP-1',
-                'description' => 'Mit 32.000 Punkten erhältst du Zugriff auf die Anleitung zum Bau des Prototyp XP-1 aus Klemmbausteinen. Bau Dir dein eigenes Modell des Prototyp XP-1!',
+                'description' => 'IN ARBEIT: Mit 32.000 Punkten erhältst du Zugriff auf die Anleitung zum Bau des Prototyp XP-1 aus Klemmbausteinen. Bau Dir dein eigenes Modell des Prototyp XP-1!',
                 'requiredPoints' => 32000,
                 'linkText' => 'Zum Download',
                 'linkUrl' => 'BonusProtoAnleitung'
