@@ -6,7 +6,9 @@
         "zyklus": "Afra (Zyklus)",
         "bewertung": 3.43,
         "stimmen": 7,
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "personen": [
             "Kinga",
             "Lourdes de Rozier"
@@ -23,7 +25,9 @@
         "zyklus": "Afra (Zyklus)",
         "bewertung": 3.57,
         "stimmen": 7,
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "personen": [
             "Kinga",
             "Nabuu",
@@ -42,7 +46,9 @@
         "zyklus": "Afra (Zyklus)",
         "bewertung": 3.71,
         "stimmen": 7,
-        "text": "Mia Zorn",
+        "text": [
+            "Mia Zorn"
+        ],
         "personen": [
             "Nabuu",
             "Antoinette de Rozier",
@@ -62,7 +68,9 @@
         "zyklus": "Afra (Zyklus)",
         "bewertung": 3.43,
         "stimmen": 7,
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "personen": [
             "Tom Percival",
             "Jan van der Groot",
@@ -84,7 +92,9 @@
         "zyklus": "Afra (Zyklus)",
         "bewertung": 4.14,
         "stimmen": 7,
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "personen": [
             "Jan van der Groot",
             "Charles Poronyoma",
@@ -107,7 +117,9 @@
         "zyklus": "Afra (Zyklus)",
         "bewertung": 3.33,
         "stimmen": 6,
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "personen": [
             "Charles Poronyoma",
             "Maren Verbeck",
@@ -134,7 +146,9 @@
         "zyklus": "Afra (Zyklus)",
         "bewertung": 4.13,
         "stimmen": 8,
-        "text": "Dario Vandis",
+        "text": [
+            "Dario Vandis"
+        ],
         "personen": null,
         "orte": null,
         "schlagworte": null
@@ -146,7 +160,9 @@
         "zyklus": "Afra (Zyklus)",
         "bewertung": 4.14,
         "stimmen": 7,
-        "text": "Dario Vandis",
+        "text": [
+            "Dario Vandis"
+        ],
         "personen": null,
         "orte": null,
         "schlagworte": null
@@ -158,7 +174,9 @@
         "zyklus": "Afra (Zyklus)",
         "bewertung": 3.83,
         "stimmen": 6,
-        "text": "Dario Vandis",
+        "text": [
+            "Dario Vandis"
+        ],
         "personen": null,
         "orte": null,
         "schlagworte": null
@@ -170,7 +188,10 @@
         "zyklus": "Afra (Zyklus)",
         "bewertung": 3.67,
         "stimmen": 6,
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern",
+            "Stephanie Seidel"
+        ],
         "personen": null,
         "orte": null,
         "schlagworte": null
@@ -182,7 +203,10 @@
         "zyklus": "Afra (Zyklus)",
         "bewertung": 4.33,
         "stimmen": 6,
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel",
+            "Claudia Kern"
+        ],
         "personen": null,
         "orte": null,
         "schlagworte": null
@@ -194,7 +218,10 @@
         "zyklus": "Afra (Zyklus)",
         "bewertung": 4.67,
         "stimmen": 6,
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern",
+            "Stephanie Seidel"
+        ],
         "personen": null,
         "orte": null,
         "schlagworte": null

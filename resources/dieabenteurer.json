@@ -6,37 +6,95 @@
         "serie": "Die Abenteurer-Heftromane",
         "bewertung": 5,
         "stimmen": 2,
-        "text": "Hubert H. Simon",
+        "text": [
+            "Hubert H. Simon"
+        ],
         "personen": [
             "Thomas Ericson",
-            "Gudrun Heber"
+            "Gudrun Heber",
+            "Ernest Radcliffe",
+            "Jack Ryan",
+            "Richard Dean Karney",
+            "Suzy Duvall",
+            "Wilson Hamby",
+            "Jim Wymen",
+            "Thomelli",
+            "Kernach",
+            "Kalyssos",
+            "Kantiri"
         ],
-        "orte": null,
-        "schlagworte": null
+        "orte": [
+            "Phoenixinseln",
+            "Gardner",
+            "Yale-Universit\u00e4t",
+            "New Haven",
+            "Connecticut",
+            "Delphi"
+        ],
+        "schlagworte": [
+            "Gardner-Insel",
+            "Pyramide",
+            "Kristallaugen",
+            "Goldene Maske",
+            "W\u00e4chter",
+            "Telepathie",
+            "Arch\u00e4ologie",
+            "Untergegangene Kultur",
+            "Apokalyptische Visionen",
+            "Khom"
+        ]
     },
     {
         "nummer": 2,
         "titel": "Die Insel der G\u00f6tter",
-        "evt": "???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.Der Datenwert \u201e???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.",
+        "evt": "19.05.1992",
         "serie": "Die Abenteurer-Heftromane",
         "bewertung": 5,
         "stimmen": null,
-        "text": "Hubert H. Simon",
+        "text": [
+            "Hubert H. Simon"
+        ],
         "personen": [
             "Thomas Ericson",
-            "Gudrun Heber"
+            "Gudrun Heber",
+            "Franco Thomelli",
+            "Richard Dean Karney",
+            "Suzy Duvall",
+            "Huanna",
+            "Khom",
+            "Kernach",
+            "Kalyssos",
+            "Wilson Hamby"
         ],
-        "orte": null,
-        "schlagworte": null
+        "orte": [
+            "Gardner",
+            "Pazifik",
+            "Atlantis",
+            "Tibet"
+        ],
+        "schlagworte": [
+            "Kristallauge",
+            "Khom",
+            "Atlantis",
+            "Arch\u00e4ologe",
+            "Komet",
+            "Insel der G\u00f6tter",
+            "Goldmaske",
+            "Apokalypse",
+            "Hubschrauber",
+            "Symbiont"
+        ]
     },
     {
         "nummer": 3,
         "titel": "Die unsichtbare Macht",
-        "evt": null,
+        "evt": "02.06.1992",
         "serie": "Die Abenteurer-Heftromane",
         "bewertung": 4,
         "stimmen": null,
-        "text": "Hubert H. Simon",
+        "text": [
+            "Hubert H. Simon"
+        ],
         "personen": [
             "Thomas Ericson",
             "Gudrun Heber"
@@ -47,11 +105,13 @@
     {
         "nummer": 4,
         "titel": "Das Erbe von Stonehenge",
-        "evt": null,
+        "evt": "16.06.1992",
         "serie": "Die Abenteurer-Heftromane",
         "bewertung": 5,
         "stimmen": null,
-        "text": "Frank Thys",
+        "text": [
+            "Frank Thys"
+        ],
         "personen": [
             "Thomas Ericson",
             "Gudrun Heber"
@@ -62,11 +122,13 @@
     {
         "nummer": 5,
         "titel": "Die versunkene Stadt",
-        "evt": null,
+        "evt": "30.06.1992",
         "serie": "Die Abenteurer-Heftromane",
         "bewertung": 3,
         "stimmen": null,
-        "text": "Hubert H. Simon",
+        "text": [
+            "Hubert H. Simon"
+        ],
         "personen": [
             "Thomas Ericson",
             "Gudrun Heber",
@@ -78,27 +140,55 @@
     {
         "nummer": 6,
         "titel": "Das Schiff des Todes",
-        "evt": null,
+        "evt": "14.07.1992",
         "serie": "Die Abenteurer-Heftromane",
         "bewertung": 5,
         "stimmen": null,
-        "text": "Hubert H. Simon",
+        "text": [
+            "Hubert H. Simon"
+        ],
         "personen": [
+            "Suzy Duvall",
             "Thomas Ericson",
             "Gudrun Heber",
-            "Connor"
+            "Connor",
+            "Giuseppe Moreno",
+            "Jonathan Harper",
+            "Steven Copburn",
+            "McArthur",
+            "Op de Meeren",
+            "Tako Nagati",
+            "Kahasan Samosir",
+            "Antonio Bellinzoni",
+            "Runeme",
+            "Jim Miller",
+            "LeClerc",
+            "Christopher Drake",
+            "James Weyers",
+            "Robert Lautner",
+            "Maureen Ibsen",
+            "Alan Banister",
+            "Ian Sutherland",
+            "Pierre Leroy",
+            "Madhav Sangosti",
+            "Cahuna"
         ],
-        "orte": null,
+        "orte": [
+            "SEA QUEEN",
+            "OCTOPUS"
+        ],
         "schlagworte": null
     },
     {
         "nummer": 7,
         "titel": "Die Brut",
-        "evt": null,
+        "evt": "28.07.1992",
         "serie": "Die Abenteurer-Heftromane",
         "bewertung": 3,
         "stimmen": null,
-        "text": "Marten Veit",
+        "text": [
+            "Marten Veit"
+        ],
         "personen": [
             "Pierre Leroy"
         ],
@@ -108,11 +198,13 @@
     {
         "nummer": 8,
         "titel": "Der Goldkopf von Yukatan",
-        "evt": null,
+        "evt": "11.08.1992",
         "serie": "Die Abenteurer-Heftromane",
         "bewertung": 5,
         "stimmen": null,
-        "text": "Hubert H. Simon",
+        "text": [
+            "Hubert H. Simon"
+        ],
         "personen": [
             "Thomas Ericson",
             "Gudrun Heber"
@@ -126,11 +218,13 @@
     {
         "nummer": 9,
         "titel": "Das Tor der R\u00e4tsel",
-        "evt": null,
+        "evt": "25.08.1992",
         "serie": "Die Abenteurer-Heftromane",
         "bewertung": 4,
         "stimmen": null,
-        "text": "Marten Veit",
+        "text": [
+            "Marten Veit"
+        ],
         "personen": [
             "Thomas Ericson",
             "Gudrun Heber",
@@ -142,11 +236,13 @@
     {
         "nummer": 10,
         "titel": "Der Weg des Orakels",
-        "evt": "???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.Der Datenwert \u201e???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.",
+        "evt": "08.09.1992",
         "serie": "Die Abenteurer-Heftromane",
         "bewertung": 5,
         "stimmen": null,
-        "text": "Robert de Vries",
+        "text": [
+            "Robert de Vries"
+        ],
         "personen": [
             "Thomas Ericson",
             "Gudrun Heber",
@@ -159,11 +255,13 @@
     {
         "nummer": 11,
         "titel": "Todesfalle Bangkok",
-        "evt": "???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.Der Datenwert \u201e???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.",
+        "evt": "22.09.1992",
         "serie": "Die Abenteurer-Heftromane",
         "bewertung": 2,
         "stimmen": null,
-        "text": "Frank Thys",
+        "text": [
+            "Frank Thys"
+        ],
         "personen": [
             "Thomas Ericson",
             "Gudrun Heber",
@@ -176,11 +274,13 @@
     {
         "nummer": 12,
         "titel": "Der \u00bbMann in Schwarz\u00ab",
-        "evt": "???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.Der Datenwert \u201e???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.",
+        "evt": "06.10.1992",
         "serie": "Die Abenteurer-Heftromane",
         "bewertung": 5,
         "stimmen": null,
-        "text": "Hubert H. Simon",
+        "text": [
+            "Hubert H. Simon"
+        ],
         "personen": [
             "Thomas Ericson",
             "Gudrun Heber",
@@ -194,11 +294,13 @@
     {
         "nummer": 13,
         "titel": "Wo Menschen wie G\u00f6tter sind...",
-        "evt": "???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.Der Datenwert \u201e???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.",
+        "evt": "20.10.1992",
         "serie": "Die Abenteurer-Heftromane",
         "bewertung": 4,
         "stimmen": null,
-        "text": "Frank Thys",
+        "text": [
+            "Frank Thys"
+        ],
         "personen": [
             "Thomas Ericson",
             "Gudrun Heber",
@@ -212,11 +314,13 @@
     {
         "nummer": 14,
         "titel": "Kloster der Pr\u00fcfungen",
-        "evt": "???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.Der Datenwert \u201e???Der Datenwert \u201e???\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.\u201c enth\u00e4lt einen Gedankenstrich oder andere f\u00fcr die Interpretation der Datumsangabe ung\u00fcltige Zeichen.",
+        "evt": "03.11.1992",
         "serie": "Die Abenteurer-Heftromane",
         "bewertung": 5,
         "stimmen": null,
-        "text": "Robert de Vries",
+        "text": [
+            "Robert de Vries"
+        ],
         "personen": [
             "Thomas Ericson",
             "Gudrun Heber",
@@ -224,6 +328,413 @@
             "Valerie Gideon",
             "Ian Sutherland"
         ],
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 15,
+        "titel": "Auf dem Dach der Welt",
+        "evt": "17.11.1992",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Marten Veit"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 16,
+        "titel": "Das Grab des ersten Kaisers",
+        "evt": "01.12.1992",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Hubert H. Simon"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 17,
+        "titel": "Die Stadt der Skelette",
+        "evt": "15.12.1992",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Hubert H. Simon"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 18,
+        "titel": "Im Reich der G\u00f6ttin Khom",
+        "evt": "29.12.1992",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Robert de Vries"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 19,
+        "titel": "Inferno unter dem Meer",
+        "evt": "12.01.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Hubert H. Simon"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 20,
+        "titel": "Der Zerst\u00f6rer",
+        "evt": "26.01.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Robert de Vries"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 21,
+        "titel": "Der Fluch der Maske",
+        "evt": "09.02.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Wolfgang Hohlbein"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 22,
+        "titel": "Terror in New York",
+        "evt": "23.02.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Hubert H. Simon"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 23,
+        "titel": "T\u00f6te Sutherland!",
+        "evt": "09.03.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Robert de Vries"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 24,
+        "titel": "Die steinernen G\u00f6tter",
+        "evt": "23.03.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Frank Thys"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 25,
+        "titel": "Das Geheimnis von Oake D\u00f9n",
+        "evt": "06.04.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Hubert H. Simon"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 26,
+        "titel": "Das Camp am Ayers Rock",
+        "evt": "20.04.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "K. H. Prie\u00df"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 27,
+        "titel": "R\u00e4tsel der Vergangenheit",
+        "evt": "04.05.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Hubert H. Simon"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 28,
+        "titel": "Tod im Moor",
+        "evt": "18.05.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "K. H. Prie\u00df"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 29,
+        "titel": "Der Gralsj\u00e4ger",
+        "evt": "01.06.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Hubert H. Simon"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 30,
+        "titel": "Elwood",
+        "evt": "15.06.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Robert de Vries"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 31,
+        "titel": "Das Versteck der Bundeslade",
+        "evt": "29.06.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "K. H. Prie\u00df"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 32,
+        "titel": "Der H\u00f6llenschlund",
+        "evt": "13.07.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Hubert H. Simon"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 33,
+        "titel": "Traumzeit",
+        "evt": "27.07.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Marten Veit"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 34,
+        "titel": "Im Land der Kreuzritter",
+        "evt": "10.08.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Robert de Vries"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 35,
+        "titel": "Das Ende der Tempelritter",
+        "evt": "24.08.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Robert de Vries"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 36,
+        "titel": "Sturm auf Oake D\u00f9n",
+        "evt": "07.09.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Hubert H. Simon"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 37,
+        "titel": "Der Tyrann von Guatemala",
+        "evt": "21.09.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Marten Veit"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 38,
+        "titel": "Der Rinderbaron",
+        "evt": "05.10.1993",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Marten Veit"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 39,
+        "titel": "Das Verm\u00e4chtnis der Tempelritter",
+        "evt": "04.2000",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Frank Thys",
+            "Marten Veit"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 40,
+        "titel": "Die Macht der Lade",
+        "evt": "04.2000",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Hubert H. Simon"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 41,
+        "titel": "J\u00e4ger und Gejagte",
+        "evt": "04.2000",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Robert de Vries"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 42,
+        "titel": "Kars Triumph",
+        "evt": "04.2000",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Robert de Vries"
+        ],
+        "personen": null,
+        "orte": null,
+        "schlagworte": null
+    },
+    {
+        "nummer": 43,
+        "titel": "Die schwarze Pyramide",
+        "evt": "04.2000",
+        "serie": "Die Abenteurer-Heftromane",
+        "bewertung": 0,
+        "stimmen": 0,
+        "text": [
+            "Robert de Vries"
+        ],
+        "personen": null,
         "orte": null,
         "schlagworte": null
     }

@@ -29,6 +29,9 @@
 		},
 		"BonusPersonenStatistiken": {
 			"class": "MediaWiki\\Extension\\BonusFeatures\\Special\\SpecialBonusPersonenStatistiken"
+		},
+		"BonusAutorenStatistiken": {
+			"class": "MediaWiki\\Extension\\BonusFeatures\\Special\\SpecialBonusAutorenStatistiken"
 		}
 	},
 	"MessagesDirs": {

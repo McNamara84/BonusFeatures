@@ -41,6 +41,8 @@
               console.log("Schauplatz-spezifische Aktionen können hier hinzugefügt werden");
             } else if (statisticType === "person") {
               console.log("Personen-spezifische Aktionen können hier hinzugefügt werden");
+            } else if (statisticType === "autor") {
+              console.log("Autoren-spezifische Aktionen können hier hinzugefügt werden");
             }
           } else {
             // Wenn keine Daten vorhanden sind, entferne den gesamten Section-Container

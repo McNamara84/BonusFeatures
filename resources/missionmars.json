@@ -6,7 +6,9 @@
         "zyklus": "Mars (Zyklus)",
         "bewertung": 5,
         "stimmen": 8,
-        "text": "Wolfgang Hohlbein",
+        "text": [
+            "Wolfgang Hohlbein"
+        ],
         "personen": [
             "John Carter",
             "Han Suo Kang",
@@ -32,7 +34,9 @@
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.71,
         "stimmen": 7,
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "personen": [
             "John Carter",
             "Han Suo Kang",
@@ -58,7 +62,9 @@
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.43,
         "stimmen": 7,
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "personen": [
             "Akina Tsuyoshi",
             "John Carter",
@@ -87,7 +93,9 @@
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.43,
         "stimmen": 7,
-        "text": "Frank Thys",
+        "text": [
+            "Frank Thys"
+        ],
         "personen": [
             "Michael Tsuyoshi",
             "Sharice Angelis",
@@ -116,7 +124,9 @@
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.29,
         "stimmen": 7,
-        "text": "Frank Thys",
+        "text": [
+            "Frank Thys"
+        ],
         "personen": [
             "Pascal Saintdemar",
             "Michael Tsuyoshi",
@@ -143,7 +153,9 @@
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.29,
         "stimmen": 7,
-        "text": "Frank Thys",
+        "text": [
+            "Frank Thys"
+        ],
         "personen": [
             "Michael Tsuyoshi",
             "Sharice Angelis",
@@ -169,7 +181,10 @@
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4,
         "stimmen": 7,
-        "text": "Timothy Stahl",
+        "text": [
+            "Timothy Stahl",
+            "Manfred Weinland"
+        ],
         "personen": [
             "Eiila Angelis",
             "Barton Angelis",
@@ -199,7 +214,10 @@
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.29,
         "stimmen": 7,
-        "text": "Timothy Stahl",
+        "text": [
+            "Timothy Stahl",
+            "Manfred Weinland"
+        ],
         "personen": [
             "Shola Angelis",
             "Darven Angelis",
@@ -231,7 +249,10 @@
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.29,
         "stimmen": 7,
-        "text": "Timothy Stahl",
+        "text": [
+            "Timothy Stahl",
+            "Manfred Weinland"
+        ],
         "personen": [
             "Darven Angelis",
             "Shola Angelis",
@@ -264,7 +285,9 @@
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.43,
         "stimmen": 7,
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "personen": [
             "Vera Akinora Tsuyoshi",
             "John Carter Tsuyoshi",
@@ -300,7 +323,9 @@
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.43,
         "stimmen": 7,
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "personen": [
             "Maya Joy Tsuyoshi",
             "Leto Angelis",
@@ -331,7 +356,9 @@
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.43,
         "stimmen": 7,
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "personen": [
             "Maya Joy Tsuyoshi",
             "Lorres Rauld Gonzales",

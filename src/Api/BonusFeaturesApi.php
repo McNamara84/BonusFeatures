@@ -4,6 +4,7 @@ namespace MediaWiki\Extension\BonusFeatures\Api;
 use ApiBase;
 use MediaWiki\Extension\BonusFeatures\Special\SpecialBonusSchauplatzStatistiken;
 use MediaWiki\Extension\BonusFeatures\Special\SpecialBonusPersonenStatistiken;
+use MediaWiki\Extension\BonusFeatures\Special\SpecialBonusAutorenStatistiken;
 
 class BonusFeaturesApi extends ApiBase
 {
@@ -14,6 +15,8 @@ class BonusFeaturesApi extends ApiBase
 
         if ($statisticType === 'person') {
             $specialPage = new SpecialBonusPersonenStatistiken();
+        } elseif ($statisticType === 'autor') {
+            $specialPage = new SpecialBonusAutorenStatistiken();
         } else {
             $specialPage = new SpecialBonusSchauplatzStatistiken();
         }

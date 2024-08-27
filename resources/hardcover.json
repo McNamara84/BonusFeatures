@@ -6,7 +6,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 5,
         "stimmen": 11,
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "personen": [
             "Matthew Drax",
             "Archer Floyd",
@@ -83,7 +85,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 5,
         "stimmen": 8,
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "personen": [
             "Joseph Floyd Watonga",
             "Merlin Roots",
@@ -155,7 +159,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 2.4,
         "stimmen": 5,
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "personen": [
             "Urgaza",
             "Murrzek",
@@ -214,7 +220,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 2.33,
         "stimmen": 3,
-        "text": "Timothy Stahl",
+        "text": [
+            "Timothy Stahl"
+        ],
         "personen": [
             "Salomon Moss",
             "Jack Millar",
@@ -274,7 +282,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 3.4,
         "stimmen": 5,
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "personen": [
             "Navok",
             "Tasja",
@@ -335,7 +345,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 2,
         "stimmen": 4,
-        "text": "Michael J. Parrish",
+        "text": [
+            "Michael J. Parrish"
+        ],
         "personen": [
             "Alcam von Asmark",
             "Bork",
@@ -372,7 +384,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 4.2,
         "stimmen": 5,
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "personen": [
             "Orlok (Person)",
             "Esgard",
@@ -414,7 +428,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 4.6,
         "stimmen": 5,
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "personen": [
             "Eve Carlyle",
             "David Peterson",
@@ -482,7 +498,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 4.33,
         "stimmen": 6,
-        "text": "Michael J. Parrish",
+        "text": [
+            "Michael J. Parrish"
+        ],
         "personen": [
             "Gordon O'Reilly",
             "McNamara",
@@ -528,7 +546,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 4.2,
         "stimmen": 5,
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "personen": [
             "Matthew Drax",
             "Charistoos Onssis",
@@ -588,7 +608,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 3,
         "stimmen": 5,
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "personen": [
             "Roger Gunn",
             "Esther Cohen",
@@ -644,7 +666,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 2.2,
         "stimmen": 5,
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "personen": [
             "Jo'dan",
             "Leelee",
@@ -688,7 +712,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 2.25,
         "stimmen": 4,
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "personen": [
             "Rev'rend Fury",
             "Alec Smart",
@@ -735,7 +761,10 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 2,
         "stimmen": 5,
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell",
+            "Mia Zorn"
+        ],
         "personen": [
             "Rulfan (Person)",
             "Canduly Reesa",
@@ -808,7 +837,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 2.5,
         "stimmen": 4,
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "personen": [
             "Mr. Black",
             "Mr. White",
@@ -866,7 +897,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 2,
         "stimmen": 3,
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "personen": [
             "Maladis",
             "Julo",
@@ -883,7 +916,8 @@
         ],
         "schlagworte": null,
         "orte": [
-            "Floydaa"
+            "Floydaa",
+            "Canaral"
         ]
     },
     {
@@ -893,7 +927,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 1,
         "stimmen": 4,
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel"
+        ],
         "personen": [
             "Matthew Drax",
             "Aruula",
@@ -930,7 +966,12 @@
         ],
         "schlagworte": null,
         "orte": [
-            "Iskat\u00e1n"
+            "Iskat\u00e1n",
+            "Rio Grande",
+            "Texcoco-See",
+            "Tenochtitl\u00e1n",
+            "Chapultepec",
+            "Las Cruces"
         ]
     },
     {
@@ -940,7 +981,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 1,
         "stimmen": 3,
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "personen": [
             "Rev'rend Rage",
             "Rev'rend Blood",
@@ -962,25 +1005,17 @@
         "orte": [
             "Godswill",
             "London",
-            "\u00c4rmelkanal",
-            "Murnau",
-            "Staffelsee",
-            "Eifel",
-            "N\u00fcrburgring",
-            "Z\u00fcrich",
             "Venedig",
-            "Hotel Santa Chiara",
-            "Piazgale Roma",
-            "Canale Grande",
             "Monza",
+            "Z\u00fcrich",
+            "Azoren",
+            "Brighton",
             "Atlanta",
-            "Knoxville",
-            "Godswill",
+            "\u00c4rmelkanal",
+            "Alanta-See",
             "Appalachen",
             "Njuoleans",
-            "Alanta-See",
-            "Brighton",
-            "Ashville"
+            "Waashton"
         ]
     },
     {
@@ -990,7 +1025,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 1.33,
         "stimmen": 3,
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "personen": [
             "Tom P.",
             "Antoine Cordelier",
@@ -1009,7 +1046,14 @@
             "Schlomo Weinstein"
         ],
         "schlagworte": null,
-        "orte": null
+        "orte": [
+            "Natchez",
+            "Smoke on the Water",
+            "Mississippi River",
+            "Shelby",
+            "Ye Olde Goat Stable Inn",
+            "Camp Shelby"
+        ]
     },
     {
         "nummer": 20,
@@ -1018,7 +1062,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 1,
         "stimmen": 4,
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "personen": [
             "Miki Takeo",
             "Rea",
@@ -1068,7 +1114,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 1.33,
         "stimmen": 3,
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "personen": [
             "Nag'or",
             "Ramyd'sam",
@@ -1093,20 +1141,23 @@
             "Esbon",
             "Okbal",
             "Akt'ol",
-            "Ei'don"
+            "Ei'don (Person)"
         ],
         "schlagworte": null,
         "orte": [
-            "Israel",
-            "Baltimore",
-            "Baltimore",
-            "Meeraka",
-            "Europa",
-            "Waashton",
-            "Jericho",
-            "Alanta-See",
             "Mesopotamien",
-            "Pal\u00e4stina"
+            "Jericho",
+            "Gilam'esh'gad (Stadt)",
+            "Shittim",
+            "Jordan",
+            "Jordantal",
+            "Totes Meer",
+            "Baltimore",
+            "Berlin",
+            "Waashton",
+            "Euree",
+            "Alanta-See",
+            "Meeraka"
         ]
     },
     {
@@ -1116,7 +1167,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 1,
         "stimmen": 3,
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "personen": [
             "Jacob Smythe",
             "Samuel Smythe",
@@ -1167,7 +1220,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 1,
         "stimmen": 3,
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "personen": [
             "Basil von Barmen",
             "Alwin",
@@ -1200,7 +1255,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 1.75,
         "stimmen": 4,
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "personen": [
             "Beryl Nordstr\u00f6m",
             "Lotta Nordstr\u00f6m",
@@ -1237,7 +1294,18 @@
         ],
         "schlagworte": null,
         "orte": [
-            "Dreizehn Inseln"
+            "Dreizehn Inseln",
+            "K\u00f6nigsinsel",
+            "K\u00f6nigsfestung auf der K\u00f6nigsinsel",
+            "Lokiraaburg",
+            "Kalter Sund",
+            "Kalskroona",
+            "Malmee",
+            "Erdh\u00fctte des Feuerrohrpriesters",
+            "Walhall",
+            "Stockholm",
+            "Kopenhagen",
+            "Charlottenberg"
         ]
     },
     {
@@ -1247,7 +1315,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 1.67,
         "stimmen": 3,
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "personen": [
             "Ariel Ruben Lewis",
             "Wanda Watonga",
@@ -1299,7 +1369,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 1,
         "stimmen": 3,
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "personen": [
             "Jonpol Sombriffe",
             "Joaque Sombriffe",
@@ -1323,7 +1395,22 @@
         ],
         "schlagworte": null,
         "orte": [
-            "Meeraka"
+            "Cajuuns",
+            "Nuu'oleens",
+            "Tote Arme",
+            "Toumaux",
+            "Fayett\u00e9",
+            "Rouche",
+            "Xandria",
+            "Roviaa",
+            "Little Rogue",
+            "Memvess",
+            "Saant Loos",
+            "Motoon von Deetroy",
+            "Pazifa-See",
+            "El'ay",
+            "Santoonio",
+            "Jacs"
         ]
     },
     {
@@ -1333,7 +1420,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 4.6,
         "stimmen": 5,
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "personen": [
             "Ralph Warstein",
             "Alexandra Korsakowa",
@@ -1363,9 +1452,11 @@
         ],
         "schlagworte": null,
         "orte": [
-            "Kristallfestung",
+            "Jakutsk",
             "Kratersee",
-            "Mine der Alten",
+            "Kristallfestung",
+            "Lena",
+            "Fischerdorf der Rriba'low",
             "Fort der Woiin'metcha"
         ]
     },
@@ -1376,7 +1467,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 3,
         "stimmen": null,
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "personen": [
             "Thomas Christchurch",
             "Yadiel Ortiiz",
@@ -1396,7 +1489,16 @@
         ],
         "schlagworte": null,
         "orte": [
-            "Puerto Rico"
+            "Puerto Rico",
+            "San Juan",
+            "Ponce",
+            "Clocktower",
+            "St. Louis",
+            "SLU",
+            "AREA 51",
+            "Kongo",
+            "Libyen",
+            "Sri Lanka"
         ]
     },
     {
@@ -1406,7 +1508,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 2,
         "stimmen": null,
-        "text": "Ansgar Back",
+        "text": [
+            "Ansgar Back"
+        ],
         "personen": [
             "Ketcher Laymon",
             "Bullseye Otomkin",
@@ -1456,7 +1560,9 @@
         "zyklus": "Maddrax-Hardcover",
         "bewertung": 4,
         "stimmen": 2,
-        "text": "Ansgar Back",
+        "text": [
+            "Ansgar Back"
+        ],
         "personen": [
             "Shiro",
             "Loona (Person)",
@@ -1478,7 +1584,14 @@
             "Amraka",
             "Badlands",
             "Kordooba",
-            "Sonoora"
+            "Plaquepiijo",
+            "Tukumkaari",
+            "Malinas",
+            "Rio Braanco",
+            "Amazonas",
+            "Boliiv",
+            "Sentenza",
+            "Pancho Villa"
         ]
     }
 ]

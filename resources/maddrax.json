@@ -4,7 +4,9 @@
         "evt": "08.02.2000",
         "zyklus": "Euree",
         "titel": "Der Gott aus dem Eis",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.48,
         "stimmen": 23,
         "personen": [
@@ -45,7 +47,9 @@
         "evt": "22.02.2000",
         "zyklus": "Euree",
         "titel": "Stadt der Verdammten",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.89,
         "stimmen": 19,
         "personen": [
@@ -84,7 +88,9 @@
         "evt": "07.03.2000",
         "zyklus": "Euree",
         "titel": "Rom sehen und sterben",
-        "text": "Timothy Stahl",
+        "text": [
+            "Timothy Stahl"
+        ],
         "bewertung": 4.06,
         "stimmen": 18,
         "personen": [
@@ -123,7 +129,9 @@
         "evt": "21.03.2000",
         "zyklus": "Euree",
         "titel": "Die Ausgesto\u00dfenen",
-        "text": "Brian Frost",
+        "text": [
+            "Brian Frost"
+        ],
         "bewertung": 2.44,
         "stimmen": 18,
         "personen": [
@@ -160,7 +168,9 @@
         "evt": "04.04.2000",
         "zyklus": "Euree",
         "titel": "Festung des Blutes",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 3.89,
         "stimmen": 18,
         "personen": [
@@ -200,7 +210,9 @@
         "evt": "18.04.2000",
         "zyklus": "Euree",
         "titel": "In der wei\u00dfen H\u00f6lle",
-        "text": "Michael J. Parrish",
+        "text": [
+            "Michael J. Parrish"
+        ],
         "bewertung": 2.89,
         "stimmen": 18,
         "personen": [
@@ -229,7 +241,9 @@
         "evt": "02.05.2000",
         "zyklus": "Euree",
         "titel": "Das letzte Opfer",
-        "text": "Brian Frost",
+        "text": [
+            "Brian Frost"
+        ],
         "bewertung": 4,
         "stimmen": 18,
         "personen": [
@@ -268,7 +282,9 @@
         "evt": "16.05.2000",
         "zyklus": "Euree",
         "titel": "Der schlafende K\u00f6nig",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 3.41,
         "stimmen": 17,
         "personen": [
@@ -307,7 +323,9 @@
         "evt": "30.05.2000",
         "zyklus": "Euree",
         "titel": "Die Schlange im Paradies",
-        "text": "Michael J. Parrish",
+        "text": [
+            "Michael J. Parrish"
+        ],
         "bewertung": 2.88,
         "stimmen": 17,
         "personen": [
@@ -338,7 +356,9 @@
         "evt": "13.06.2000",
         "zyklus": "Euree",
         "titel": "G\u00f6tter und Barbaren",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.44,
         "stimmen": 16,
         "personen": [
@@ -377,7 +397,9 @@
         "evt": "27.06.2000",
         "zyklus": "Euree",
         "titel": "Die Amazonen von Berlin",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 4.11,
         "stimmen": 18,
         "personen": [
@@ -418,7 +440,9 @@
         "evt": "11.07.2000",
         "zyklus": "Euree",
         "titel": "Die Sekte des Lichts",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.56,
         "stimmen": 16,
         "personen": [
@@ -469,7 +493,9 @@
         "evt": "25.07.2000",
         "zyklus": "Euree",
         "titel": "Das Milliarden-Heer",
-        "text": "Timothy Stahl",
+        "text": [
+            "Timothy Stahl"
+        ],
         "bewertung": 3.12,
         "stimmen": 17,
         "personen": [
@@ -510,7 +536,9 @@
         "evt": "08.08.2000",
         "zyklus": "Euree",
         "titel": "Der Tod \u00fcber Paris",
-        "text": "Michael J. Parrish",
+        "text": [
+            "Michael J. Parrish"
+        ],
         "bewertung": 3.63,
         "stimmen": 16,
         "personen": [
@@ -547,7 +575,9 @@
         "evt": "22.08.2000",
         "zyklus": "Euree",
         "titel": "Die Heiler",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 3.67,
         "stimmen": 15,
         "personen": [
@@ -590,7 +620,9 @@
         "evt": "05.09.2000",
         "zyklus": "Euree",
         "titel": "30 Meilen unter dem Meer",
-        "text": "Timothy Stahl",
+        "text": [
+            "Timothy Stahl"
+        ],
         "bewertung": 3.19,
         "stimmen": 16,
         "personen": [
@@ -625,7 +657,9 @@
         "evt": "19.09.2000",
         "zyklus": "Euree",
         "titel": "Blick in die Vergangenheit",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.25,
         "stimmen": 16,
         "personen": [
@@ -674,7 +708,9 @@
         "evt": "03.10.2000",
         "zyklus": "Euree",
         "titel": "Die Erben der Menschheit",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.67,
         "stimmen": 15,
         "personen": [
@@ -732,7 +768,9 @@
         "evt": "17.10.2000",
         "zyklus": "Euree",
         "titel": "Das Sklavenspiel",
-        "text": "Brian Frost",
+        "text": [
+            "Brian Frost"
+        ],
         "bewertung": 3.6,
         "stimmen": 15,
         "personen": [
@@ -779,7 +817,9 @@
         "evt": "31.10.2000",
         "zyklus": "Euree",
         "titel": "Zug der Verlorenen",
-        "text": "Michael J. Parrish",
+        "text": [
+            "Michael J. Parrish"
+        ],
         "bewertung": 3.92,
         "stimmen": 12,
         "personen": [
@@ -819,7 +859,9 @@
         "evt": "14.11.2000",
         "zyklus": "Euree",
         "titel": "Aufbruch in die \u201eNeue Welt\u201c",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.07,
         "stimmen": 14,
         "personen": [
@@ -861,7 +903,9 @@
         "evt": "28.11.2000",
         "zyklus": "Euree",
         "titel": "Die wandelnde Tote",
-        "text": "Brian Frost",
+        "text": [
+            "Brian Frost"
+        ],
         "bewertung": 3.07,
         "stimmen": 14,
         "personen": [
@@ -910,7 +954,9 @@
         "evt": "12.12.2000",
         "zyklus": "Euree",
         "titel": "Reise ohne Wiederkehr",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 3.73,
         "stimmen": 15,
         "personen": [
@@ -952,7 +998,9 @@
         "evt": "26.12.2000",
         "zyklus": "Euree",
         "titel": "Beim Volk der 13 Inseln",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.64,
         "stimmen": 14,
         "personen": [
@@ -994,7 +1042,9 @@
         "evt": "09.01.2001",
         "zyklus": "Meeraka",
         "titel": "New York, New York!",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 3.29,
         "stimmen": 14,
         "personen": [
@@ -1038,7 +1088,9 @@
         "evt": "23.01.2001",
         "zyklus": "Meeraka",
         "titel": "Stadt der Untoten",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 3.21,
         "stimmen": 14,
         "personen": [
@@ -1094,7 +1146,9 @@
         "evt": "06.02.2001",
         "zyklus": "Meeraka",
         "titel": "Ruf des Blutes",
-        "text": "Timothy Stahl",
+        "text": [
+            "Timothy Stahl"
+        ],
         "bewertung": 3.46,
         "stimmen": 13,
         "personen": [
@@ -1133,7 +1187,9 @@
         "evt": "20.02.2001",
         "zyklus": "Meeraka",
         "titel": "Arena der G\u00f6tter",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.5,
         "stimmen": 12,
         "personen": [
@@ -1174,7 +1230,9 @@
         "evt": "06.03.2001",
         "zyklus": "Meeraka",
         "titel": "Die neue Macht",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 4.08,
         "stimmen": 13,
         "personen": [
@@ -1216,7 +1274,9 @@
         "evt": "20.03.2001",
         "zyklus": "Meeraka",
         "titel": "Die zweite Realit\u00e4t",
-        "text": "Michael J. Parrish",
+        "text": [
+            "Michael J. Parrish"
+        ],
         "bewertung": 3.54,
         "stimmen": 13,
         "personen": [
@@ -1251,7 +1311,9 @@
         "evt": "03.04.2001",
         "zyklus": "Meeraka",
         "titel": "Weltfeind Nr. 1",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 4,
         "stimmen": 13,
         "personen": [
@@ -1309,7 +1371,9 @@
         "evt": "17.04.2001",
         "zyklus": "Meeraka",
         "titel": "Seelentr\u00e4ger",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 4,
         "stimmen": 13,
         "personen": [
@@ -1351,7 +1415,9 @@
         "evt": "01.05.2001",
         "zyklus": "Meeraka",
         "titel": "Lautlose Bedrohung",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 3.92,
         "stimmen": 13,
         "personen": [
@@ -1396,7 +1462,9 @@
         "evt": "15.05.2001",
         "zyklus": "Meeraka",
         "titel": "Der Weg nach Westen",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.38,
         "stimmen": 13,
         "personen": [
@@ -1443,7 +1511,9 @@
         "evt": "29.05.2001",
         "zyklus": "Meeraka",
         "titel": "Wettlauf gegen die Zeit",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.23,
         "stimmen": 13,
         "personen": [
@@ -1497,7 +1567,9 @@
         "evt": "12.06.2001",
         "zyklus": "Meeraka",
         "titel": "Die S\u00f6hne des Himmels",
-        "text": "Michael J. Parrish",
+        "text": [
+            "Michael J. Parrish"
+        ],
         "bewertung": 3.83,
         "stimmen": 12,
         "personen": [
@@ -1532,7 +1604,9 @@
         "evt": "26.06.2001",
         "zyklus": "Meeraka",
         "titel": "Enth\u00fcllungen",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 4.08,
         "stimmen": 13,
         "personen": [
@@ -1586,7 +1660,9 @@
         "evt": "10.07.2001",
         "zyklus": "Meeraka",
         "titel": "In den F\u00e4ngen des Weltrats",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 4.23,
         "stimmen": 13,
         "personen": [
@@ -1635,7 +1711,9 @@
         "evt": "24.07.2001",
         "zyklus": "Meeraka",
         "titel": "Flucht in die Todeszone",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 3.23,
         "stimmen": 13,
         "personen": [
@@ -1677,7 +1755,9 @@
         "evt": "07.08.2001",
         "zyklus": "Meeraka",
         "titel": "Die Faust Gottes",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.83,
         "stimmen": 12,
         "personen": [
@@ -1718,7 +1798,9 @@
         "evt": "21.08.2001",
         "zyklus": "Meeraka",
         "titel": "Tribute to the King",
-        "text": "Timothy Stahl",
+        "text": [
+            "Timothy Stahl"
+        ],
         "bewertung": 2.62,
         "stimmen": 13,
         "personen": [
@@ -1759,7 +1841,9 @@
         "evt": "04.09.2001",
         "zyklus": "Meeraka",
         "titel": "Die Unsterblichen",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 3.46,
         "stimmen": 13,
         "personen": [
@@ -1797,7 +1881,9 @@
         "evt": "18.09.2001",
         "zyklus": "Meeraka",
         "titel": "Kampf um Cape Canaveral",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 4.25,
         "stimmen": 12,
         "personen": [
@@ -1840,7 +1926,9 @@
         "evt": "02.10.2001",
         "zyklus": "Meeraka",
         "titel": "Nach eigenen Regeln",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 2.92,
         "stimmen": 12,
         "personen": [
@@ -1880,7 +1968,9 @@
         "evt": "16.10.2001",
         "zyklus": "Meeraka",
         "titel": "Das verschwundene Volk",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 2.38,
         "stimmen": 13,
         "personen": [
@@ -1919,7 +2009,9 @@
         "evt": "30.10.2001",
         "zyklus": "Meeraka",
         "titel": "Viva Las Vegas!",
-        "text": "Timothy Stahl",
+        "text": [
+            "Timothy Stahl"
+        ],
         "bewertung": 2.83,
         "stimmen": 12,
         "personen": [
@@ -1960,7 +2052,9 @@
         "evt": "13.11.2001",
         "zyklus": "Meeraka",
         "titel": "Die letzten Tage von Riverside",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.17,
         "stimmen": 12,
         "personen": [
@@ -2006,7 +2100,9 @@
         "evt": "27.11.2001",
         "zyklus": "Meeraka",
         "titel": "Cinemania",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 3.42,
         "stimmen": 12,
         "personen": [
@@ -2059,7 +2155,9 @@
         "evt": "11.12.2001",
         "zyklus": "Meeraka",
         "titel": "Der Android",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 3.92,
         "stimmen": 12,
         "personen": [
@@ -2100,7 +2198,9 @@
         "evt": "18.12.2001",
         "zyklus": "Expedition",
         "titel": "Die Mission",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.25,
         "stimmen": 12,
         "personen": [
@@ -2150,7 +2250,9 @@
         "evt": "08.01.2002",
         "zyklus": "Expedition",
         "titel": "Im Orbit",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.08,
         "stimmen": 12,
         "personen": [
@@ -2193,7 +2295,9 @@
         "evt": "22.01.2002",
         "zyklus": "Expedition",
         "titel": "Invasion der Toten",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 4.08,
         "stimmen": 12,
         "personen": [
@@ -2236,7 +2340,9 @@
         "evt": "05.02.2002",
         "zyklus": "Expedition",
         "titel": "Die Schlacht von El'ay",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 4.17,
         "stimmen": 12,
         "personen": [
@@ -2291,7 +2397,9 @@
         "evt": "19.02.2002",
         "zyklus": "Expedition",
         "titel": "Gabe und Fluch",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 4,
         "stimmen": 12,
         "personen": [
@@ -2336,7 +2444,9 @@
         "evt": "05.03.2002",
         "zyklus": "Expedition",
         "titel": "Von Rache getrieben",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.91,
         "stimmen": 11,
         "personen": [
@@ -2381,7 +2491,9 @@
         "evt": "19.03.2002",
         "zyklus": "Expedition",
         "titel": "Zielort: Kratersee",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 4,
         "stimmen": 11,
         "personen": [
@@ -2431,7 +2543,9 @@
         "evt": "02.04.2002",
         "zyklus": "Expedition",
         "titel": "Sanatorium der Cyborgs",
-        "text": "Michael Sch\u00f6nenbr\u00f6cher",
+        "text": [
+            "Michael Sch\u00f6nenbr\u00f6cher"
+        ],
         "bewertung": 3.55,
         "stimmen": 11,
         "personen": [
@@ -2469,7 +2583,9 @@
         "evt": "16.04.2002",
         "zyklus": "Expedition",
         "titel": "Sub'Sisco",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 3.18,
         "stimmen": 11,
         "personen": [
@@ -2511,7 +2627,9 @@
         "evt": "30.04.2002",
         "zyklus": "Expedition",
         "titel": "Das Experiment",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 3.18,
         "stimmen": 11,
         "personen": [
@@ -2552,7 +2670,9 @@
         "evt": "14.05.2002",
         "zyklus": "Expedition",
         "titel": "Jenseits der D\u00e4mmerung",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 2.82,
         "stimmen": 11,
         "personen": [
@@ -2590,7 +2710,9 @@
         "evt": "28.05.2002",
         "zyklus": "Expedition",
         "titel": "Im Reich der Tausend",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 3.36,
         "stimmen": 11,
         "personen": [
@@ -2630,7 +2752,9 @@
         "evt": "11.06.2002",
         "zyklus": "Expedition",
         "titel": "Auf dem Gipfel der Welt",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4,
         "stimmen": 11,
         "personen": [
@@ -2675,7 +2799,9 @@
         "evt": "25.06.2002",
         "zyklus": "Expedition",
         "titel": "Das R\u00e4tsel der Insel",
-        "text": "Michael J. Parrish",
+        "text": [
+            "Michael J. Parrish"
+        ],
         "bewertung": 3.27,
         "stimmen": 11,
         "personen": [
@@ -2709,7 +2835,9 @@
         "evt": "09.07.2002",
         "zyklus": "Expedition",
         "titel": "Quell der Tr\u00e4ume",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 3.27,
         "stimmen": 11,
         "personen": [
@@ -2747,7 +2875,9 @@
         "evt": "23.07.2002",
         "zyklus": "Expedition",
         "titel": "Die gl\u00e4serne Oase",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 3.55,
         "stimmen": 11,
         "personen": [
@@ -2792,7 +2922,9 @@
         "evt": "06.08.2002",
         "zyklus": "Expedition",
         "titel": "Der Preis des \u00dcberlebens",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 2.64,
         "stimmen": 11,
         "personen": [
@@ -2831,7 +2963,9 @@
         "evt": "20.08.2002",
         "zyklus": "Expedition",
         "titel": "Spielball der G\u00f6tter",
-        "text": "Michael Sch\u00f6nenbr\u00f6cher",
+        "text": [
+            "Michael Sch\u00f6nenbr\u00f6cher"
+        ],
         "bewertung": 4,
         "stimmen": 11,
         "personen": [
@@ -2875,7 +3009,9 @@
         "evt": "03.09.2002",
         "zyklus": "Expedition",
         "titel": "Die Allianz",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.09,
         "stimmen": 11,
         "personen": [
@@ -2932,7 +3068,9 @@
         "evt": "17.09.2002",
         "zyklus": "Expedition",
         "titel": "Die Heimsuchung",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 3,
         "stimmen": 10,
         "personen": [
@@ -2972,7 +3110,9 @@
         "evt": "01.10.2002",
         "zyklus": "Expedition",
         "titel": "Dorf der Legenden",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 2.5,
         "stimmen": 10,
         "personen": [
@@ -3020,7 +3160,9 @@
         "evt": "15.10.2002",
         "zyklus": "Expedition",
         "titel": "Die Menschenfalle",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 3.5,
         "stimmen": 10,
         "personen": [
@@ -3066,7 +3208,9 @@
         "evt": "29.10.2002",
         "zyklus": "Expedition",
         "titel": "Auf Leben und Tod",
-        "text": "Michael J. Parrish",
+        "text": [
+            "Michael J. Parrish"
+        ],
         "bewertung": 2.44,
         "stimmen": 9,
         "personen": [
@@ -3103,7 +3247,9 @@
         "evt": "12.11.2002",
         "zyklus": "Expedition",
         "titel": "Die Ostm\u00e4nner",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 2.7,
         "stimmen": 10,
         "personen": [
@@ -3145,7 +3291,9 @@
         "evt": "26.11.2002",
         "zyklus": "Expedition",
         "titel": "Tauchfahrt ins Ungewisse",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.6,
         "stimmen": 10,
         "personen": [
@@ -3180,7 +3328,9 @@
         "evt": "10.12.2002",
         "zyklus": "Kratersee",
         "titel": "Im Bergwerk der Mutanten",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 3.73,
         "stimmen": 11,
         "personen": [
@@ -3220,7 +3370,9 @@
         "evt": "17.12.2002",
         "zyklus": "Kratersee",
         "titel": "Mimikri",
-        "text": "Horst Pukallus",
+        "text": [
+            "Horst Pukallus"
+        ],
         "bewertung": 2.3,
         "stimmen": 10,
         "personen": [
@@ -3260,7 +3412,9 @@
         "evt": "07.01.2003",
         "zyklus": "Kratersee",
         "titel": "Das Kollektiv",
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel"
+        ],
         "bewertung": 2.5,
         "stimmen": 10,
         "personen": [
@@ -3301,7 +3455,9 @@
         "evt": "21.01.2003",
         "zyklus": "Kratersee",
         "titel": "Im Netz der L\u00fcge",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 3.1,
         "stimmen": 10,
         "personen": [
@@ -3341,7 +3497,9 @@
         "evt": "04.02.2003",
         "zyklus": "Kratersee",
         "titel": "Die Kristallfestung",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 4,
         "stimmen": 10,
         "personen": [
@@ -3382,7 +3540,9 @@
         "evt": "18.02.2003",
         "zyklus": "Kratersee",
         "titel": "Vorsto\u00df zum Kometen",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 4.1,
         "stimmen": 10,
         "personen": [
@@ -3429,7 +3589,10 @@
         "evt": "04.03.2003",
         "zyklus": "Kratersee",
         "titel": "Schatten der Vergangenheit",
-        "text": "Claudia Kern, Stephanie Seidel",
+        "text": [
+            "Claudia Kern",
+            "Stephanie Seidel"
+        ],
         "bewertung": 3.3,
         "stimmen": 10,
         "personen": [
@@ -3471,7 +3634,9 @@
         "evt": "18.03.2003",
         "zyklus": "Kratersee",
         "titel": "Das Geheimnis der Kristalle",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.6,
         "stimmen": 10,
         "personen": [
@@ -3510,7 +3675,9 @@
         "evt": "01.04.2003",
         "zyklus": "Kratersee",
         "titel": "Das Ende der Unschuld",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.2,
         "stimmen": 10,
         "personen": [
@@ -3549,7 +3716,9 @@
         "evt": "15.04.2003",
         "zyklus": "Kratersee",
         "titel": "Sto\u00dftrupp ins Niemandsland",
-        "text": "Michael J. Parrish",
+        "text": [
+            "Michael J. Parrish"
+        ],
         "bewertung": 3.7,
         "stimmen": 10,
         "personen": [
@@ -3583,7 +3752,9 @@
         "evt": "29.04.2003",
         "zyklus": "Kratersee",
         "titel": "Getrennte Wege",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 3.7,
         "stimmen": 10,
         "personen": [
@@ -3626,7 +3797,9 @@
         "evt": "13.05.2003",
         "zyklus": "Kratersee",
         "titel": "Die Bunkerliga",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.4,
         "stimmen": 10,
         "personen": [
@@ -3669,7 +3842,9 @@
         "evt": "27.05.2003",
         "zyklus": "Kratersee",
         "titel": "In der H\u00f6hle des L\u00f6wen",
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel"
+        ],
         "bewertung": 4.6,
         "stimmen": 10,
         "personen": [
@@ -3702,7 +3877,9 @@
         "evt": "10.06.2003",
         "zyklus": "Kratersee",
         "titel": "Sohn der Finsternis",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 3.89,
         "stimmen": 9,
         "personen": [
@@ -3737,7 +3914,9 @@
         "evt": "24.06.2003",
         "zyklus": "Kratersee",
         "titel": "Die Stunde des Feiglings",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 4.6,
         "stimmen": 10,
         "personen": [
@@ -3776,7 +3955,9 @@
         "evt": "08.07.2003",
         "zyklus": "Kratersee",
         "titel": "Lazarus",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 4.1,
         "stimmen": 10,
         "personen": [
@@ -3815,7 +3996,9 @@
         "evt": "22.07.2003",
         "zyklus": "Kratersee",
         "titel": "Wer explodiert, verliert!",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 3.9,
         "stimmen": 10,
         "personen": [
@@ -3865,7 +4048,9 @@
         "evt": "05.08.2003",
         "zyklus": "Kratersee",
         "titel": "Piraten im Nordmeer",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 4.2,
         "stimmen": 10,
         "personen": [
@@ -3908,7 +4093,9 @@
         "evt": "19.08.2003",
         "zyklus": "Kratersee",
         "titel": "Neun Leben",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 3.8,
         "stimmen": 10,
         "personen": [
@@ -3953,7 +4140,9 @@
         "evt": "02.09.2003",
         "zyklus": "Kratersee",
         "titel": "Dem Tode geweiht",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 3.2,
         "stimmen": 10,
         "personen": [
@@ -4003,7 +4192,9 @@
         "evt": "16.09.2003",
         "zyklus": "Kratersee",
         "titel": "Der Gen-Mutant",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 3.2,
         "stimmen": 10,
         "personen": [
@@ -4045,7 +4236,9 @@
         "evt": "30.09.2003",
         "zyklus": "Kratersee",
         "titel": "Der schwimmende Moloch",
-        "text": "Michael J. Parrish",
+        "text": [
+            "Michael J. Parrish"
+        ],
         "bewertung": 3.5,
         "stimmen": 10,
         "personen": [
@@ -4081,7 +4274,9 @@
         "evt": "14.10.2003",
         "zyklus": "Kratersee",
         "titel": "Die R\u00fcckkehr",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.2,
         "stimmen": 10,
         "personen": [
@@ -4130,7 +4325,10 @@
         "evt": "28.10.2003",
         "zyklus": "Kratersee",
         "titel": "Am Vorabend der neuen Zeit",
-        "text": "Bernd Frenz, Claudia Kern",
+        "text": [
+            "Bernd Frenz",
+            "Claudia Kern"
+        ],
         "bewertung": 3.78,
         "stimmen": 9,
         "personen": [
@@ -4188,7 +4386,10 @@
         "evt": "11.11.2003",
         "zyklus": "Kratersee",
         "titel": "Der Feind meines Feindes",
-        "text": "Bernd Frenz, Claudia Kern",
+        "text": [
+            "Bernd Frenz",
+            "Claudia Kern"
+        ],
         "bewertung": 4,
         "stimmen": 10,
         "personen": [
@@ -4230,7 +4431,9 @@
         "evt": "11.11.2003",
         "zyklus": "Daa'muren",
         "titel": "Die neue Spezies",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.56,
         "stimmen": 9,
         "personen": [
@@ -4282,7 +4485,9 @@
         "evt": "09.12.2003",
         "zyklus": "Daa'muren",
         "titel": "Schiffbr\u00fcchige des Universums",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.11,
         "stimmen": 9,
         "personen": [
@@ -4327,7 +4532,9 @@
         "evt": "16.12.2003",
         "zyklus": "Daa'muren",
         "titel": "Der irische Tod",
-        "text": "Michael J. Parrish",
+        "text": [
+            "Michael J. Parrish"
+        ],
         "bewertung": 3.22,
         "stimmen": 9,
         "personen": [
@@ -4366,7 +4573,9 @@
         "evt": "30.12.2003",
         "zyklus": "Daa'muren",
         "titel": "Ein Leben im Sterben",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 4,
         "stimmen": 8,
         "personen": [
@@ -4411,7 +4620,9 @@
         "evt": "13.01.2004",
         "zyklus": "Daa'muren",
         "titel": "Wulfsblut",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 3.25,
         "stimmen": 8,
         "personen": [
@@ -4456,7 +4667,9 @@
         "evt": "27.01.2004",
         "zyklus": "Daa'muren",
         "titel": "Der Ruf nach Freiheit",
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel"
+        ],
         "bewertung": 2.88,
         "stimmen": 8,
         "personen": [
@@ -4503,7 +4716,9 @@
         "evt": "10.02.2004",
         "zyklus": "Daa'muren",
         "titel": "Schatten des Krieges",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 3.57,
         "stimmen": 7,
         "personen": [
@@ -4557,7 +4772,9 @@
         "evt": "24.02.2004",
         "zyklus": "Daa'muren",
         "titel": "Pariser Albtr\u00e4ume",
-        "text": "Michael J. Parrish",
+        "text": [
+            "Michael J. Parrish"
+        ],
         "bewertung": 3.43,
         "stimmen": 7,
         "personen": [
@@ -4598,7 +4815,9 @@
         "evt": "09.03.2004",
         "zyklus": "Daa'muren",
         "titel": "Rising Star",
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel"
+        ],
         "bewertung": 4,
         "stimmen": 7,
         "personen": [
@@ -4640,7 +4859,9 @@
         "evt": "23.03.2004",
         "zyklus": "Daa'muren",
         "titel": "Die Atemdiebin",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 3.43,
         "stimmen": 7,
         "personen": [
@@ -4685,7 +4906,9 @@
         "evt": "06.04.2004",
         "zyklus": "Daa'muren",
         "titel": "Kampf um Coellen",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.43,
         "stimmen": 7,
         "personen": [
@@ -4735,7 +4958,9 @@
         "evt": "20.04.2004",
         "zyklus": "Daa'muren",
         "titel": "Das Schlangen-Ei",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.43,
         "stimmen": 7,
         "personen": [
@@ -4781,7 +5006,9 @@
         "evt": "04.05.2004",
         "zyklus": "Daa'muren",
         "titel": "Die Nacht der Rache",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 3,
         "stimmen": 7,
         "personen": [
@@ -4822,7 +5049,9 @@
         "evt": "18.05.2004",
         "zyklus": "Daa'muren",
         "titel": "Auszeit",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 2.5,
         "stimmen": 8,
         "personen": [
@@ -4859,7 +5088,9 @@
         "evt": "01.06.2004",
         "zyklus": "Daa'muren",
         "titel": "Fluchtpunkt El'ay",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 4,
         "stimmen": 7,
         "personen": [
@@ -4909,7 +5140,9 @@
         "evt": "15.06.2004",
         "zyklus": "Daa'muren",
         "titel": "Wiener Blut",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 2.88,
         "stimmen": 8,
         "personen": [
@@ -4959,7 +5192,9 @@
         "evt": "29.06.2004",
         "zyklus": "Daa'muren",
         "titel": "Das Feuermal",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 3.71,
         "stimmen": 7,
         "personen": [
@@ -5008,7 +5243,9 @@
         "evt": "13.07.2004",
         "zyklus": "Daa'muren",
         "titel": "Die R\u00fcckkehr des K\u00f6nigs",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 3,
         "stimmen": 8,
         "personen": [
@@ -5063,7 +5300,9 @@
         "evt": "27.07.2004",
         "zyklus": "Daa'muren",
         "titel": "Countdown in Moskau",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 3,
         "stimmen": 8,
         "personen": [
@@ -5119,7 +5358,9 @@
         "evt": "10.08.2004",
         "zyklus": "Daa'muren",
         "titel": "M\u00f6rderhirn",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4,
         "stimmen": 8,
         "personen": [
@@ -5165,7 +5406,9 @@
         "evt": "24.08.2004",
         "zyklus": "Daa'muren",
         "titel": "Sterben in Berlin",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.25,
         "stimmen": 8,
         "personen": [
@@ -5214,7 +5457,9 @@
         "evt": "07.09.2004",
         "zyklus": "Daa'muren",
         "titel": "Riskante Gesch\u00e4fte",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 3.38,
         "stimmen": 8,
         "personen": [
@@ -5260,7 +5505,9 @@
         "evt": "21.09.2004",
         "zyklus": "Daa'muren",
         "titel": "Wege der Macht",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 3.75,
         "stimmen": 8,
         "personen": [
@@ -5310,7 +5557,9 @@
         "evt": "05.10.2004",
         "zyklus": "Daa'muren",
         "titel": "Auf dem Insektenthron",
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "bewertung": 4.29,
         "stimmen": 7,
         "personen": [
@@ -5353,7 +5602,9 @@
         "evt": "19.10.2004",
         "zyklus": "Daa'muren",
         "titel": "In der Gewalt der Daa'muren",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.13,
         "stimmen": 8,
         "personen": [
@@ -5404,7 +5655,9 @@
         "evt": "02.11.2004",
         "zyklus": "Wandler",
         "titel": "U.S.S. Hope",
-        "text": "Michael J. Parrish",
+        "text": [
+            "Michael J. Parrish"
+        ],
         "bewertung": 4.2,
         "stimmen": 10,
         "personen": [
@@ -5437,7 +5690,10 @@
         "evt": "16.11.2004",
         "zyklus": "Wandler",
         "titel": "Hinter der Grenze",
-        "text": "Claudia Kern, Stephanie Seidel",
+        "text": [
+            "Claudia Kern",
+            "Stephanie Seidel"
+        ],
         "bewertung": 3.13,
         "stimmen": 8,
         "personen": [
@@ -5466,7 +5722,9 @@
         "evt": "30.11.2004",
         "zyklus": "Wandler",
         "titel": "Das Aruula-Projekt",
-        "text": "Christian Montillon",
+        "text": [
+            "Christian Montillon"
+        ],
         "bewertung": 3.13,
         "stimmen": 8,
         "personen": [
@@ -5488,7 +5746,9 @@
         "evt": "14.12.2004",
         "zyklus": "Wandler",
         "titel": "Der Schl\u00e4fer",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 2.44,
         "stimmen": 9,
         "personen": [
@@ -5531,7 +5791,9 @@
         "evt": "28.12.2004",
         "zyklus": "Wandler",
         "titel": "Mar'os - Gott des Krieges",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 2.88,
         "stimmen": 8,
         "personen": [
@@ -5566,7 +5828,9 @@
         "evt": "11.01.2005",
         "zyklus": "Wandler",
         "titel": "H\u00f6llenfahrt",
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "bewertung": 4,
         "stimmen": 9,
         "personen": [
@@ -5600,7 +5864,9 @@
         "evt": "25.01.2005",
         "zyklus": "Wandler",
         "titel": "Unternehmen \u00bbCrow's Nest\u00ab",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 4.13,
         "stimmen": 8,
         "personen": [
@@ -5630,7 +5896,9 @@
         "evt": "08.02.2005",
         "zyklus": "Wandler",
         "titel": "Entf\u00fchrt!",
-        "text": "Christian Montillon",
+        "text": [
+            "Christian Montillon"
+        ],
         "bewertung": 3.38,
         "stimmen": 8,
         "personen": [
@@ -5660,7 +5928,9 @@
         "evt": "22.02.2005",
         "zyklus": "Wandler",
         "titel": "Die Letzte ihrer Art",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 3.38,
         "stimmen": 8,
         "personen": [
@@ -5697,7 +5967,9 @@
         "evt": "08.03.2005",
         "zyklus": "Wandler",
         "titel": "Die Entscheidung des Generals",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 3.75,
         "stimmen": 8,
         "personen": [
@@ -5733,7 +6005,9 @@
         "evt": "22.03.2005",
         "zyklus": "Wandler",
         "titel": "In der Falle",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.38,
         "stimmen": 8,
         "personen": [
@@ -5778,7 +6052,9 @@
         "evt": "05.04.2005",
         "zyklus": "Wandler",
         "titel": "Im Schloss der Daa'muren",
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel"
+        ],
         "bewertung": 3.75,
         "stimmen": 8,
         "personen": [
@@ -5810,7 +6086,9 @@
         "evt": "19.04.2005",
         "zyklus": "Wandler",
         "titel": "Der trojanische Barbar",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 3.56,
         "stimmen": 9,
         "personen": [
@@ -5843,7 +6121,9 @@
         "evt": "03.05.2005",
         "zyklus": "Wandler",
         "titel": "T\u00f6dliche Fracht",
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "bewertung": 3.89,
         "stimmen": 9,
         "personen": [
@@ -5877,7 +6157,9 @@
         "evt": "17.05.2005",
         "zyklus": "Wandler",
         "titel": "Kreis der Telepathen",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 2.38,
         "stimmen": 8,
         "personen": [
@@ -5915,7 +6197,9 @@
         "evt": "31.05.2005",
         "zyklus": "Wandler",
         "titel": "Im Land der Feuerdrachen",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 3.63,
         "stimmen": 8,
         "personen": [
@@ -5954,7 +6238,9 @@
         "evt": "14.06.2005",
         "zyklus": "Wandler",
         "titel": "Das trockene Meer",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 3.63,
         "stimmen": 8,
         "personen": [
@@ -5983,7 +6269,9 @@
         "evt": "28.06.2005",
         "zyklus": "Wandler",
         "titel": "Der Bluttempel",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 3.67,
         "stimmen": 9,
         "personen": [
@@ -6014,7 +6302,9 @@
         "evt": "12.07.2005",
         "zyklus": "Wandler",
         "titel": "Rulfan von Coellen",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3,
         "stimmen": 8,
         "personen": [
@@ -6053,7 +6343,9 @@
         "evt": "26.07.2005",
         "zyklus": "Wandler",
         "titel": "Der Flug der Todesrochen",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 3.86,
         "stimmen": 7,
         "personen": [
@@ -6092,7 +6384,9 @@
         "evt": "09.08.2005",
         "zyklus": "Wandler",
         "titel": "Die Suche nach Aiko",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 3.43,
         "stimmen": 7,
         "personen": [
@@ -6122,7 +6416,9 @@
         "evt": "23.08.2005",
         "zyklus": "Wandler",
         "titel": "Winterkrieger",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 2.5,
         "stimmen": 6,
         "personen": [
@@ -6157,7 +6453,9 @@
         "evt": "06.09.2005",
         "zyklus": "Wandler",
         "titel": "Stunde X",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4,
         "stimmen": 8,
         "personen": [
@@ -6210,7 +6508,9 @@
         "evt": "20.09.2005",
         "zyklus": "Wandler",
         "titel": "Operation Harmagedon",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.13,
         "stimmen": 8,
         "personen": [
@@ -6258,7 +6558,9 @@
         "evt": "04.10.2005",
         "zyklus": "Wandler",
         "titel": "Auf Messers Schneide",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 4.11,
         "stimmen": 9,
         "personen": [
@@ -6294,7 +6596,10 @@
         "evt": "18.10.2005",
         "zyklus": "Mars",
         "titel": "Ein neuer Anfang",
-        "text": "Michael Sch\u00f6nenbr\u00f6cher, Claudia Kern",
+        "text": [
+            "Michael Sch\u00f6nenbr\u00f6cher",
+            "Claudia Kern"
+        ],
         "bewertung": 4.25,
         "stimmen": 8,
         "personen": [
@@ -6324,7 +6629,9 @@
         "evt": "01.11.2005",
         "zyklus": "Mars",
         "titel": "Zu fernen Ufern",
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "bewertung": 4.11,
         "stimmen": 9,
         "personen": [
@@ -6351,7 +6658,9 @@
         "evt": "15.11.2005",
         "zyklus": "Mars",
         "titel": "Nach dem Fall",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 2.38,
         "stimmen": 8,
         "personen": [
@@ -6385,7 +6694,9 @@
         "evt": "29.11.2005",
         "zyklus": "Mars",
         "titel": "Das Ende der Technos",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 2.71,
         "stimmen": 7,
         "personen": [
@@ -6428,7 +6739,9 @@
         "evt": "18.12.2005",
         "zyklus": "Mars",
         "titel": "Die Macht der Nosfera",
-        "text": "Bernd Frenz",
+        "text": [
+            "Bernd Frenz"
+        ],
         "bewertung": 3,
         "stimmen": 8,
         "personen": [
@@ -6464,7 +6777,9 @@
         "evt": "27.12.2005",
         "zyklus": "Mars",
         "titel": "Reiseziel: Mars",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.13,
         "stimmen": 8,
         "personen": [
@@ -6498,7 +6813,9 @@
         "evt": "10.01.2006",
         "zyklus": "Mars",
         "titel": "Auf dem roten Planeten",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.25,
         "stimmen": 8,
         "personen": [
@@ -6531,7 +6848,9 @@
         "evt": "24.01.2006",
         "zyklus": "Mars",
         "titel": "Das Erbe der Alten",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.38,
         "stimmen": 8,
         "personen": [
@@ -6571,7 +6890,9 @@
         "evt": "07.02.2006",
         "zyklus": "Mars",
         "titel": "Orguudoos Brut",
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel"
+        ],
         "bewertung": 1.63,
         "stimmen": 8,
         "personen": [
@@ -6605,7 +6926,9 @@
         "evt": "21.02.2006",
         "zyklus": "Mars",
         "titel": "Schim\u00e4ren der W\u00fcste",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 2.78,
         "stimmen": 9,
         "personen": [
@@ -6632,7 +6955,9 @@
         "evt": "07.03.2006",
         "zyklus": "Mars",
         "titel": "Die Schrecken von Kabuul",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 2.56,
         "stimmen": 9,
         "personen": [
@@ -6664,7 +6989,9 @@
         "evt": "21.03.2006",
         "zyklus": "Mars",
         "titel": "Der Kristallschl\u00fcssel",
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "bewertung": 4,
         "stimmen": 7,
         "personen": [
@@ -6693,7 +7020,9 @@
         "evt": "04.04.2006",
         "zyklus": "Mars",
         "titel": "Wer den Sturm s\u00e4t...",
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "bewertung": 3.29,
         "stimmen": 7,
         "personen": [
@@ -6727,7 +7056,9 @@
         "evt": "18.04.2006",
         "zyklus": "Mars",
         "titel": "Canyon der toten Seelen",
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "bewertung": 3.17,
         "stimmen": 6,
         "personen": [
@@ -6771,7 +7102,9 @@
         "evt": "02.05.2006",
         "zyklus": "Mars",
         "titel": "Der vielarmige Tod",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 2.5,
         "stimmen": 8,
         "personen": [
@@ -6798,7 +7131,9 @@
         "evt": "16.05.2006",
         "zyklus": "Mars",
         "titel": "Am heiligen Berg",
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel"
+        ],
         "bewertung": 2.88,
         "stimmen": 8,
         "personen": [
@@ -6829,7 +7164,10 @@
         "evt": "30.05.2006",
         "zyklus": "Mars",
         "titel": "Sohn dreier Welten",
-        "text": "Stephanie Seidel, Ronald M. Hahn",
+        "text": [
+            "Stephanie Seidel",
+            "Ronald M. Hahn"
+        ],
         "bewertung": 2.71,
         "stimmen": 7,
         "personen": [
@@ -6868,7 +7206,9 @@
         "evt": "13.06.2006",
         "zyklus": "Mars",
         "titel": "Tor in die Vergangenheit",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.33,
         "stimmen": 6,
         "personen": [
@@ -6896,7 +7236,9 @@
         "evt": "27.06.2006",
         "zyklus": "Mars",
         "titel": "Das fremde Leben",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.17,
         "stimmen": 6,
         "personen": [
@@ -6928,7 +7270,9 @@
         "evt": "11.07.2006",
         "zyklus": "Mars",
         "titel": "Der Weltenwanderer",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 5,
         "stimmen": 6,
         "personen": [
@@ -6960,7 +7304,9 @@
         "evt": "25.07.2006",
         "zyklus": "Mars",
         "titel": "Die Scharen der Nacht",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 2.43,
         "stimmen": 7,
         "personen": [
@@ -6987,7 +7333,9 @@
         "evt": "08.08.2006",
         "zyklus": "Mars",
         "titel": "Todfeinde",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.17,
         "stimmen": 6,
         "personen": [
@@ -7021,7 +7369,9 @@
         "evt": "22.08.2006",
         "zyklus": "Mars",
         "titel": "Der Sturm",
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel"
+        ],
         "bewertung": 3.29,
         "stimmen": 7,
         "personen": [
@@ -7062,7 +7412,9 @@
         "evt": "05.09.2006",
         "zyklus": "Mars",
         "titel": "Der Prophet aus der W\u00fcste",
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "bewertung": 4,
         "stimmen": 6,
         "personen": [
@@ -7109,7 +7461,9 @@
         "evt": "19.09.2006",
         "zyklus": "Mars",
         "titel": "Die Seuche",
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "bewertung": 4,
         "stimmen": 6,
         "personen": [
@@ -7148,7 +7502,9 @@
         "evt": "03.10.2006",
         "zyklus": "Ausala",
         "titel": "R\u00fcckkehr zur Erde",
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "bewertung": 3.67,
         "stimmen": 6,
         "personen": [
@@ -7191,7 +7547,9 @@
         "evt": "17.10.2006",
         "zyklus": "Ausala",
         "titel": "Insel der Flederm\u00e4use",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 2.57,
         "stimmen": 7,
         "personen": [
@@ -7218,7 +7576,9 @@
         "evt": "31.10.2006",
         "zyklus": "Ausala",
         "titel": "Im Reich der Hydriten",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.5,
         "stimmen": 6,
         "personen": [
@@ -7249,7 +7609,9 @@
         "evt": "14.11.2006",
         "zyklus": "Ausala",
         "titel": "Die vergessene Macht",
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel"
+        ],
         "bewertung": 1.83,
         "stimmen": 6,
         "personen": [
@@ -7290,7 +7652,9 @@
         "evt": "28.11.2006",
         "zyklus": "Ausala",
         "titel": "Gefangene der Traumzeit",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 2.29,
         "stimmen": 7,
         "personen": [
@@ -7314,7 +7678,10 @@
         "evt": "12.12.2006",
         "zyklus": "Ausala",
         "titel": "Die Enkel der Astronauten",
-        "text": "Mia Zorn, Jo Zybell",
+        "text": [
+            "Mia Zorn",
+            "Jo Zybell"
+        ],
         "bewertung": 3.67,
         "stimmen": 6,
         "personen": [
@@ -7352,7 +7719,9 @@
         "evt": "22.12.2006",
         "zyklus": "Ausala",
         "titel": "Der ewige Turm",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 2.5,
         "stimmen": 6,
         "personen": [
@@ -7389,7 +7758,9 @@
         "evt": "09.01.2007",
         "zyklus": "Ausala",
         "titel": "Im Dorf der Telepathen",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 2.83,
         "stimmen": 6,
         "personen": [
@@ -7417,7 +7788,9 @@
         "evt": "23.01.2007",
         "zyklus": "Ausala",
         "titel": "Die Stadt Gottes",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 2.83,
         "stimmen": 6,
         "personen": [
@@ -7462,7 +7835,10 @@
         "evt": "06.02.2007",
         "zyklus": "Ausala",
         "titel": "Die Herren von Sydney",
-        "text": "Stephanie Seidel, Ronald M. Hahn",
+        "text": [
+            "Stephanie Seidel",
+            "Ronald M. Hahn"
+        ],
         "bewertung": 2.33,
         "stimmen": 6,
         "personen": [
@@ -7495,7 +7871,9 @@
         "evt": "20.02.2007",
         "zyklus": "Ausala",
         "titel": "Ein Albtraum erwacht",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 3.43,
         "stimmen": 7,
         "personen": [
@@ -7520,7 +7898,9 @@
         "evt": "06.03.2007",
         "zyklus": "Ausala",
         "titel": "W\u00e4chter der Stille",
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel"
+        ],
         "bewertung": 3,
         "stimmen": 6,
         "personen": [
@@ -7552,7 +7932,10 @@
         "evt": "20.03.2007",
         "zyklus": "Ausala",
         "titel": "Angriff der Anangu",
-        "text": "Mia Zorn, Jo Zybell",
+        "text": [
+            "Mia Zorn",
+            "Jo Zybell"
+        ],
         "bewertung": 3.2,
         "stimmen": 5,
         "personen": [
@@ -7576,7 +7959,9 @@
         "evt": "03.04.2007",
         "zyklus": "Ausala",
         "titel": "Der lebende Nebel",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 2,
         "stimmen": 5,
         "personen": [
@@ -7607,7 +7992,9 @@
         "evt": "01.05.2007",
         "zyklus": "Ausala",
         "titel": "Die Regenbogenschlange",
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "bewertung": 2.67,
         "stimmen": 6,
         "personen": [
@@ -7632,7 +8019,9 @@
         "evt": "01.05.2007",
         "zyklus": "Ausala",
         "titel": "Der Finder",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3,
         "stimmen": 4,
         "personen": [
@@ -7660,7 +8049,9 @@
         "evt": "15.05.2007",
         "zyklus": "Ausala",
         "titel": "Das Duell",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 2.5,
         "stimmen": 4,
         "personen": [
@@ -7683,7 +8074,9 @@
         "evt": "29.05.2007",
         "zyklus": "Ausala",
         "titel": "Nah und doch so fern",
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel"
+        ],
         "bewertung": 2.25,
         "stimmen": 4,
         "personen": [
@@ -7720,7 +8113,9 @@
         "evt": "12.06.2007",
         "zyklus": "Ausala",
         "titel": "Kurs in den Untergang",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 2.75,
         "stimmen": 4,
         "personen": [
@@ -7753,7 +8148,9 @@
         "evt": "26.06.2007",
         "zyklus": "Ausala",
         "titel": "Die H\u00f6lle der Erkenntnis",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.25,
         "stimmen": 4,
         "personen": [
@@ -7786,7 +8183,10 @@
         "evt": "10.07.2007",
         "zyklus": "Ausala",
         "titel": "Verloren im Outback",
-        "text": "Stephanie Seidel, Ronald M. Hahn",
+        "text": [
+            "Stephanie Seidel",
+            "Ronald M. Hahn"
+        ],
         "bewertung": 2.6,
         "stimmen": 5,
         "personen": [
@@ -7821,7 +8221,10 @@
         "evt": "24.07.2007",
         "zyklus": "Ausala",
         "titel": "Auf der Flucht",
-        "text": "Susan Schwartz, Jana Paradigi",
+        "text": [
+            "Susan Schwartz",
+            "Jana Paradigi"
+        ],
         "bewertung": 2.75,
         "stimmen": 4,
         "personen": [
@@ -7853,7 +8256,9 @@
         "evt": "07.08.2007",
         "zyklus": "Ausala",
         "titel": "Der Geist im Kristall",
-        "text": "Mia Zorn",
+        "text": [
+            "Mia Zorn"
+        ],
         "bewertung": 3.25,
         "stimmen": 4,
         "personen": [
@@ -7883,7 +8288,9 @@
         "evt": "21.08.2007",
         "zyklus": "Ausala",
         "titel": "Sohn und D\u00e4mon",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.4,
         "stimmen": 5,
         "personen": [
@@ -7913,7 +8320,9 @@
         "evt": "04.09.2007",
         "zyklus": "Ausala",
         "titel": "Schlacht der Giganten",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.2,
         "stimmen": 5,
         "personen": [
@@ -7944,7 +8353,10 @@
         "evt": "18.09.2007",
         "zyklus": "Afra",
         "titel": "Die Suche beginnt",
-        "text": "Jo Zybell, Michael Sch\u00f6nenbr\u00f6cher",
+        "text": [
+            "Jo Zybell",
+            "Michael Sch\u00f6nenbr\u00f6cher"
+        ],
         "bewertung": 3.43,
         "stimmen": 7,
         "personen": [
@@ -7978,7 +8390,9 @@
         "evt": "02.10.2007",
         "zyklus": "Afra",
         "titel": "Die Racheg\u00f6ttin",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 3.83,
         "stimmen": 6,
         "personen": [
@@ -8007,7 +8421,9 @@
         "evt": "16.10.2007",
         "zyklus": "Afra",
         "titel": "Unter schwarzer Flagge",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 3.83,
         "stimmen": 6,
         "personen": [
@@ -8040,7 +8456,9 @@
         "evt": "30.10.2007",
         "zyklus": "Afra",
         "titel": "Die W\u00fcstenfalle",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 2.63,
         "stimmen": 8,
         "personen": [
@@ -8077,7 +8495,9 @@
         "evt": "13.11.2007",
         "zyklus": "Afra",
         "titel": "An Afras Ufern",
-        "text": "Mia Zorn",
+        "text": [
+            "Mia Zorn"
+        ],
         "bewertung": 3,
         "stimmen": 7,
         "personen": [
@@ -8110,7 +8530,9 @@
         "evt": "27.11.2007",
         "zyklus": "Afra",
         "titel": "Das Zeichen der Ewigkeit",
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel"
+        ],
         "bewertung": 3.25,
         "stimmen": 8,
         "personen": [
@@ -8140,7 +8562,10 @@
         "evt": "11.12.2007",
         "zyklus": "Afra",
         "titel": "Unterirdisch",
-        "text": "Mia Zorn, Jo Zybell",
+        "text": [
+            "Mia Zorn",
+            "Jo Zybell"
+        ],
         "bewertung": 3.14,
         "stimmen": 7,
         "personen": [
@@ -8163,7 +8588,9 @@
         "evt": "25.12.2007",
         "zyklus": "Afra",
         "titel": "Weg eines Gottes",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3.86,
         "stimmen": 7,
         "personen": [
@@ -8200,7 +8627,9 @@
         "evt": "08.01.2008",
         "zyklus": "Afra",
         "titel": "Nach der Eiszeit",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3.86,
         "stimmen": 7,
         "personen": [
@@ -8243,7 +8672,10 @@
         "evt": "22.01.2008",
         "zyklus": "Afra",
         "titel": "Die fliegende Stadt",
-        "text": "Susan Schwartz, Jana Paradigi",
+        "text": [
+            "Susan Schwartz",
+            "Jana Paradigi"
+        ],
         "bewertung": 3.29,
         "stimmen": 7,
         "personen": [
@@ -8266,7 +8698,9 @@
         "evt": "05.02.2008",
         "zyklus": "Afra",
         "titel": "Unter dem Vulkan",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 3,
         "stimmen": 7,
         "personen": [
@@ -8291,7 +8725,9 @@
         "evt": "19.02.2008",
         "zyklus": "Afra",
         "titel": "Die Zombie-Seuche",
-        "text": "Mia Zorn",
+        "text": [
+            "Mia Zorn"
+        ],
         "bewertung": 3.14,
         "stimmen": 7,
         "personen": [
@@ -8321,7 +8757,9 @@
         "evt": "04.03.2008",
         "zyklus": "Afra",
         "titel": "Beim Stamm der Silberr\u00fccken",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.29,
         "stimmen": 7,
         "personen": [
@@ -8359,7 +8797,9 @@
         "evt": "18.03.2008",
         "zyklus": "Afra",
         "titel": "Aruulas Grab",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3.25,
         "stimmen": 8,
         "personen": [
@@ -8388,7 +8828,9 @@
         "evt": "01.04.2008",
         "zyklus": "Afra",
         "titel": "Der Mann aus der Vergangenheit",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 5,
         "stimmen": 8,
         "personen": [
@@ -8433,7 +8875,9 @@
         "evt": "15.04.2008",
         "zyklus": "Afra",
         "titel": "Die Macht des Sehers",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.17,
         "stimmen": 6,
         "personen": [
@@ -8465,7 +8909,9 @@
         "evt": "29.04.2008",
         "zyklus": "Afra",
         "titel": "Jenseits von Raum und Zeit",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.8,
         "stimmen": 5,
         "personen": [
@@ -8487,7 +8933,9 @@
         "evt": "13.05.2008",
         "zyklus": "Afra",
         "titel": "Der Unsichtbare",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 3.17,
         "stimmen": 6,
         "personen": [
@@ -8515,7 +8963,9 @@
         "evt": "27.05.2008",
         "zyklus": "Afra",
         "titel": "Nefertari",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3.43,
         "stimmen": 7,
         "personen": [
@@ -8558,7 +9008,9 @@
         "evt": "10.06.2008",
         "zyklus": "Afra",
         "titel": "Kaiserd\u00e4mmerung",
-        "text": "Mia Zorn",
+        "text": [
+            "Mia Zorn"
+        ],
         "bewertung": 3.6,
         "stimmen": 5,
         "personen": [
@@ -8589,7 +9041,9 @@
         "evt": "24.06.2008",
         "zyklus": "Afra",
         "titel": "Die Reise nach Taraganda",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 3.2,
         "stimmen": 5,
         "personen": [
@@ -8623,7 +9077,9 @@
         "evt": "08.07.2008",
         "zyklus": "Afra",
         "titel": "Feindliche \u00dcbernahme",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3,
         "stimmen": 7,
         "personen": [
@@ -8659,7 +9115,9 @@
         "evt": "22.07.2008",
         "zyklus": "Afra",
         "titel": "Angriff auf die Wolkenstadt",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4,
         "stimmen": 6,
         "personen": [
@@ -8691,7 +9149,9 @@
         "evt": "05.08.2008",
         "zyklus": "Afra",
         "titel": "Die S\u00fcnden des Sohnes",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.5,
         "stimmen": 6,
         "personen": [
@@ -8726,7 +9186,9 @@
         "evt": "19.08.2008",
         "zyklus": "Afra",
         "titel": "Im Turm des Warlords",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 2.67,
         "stimmen": 6,
         "personen": [
@@ -8756,7 +9218,10 @@
         "evt": "02.09.2008",
         "zyklus": "Antarktis",
         "titel": "Kalis Kinder",
-        "text": "Michelle Stern, Christian Schwarz",
+        "text": [
+            "Michelle Stern",
+            "Christian Schwarz"
+        ],
         "bewertung": 2.33,
         "stimmen": 6,
         "personen": [
@@ -8784,7 +9249,9 @@
         "evt": "16.09.2008",
         "zyklus": "Antarktis",
         "titel": "Das Sch\u00e4deldorf",
-        "text": "Mia Zorn",
+        "text": [
+            "Mia Zorn"
+        ],
         "bewertung": 4.29,
         "stimmen": 7,
         "personen": [
@@ -8825,7 +9292,9 @@
         "evt": "30.09.2008",
         "zyklus": "Antarktis",
         "titel": "Herr des versunkenen Reiches",
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel"
+        ],
         "bewertung": 3.67,
         "stimmen": 6,
         "personen": [
@@ -8856,7 +9325,9 @@
         "evt": "14.10.2008",
         "zyklus": "Antarktis",
         "titel": "Crows Schatten",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4,
         "stimmen": 6,
         "personen": [
@@ -8907,7 +9378,10 @@
         "evt": "28.10.2008",
         "zyklus": "Antarktis",
         "titel": "Flashback",
-        "text": "Susanne Picard, Michael Sch\u00f6nenbr\u00f6cher",
+        "text": [
+            "Susanne Picard",
+            "Michael Sch\u00f6nenbr\u00f6cher"
+        ],
         "bewertung": 3.67,
         "stimmen": 6,
         "personen": [
@@ -8938,7 +9412,9 @@
         "evt": "11.11.2008",
         "zyklus": "Antarktis",
         "titel": "Gilam'esh'gad",
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel"
+        ],
         "bewertung": 4,
         "stimmen": 6,
         "personen": [
@@ -8969,7 +9445,9 @@
         "evt": "25.11.2008",
         "zyklus": "Antarktis",
         "titel": "Der Preis des Verrats",
-        "text": "Mia Zorn",
+        "text": [
+            "Mia Zorn"
+        ],
         "bewertung": 3.67,
         "stimmen": 6,
         "personen": [
@@ -9008,7 +9486,9 @@
         "evt": "09.12.2008",
         "zyklus": "Antarktis",
         "titel": "H\u00f6llisches Paradies",
-        "text": "Volker Ferkau",
+        "text": [
+            "Volker Ferkau"
+        ],
         "bewertung": 3,
         "stimmen": 6,
         "personen": [
@@ -9043,7 +9523,9 @@
         "evt": "23.12.2008",
         "zyklus": "Antarktis",
         "titel": "Enklave der Tr\u00e4umer",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 3.83,
         "stimmen": 6,
         "personen": [
@@ -9075,7 +9557,9 @@
         "evt": "06.01.2009",
         "zyklus": "Antarktis",
         "titel": "Das Drachennest",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 2.83,
         "stimmen": 6,
         "personen": [
@@ -9106,7 +9590,9 @@
         "evt": "20.01.2009",
         "zyklus": "Antarktis",
         "titel": "Auf dem sechsten Kontinent",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 3.2,
         "stimmen": 5,
         "personen": [
@@ -9137,7 +9623,10 @@
         "evt": "03.02.2009",
         "zyklus": "Antarktis",
         "titel": "Gestrandet",
-        "text": "Ronald M. Hahn, Christian Schwarz",
+        "text": [
+            "Ronald M. Hahn",
+            "Christian Schwarz"
+        ],
         "bewertung": 4.2,
         "stimmen": 5,
         "personen": [
@@ -9170,7 +9659,9 @@
         "evt": "17.02.2009",
         "zyklus": "Antarktis",
         "titel": "Die Welt in der Tiefe",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3.6,
         "stimmen": 5,
         "personen": [
@@ -9202,7 +9693,9 @@
         "evt": "03.03.2009",
         "zyklus": "Antarktis",
         "titel": "Herz aus Eis",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 3.8,
         "stimmen": 5,
         "personen": [
@@ -9238,7 +9731,9 @@
         "evt": "17.03.2009",
         "zyklus": "Antarktis",
         "titel": "An der Pforte des Hades",
-        "text": "Mia Zorn",
+        "text": [
+            "Mia Zorn"
+        ],
         "bewertung": 3,
         "stimmen": 5,
         "personen": [
@@ -9268,7 +9763,9 @@
         "evt": "31.03.2009",
         "zyklus": "Antarktis",
         "titel": "Zeitsplitter",
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "bewertung": 4.67,
         "stimmen": 6,
         "personen": [
@@ -9293,7 +9790,9 @@
         "evt": "14.04.2009",
         "zyklus": "Antarktis",
         "titel": "Splitterzeit",
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "bewertung": 5,
         "stimmen": 5,
         "personen": [
@@ -9316,7 +9815,10 @@
         "evt": "28.04.2009",
         "zyklus": "Antarktis",
         "titel": "Im Fadenkreuz",
-        "text": "Jo Zybell, Mia Zorn",
+        "text": [
+            "Jo Zybell",
+            "Mia Zorn"
+        ],
         "bewertung": 4.4,
         "stimmen": 5,
         "personen": [
@@ -9348,7 +9850,9 @@
         "evt": "12.05.2009",
         "zyklus": "Antarktis",
         "titel": "Das namenlose Grauen",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 3.25,
         "stimmen": 4,
         "personen": [
@@ -9387,7 +9891,9 @@
         "evt": "26.05.2009",
         "zyklus": "Antarktis",
         "titel": "Der dunkle Traum",
-        "text": "Volker Ferkau",
+        "text": [
+            "Volker Ferkau"
+        ],
         "bewertung": 2,
         "stimmen": 5,
         "personen": [
@@ -9414,7 +9920,9 @@
         "evt": "09.06.2009",
         "zyklus": "Antarktis",
         "titel": "Geisterstadt Washington",
-        "text": "Mia Zorn",
+        "text": [
+            "Mia Zorn"
+        ],
         "bewertung": 4,
         "stimmen": 4,
         "personen": [
@@ -9454,7 +9962,9 @@
         "evt": "23.06.2009",
         "zyklus": "Antarktis",
         "titel": "Am Ende aller Zeit",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 5,
         "stimmen": 5,
         "personen": [
@@ -9479,7 +9989,9 @@
         "evt": "07.07.2009",
         "zyklus": "Antarktis",
         "titel": "Der Kerker der Pandora",
-        "text": "Mia Zorn",
+        "text": [
+            "Mia Zorn"
+        ],
         "bewertung": 3.8,
         "stimmen": 5,
         "personen": [
@@ -9508,7 +10020,9 @@
         "evt": "21.07.2009",
         "zyklus": "Antarktis",
         "titel": "Entfesselte Gewalten",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.8,
         "stimmen": 5,
         "personen": [
@@ -9547,7 +10061,9 @@
         "evt": "04.08.2009",
         "zyklus": "Antarktis",
         "titel": "Showdown",
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel"
+        ],
         "bewertung": 4,
         "stimmen": 5,
         "personen": [
@@ -9577,7 +10093,9 @@
         "evt": "18.08.2009",
         "zyklus": "Schatten",
         "titel": "R\u00fcckkehr nach Euree",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.6,
         "stimmen": 5,
         "personen": [
@@ -9617,7 +10135,9 @@
         "evt": "01.09.2009",
         "zyklus": "Schatten",
         "titel": "Der Taratzenk\u00f6nig",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3.6,
         "stimmen": 5,
         "personen": [
@@ -9653,7 +10173,9 @@
         "evt": "15.09.2009",
         "zyklus": "Schatten",
         "titel": "Die Schrecken der Medusa",
-        "text": "Volker Ferkau",
+        "text": [
+            "Volker Ferkau"
+        ],
         "bewertung": 4.2,
         "stimmen": 5,
         "personen": [
@@ -9684,7 +10206,9 @@
         "evt": "29.09.2009",
         "zyklus": "Schatten",
         "titel": "Das Terror-Gen",
-        "text": "Mia Zorn",
+        "text": [
+            "Mia Zorn"
+        ],
         "bewertung": 3.6,
         "stimmen": 5,
         "personen": [
@@ -9728,7 +10252,9 @@
         "evt": "13.10.2009",
         "zyklus": "Schatten",
         "titel": "Das Nest",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 3.4,
         "stimmen": 5,
         "personen": [
@@ -9762,7 +10288,9 @@
         "evt": "27.10.2009",
         "zyklus": "Schatten",
         "titel": "Winterhexe",
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "bewertung": 3.5,
         "stimmen": 4,
         "personen": [
@@ -9794,7 +10322,10 @@
         "evt": "10.11.2009",
         "zyklus": "Schatten",
         "titel": "Der K\u00f6nig von Schottland",
-        "text": "Mia Zorn, Christian Schwarz",
+        "text": [
+            "Mia Zorn",
+            "Christian Schwarz"
+        ],
         "bewertung": 3.5,
         "stimmen": 4,
         "personen": [
@@ -9823,7 +10354,9 @@
         "evt": "24.11.2009",
         "zyklus": "Schatten",
         "titel": "Die Spur der Schatten",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.25,
         "stimmen": 4,
         "personen": [
@@ -9854,7 +10387,9 @@
         "evt": "08.12.2009",
         "zyklus": "Schatten",
         "titel": "Chronik des Verderbens",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 4.75,
         "stimmen": 4,
         "personen": [
@@ -9891,7 +10426,9 @@
         "evt": "22.12.2009",
         "zyklus": "Schatten",
         "titel": "Die Stunde der Wahrheit",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 5,
         "stimmen": 4,
         "personen": [
@@ -9930,7 +10467,9 @@
         "evt": "05.01.2010",
         "zyklus": "Schatten",
         "titel": "Fly me to the moon",
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "bewertung": 3.5,
         "stimmen": 4,
         "personen": [
@@ -9962,7 +10501,9 @@
         "evt": "19.01.2010",
         "zyklus": "Schatten",
         "titel": "Ein falscher Engel",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 4,
         "stimmen": 4,
         "personen": [
@@ -9999,7 +10540,9 @@
         "evt": "02.02.2010",
         "zyklus": "Schatten",
         "titel": "Route 66",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 4.4,
         "stimmen": 5,
         "personen": [
@@ -10024,7 +10567,9 @@
         "evt": "16.02.2010",
         "zyklus": "Schatten",
         "titel": "Von Menschen und Echsen",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 2.75,
         "stimmen": 4,
         "personen": [
@@ -10052,7 +10597,10 @@
         "evt": "02.03.2010",
         "zyklus": "Schatten",
         "titel": "Verschollen",
-        "text": "Mia Zorn, Jo Zybell",
+        "text": [
+            "Mia Zorn",
+            "Jo Zybell"
+        ],
         "bewertung": 3.25,
         "stimmen": 4,
         "personen": [
@@ -10094,7 +10642,9 @@
         "evt": "16.03.2010",
         "zyklus": "Schatten",
         "titel": "Das letzte Tabu",
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "bewertung": 4.5,
         "stimmen": 4,
         "personen": [
@@ -10124,7 +10674,9 @@
         "evt": "30.03.2010",
         "zyklus": "Schatten",
         "titel": "Das Todesschiff",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 3.75,
         "stimmen": 4,
         "personen": [
@@ -10155,7 +10707,9 @@
         "evt": "13.04.2010",
         "zyklus": "Schatten",
         "titel": "Die G\u00f6tter des Olymp",
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "bewertung": 4.75,
         "stimmen": 4,
         "personen": [
@@ -10186,7 +10740,9 @@
         "evt": "27.04.2010",
         "zyklus": "Schatten",
         "titel": "Schritt in die Unsterblichkeit",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.75,
         "stimmen": 4,
         "personen": [
@@ -10227,7 +10783,9 @@
         "evt": "11.05.2010",
         "zyklus": "Schatten",
         "titel": "Andronenreiter",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 3.5,
         "stimmen": 4,
         "personen": [
@@ -10258,7 +10816,9 @@
         "evt": "25.05.2010",
         "zyklus": "Schatten",
         "titel": "Hinter dem schwarzen Tor",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3,
         "stimmen": 4,
         "personen": [
@@ -10292,7 +10852,9 @@
         "evt": "08.06.2010",
         "zyklus": "Schatten",
         "titel": "Fr\u00fcchte des Zorns",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 3.75,
         "stimmen": 4,
         "personen": [
@@ -10322,7 +10884,9 @@
         "evt": "22.06.2010",
         "zyklus": "Schatten",
         "titel": "Dieser Hunger nach Leben",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3.8,
         "stimmen": 5,
         "personen": [
@@ -10381,7 +10945,9 @@
         "evt": "06.07.2010",
         "zyklus": "Schatten",
         "titel": "Die Wandlung",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 3.25,
         "stimmen": 4,
         "personen": [
@@ -10408,7 +10974,9 @@
         "evt": "20.07.2010",
         "zyklus": "Schatten",
         "titel": "Die dunkle Seite des Mondes",
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "bewertung": 4,
         "stimmen": 4,
         "personen": [
@@ -10439,7 +11007,9 @@
         "evt": "03.08.2010",
         "zyklus": "Schatten",
         "titel": "Licht und Schatten",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.75,
         "stimmen": 4,
         "personen": [
@@ -10468,7 +11038,9 @@
         "evt": "17.08.2010",
         "zyklus": "Ursprung",
         "titel": "Die Genesis des Arthur Crow",
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "bewertung": 3,
         "stimmen": 5,
         "personen": [
@@ -10497,7 +11069,9 @@
         "evt": "31.08.2010",
         "zyklus": "Ursprung",
         "titel": "Xij",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 3.6,
         "stimmen": 5,
         "personen": [
@@ -10521,7 +11095,9 @@
         "evt": "14.09.2010",
         "zyklus": "Ursprung",
         "titel": "Der Gott der Mar'osianer",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 2.4,
         "stimmen": 5,
         "personen": [
@@ -10556,7 +11132,9 @@
         "evt": "28.09.2010",
         "zyklus": "Ursprung",
         "titel": "Der Fluch von Leeds",
-        "text": "Mia Zorn",
+        "text": [
+            "Mia Zorn"
+        ],
         "bewertung": 3,
         "stimmen": 5,
         "personen": [
@@ -10592,7 +11170,9 @@
         "evt": "12.10.2010",
         "zyklus": "Ursprung",
         "titel": "Der Untergang Washingtons",
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel"
+        ],
         "bewertung": 2.2,
         "stimmen": 5,
         "personen": [
@@ -10643,7 +11223,9 @@
         "evt": "26.10.2010",
         "zyklus": "Ursprung",
         "titel": "Bausteine des Lebens",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 3.6,
         "stimmen": 5,
         "personen": [
@@ -10677,7 +11259,9 @@
         "evt": "09.11.2010",
         "zyklus": "Ursprung",
         "titel": "Der Schein tr\u00fcgt",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 2.4,
         "stimmen": 5,
         "personen": [
@@ -10713,7 +11297,9 @@
         "evt": "23.11.2010",
         "zyklus": "Ursprung",
         "titel": "Der Zorn der K\u00f6nigin",
-        "text": "Mia Zorn",
+        "text": [
+            "Mia Zorn"
+        ],
         "bewertung": 2.8,
         "stimmen": 5,
         "personen": [
@@ -10752,7 +11338,9 @@
         "evt": "07.12.2010",
         "zyklus": "Ursprung",
         "titel": "Augen der Ewigkeit",
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "bewertung": 2.8,
         "stimmen": 5,
         "personen": [
@@ -10794,7 +11382,9 @@
         "evt": "21.12.2010",
         "zyklus": "Ursprung",
         "titel": "Am Nabel der Welt",
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "bewertung": 3.67,
         "stimmen": 6,
         "personen": [
@@ -10825,7 +11415,9 @@
         "evt": "04.01.2011",
         "zyklus": "Ursprung",
         "titel": "Der k\u00f6rperlose Herrscher",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 2.4,
         "stimmen": 5,
         "personen": [
@@ -10862,7 +11454,9 @@
         "evt": "18.01.2011",
         "zyklus": "Ursprung",
         "titel": "Meister der L\u00fcge",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3.6,
         "stimmen": 5,
         "personen": [
@@ -10900,7 +11494,9 @@
         "evt": "01.02.2011",
         "zyklus": "Ursprung",
         "titel": "Labyrinth der Guule",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 2.4,
         "stimmen": 5,
         "personen": [
@@ -10929,7 +11525,9 @@
         "evt": "15.02.2011",
         "zyklus": "Ursprung",
         "titel": "Circus des Schreckens",
-        "text": "Jana Paradigi",
+        "text": [
+            "Jana Paradigi"
+        ],
         "bewertung": 2.4,
         "stimmen": 5,
         "personen": [
@@ -10957,7 +11555,9 @@
         "evt": "01.03.2011",
         "zyklus": "Ursprung",
         "titel": "In den G\u00e4rten von Sha'mar",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 2.6,
         "stimmen": 5,
         "personen": [
@@ -10988,7 +11588,9 @@
         "evt": "15.03.2011",
         "zyklus": "Ursprung",
         "titel": "Die heilige Stadt",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 4,
         "stimmen": 5,
         "personen": [
@@ -11043,7 +11645,9 @@
         "evt": "29.03.2011",
         "zyklus": "Ursprung",
         "titel": "Chim\u00e4ren",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 4.6,
         "stimmen": 5,
         "personen": [
@@ -11077,7 +11681,9 @@
         "evt": "12.04.2011",
         "zyklus": "Ursprung",
         "titel": "Running Men Blues",
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel"
+        ],
         "bewertung": 1.8,
         "stimmen": 5,
         "personen": [
@@ -11114,7 +11720,9 @@
         "evt": "26.04.2011",
         "zyklus": "Ursprung",
         "titel": "Der Keller",
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "bewertung": 4,
         "stimmen": 5,
         "personen": [
@@ -11150,7 +11758,9 @@
         "evt": "10.05.2011",
         "zyklus": "Ursprung",
         "titel": "Dunkle Wasser",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 2.5,
         "stimmen": 6,
         "personen": [
@@ -11186,7 +11796,9 @@
         "evt": "24.05.2011",
         "zyklus": "Ursprung",
         "titel": "Totes Land",
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "bewertung": 4.33,
         "stimmen": 6,
         "personen": [
@@ -11211,7 +11823,9 @@
         "evt": "07.06.2011",
         "zyklus": "Ursprung",
         "titel": "Die Zeit l\u00e4uft ab",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 3.5,
         "stimmen": 6,
         "personen": [
@@ -11250,7 +11864,9 @@
         "evt": "21.06.2011",
         "zyklus": "Ursprung",
         "titel": "Beim Ursprung",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.29,
         "stimmen": 7,
         "personen": [
@@ -11284,7 +11900,9 @@
         "evt": "05.07.2011",
         "zyklus": "Ursprung",
         "titel": "Das letzte Duell",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.25,
         "stimmen": 8,
         "personen": [
@@ -11314,7 +11932,9 @@
         "evt": "19.07.2011",
         "zyklus": "Streiter",
         "titel": "Unter Mutanten",
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "bewertung": 4.25,
         "stimmen": 8,
         "personen": [
@@ -11340,7 +11960,9 @@
         "evt": "02.08.2011",
         "zyklus": "Streiter",
         "titel": "Libretto des Todes",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 2.56,
         "stimmen": 9,
         "personen": [
@@ -11370,7 +11992,9 @@
         "evt": "16.08.2011",
         "zyklus": "Streiter",
         "titel": "Wo der Wahnsinn regiert",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 2.78,
         "stimmen": 9,
         "personen": [
@@ -11399,7 +12023,9 @@
         "evt": "30.08.2011",
         "zyklus": "Streiter",
         "titel": "Tod einer K\u00f6nigin",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.75,
         "stimmen": 8,
         "personen": [
@@ -11433,7 +12059,9 @@
         "evt": "13.09.2011",
         "zyklus": "Streiter",
         "titel": "Allein gegen alle",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 2.13,
         "stimmen": 8,
         "personen": [
@@ -11466,7 +12094,9 @@
         "evt": "27.09.2011",
         "zyklus": "Streiter",
         "titel": "Nach Millionen von Jahren",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 3.13,
         "stimmen": 8,
         "personen": [
@@ -11502,7 +12132,9 @@
         "evt": "11.10.2011",
         "zyklus": "Streiter",
         "titel": "Ein Hort des Wissens",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 2.75,
         "stimmen": 8,
         "personen": [
@@ -11536,7 +12168,9 @@
         "evt": "25.10.2011",
         "zyklus": "Streiter",
         "titel": "Sp\u00e4te Vergeltung",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 2.13,
         "stimmen": 8,
         "personen": [
@@ -11570,7 +12204,9 @@
         "evt": "08.11.2011",
         "zyklus": "Streiter",
         "titel": "Ein Planet wird vermisst",
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "bewertung": 3.67,
         "stimmen": 9,
         "personen": [
@@ -11624,7 +12260,10 @@
         "evt": "22.11.2011",
         "zyklus": "Streiter",
         "titel": "Die Rache der Hydriten",
-        "text": "Sascha Vennemann, Michelle Stern",
+        "text": [
+            "Sascha Vennemann",
+            "Michelle Stern"
+        ],
         "bewertung": 2.89,
         "stimmen": 9,
         "personen": [
@@ -11670,7 +12309,9 @@
         "evt": "06.12.2011",
         "zyklus": "Streiter",
         "titel": "Auf gewagtem Kurs",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 3.25,
         "stimmen": 8,
         "personen": [
@@ -11704,7 +12345,9 @@
         "evt": "20.12.2011",
         "zyklus": "Streiter",
         "titel": "Der Weg des B\u00f6sen",
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "bewertung": 3.67,
         "stimmen": 9,
         "personen": [
@@ -11738,7 +12381,9 @@
         "evt": "03.01.2012",
         "zyklus": "Streiter",
         "titel": "Die dunkelste Stunde",
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "bewertung": 4.25,
         "stimmen": 8,
         "personen": [
@@ -11779,7 +12424,9 @@
         "evt": "17.01.2012",
         "zyklus": "Streiter",
         "titel": "Der verlorene Pfad",
-        "text": "Stephanie Seidel",
+        "text": [
+            "Stephanie Seidel"
+        ],
         "bewertung": 3.4,
         "stimmen": 10,
         "personen": [
@@ -11816,7 +12463,9 @@
         "evt": "31.01.2012",
         "zyklus": "Streiter",
         "titel": "Exodus",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 4,
         "stimmen": 9,
         "personen": [
@@ -11852,7 +12501,9 @@
         "evt": "14.02.2012",
         "zyklus": "Streiter",
         "titel": "Apokalypse",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3.6,
         "stimmen": 10,
         "personen": [
@@ -11903,7 +12554,9 @@
         "evt": "28.02.2012",
         "zyklus": "Streiter",
         "titel": "Die Pest in Venedig",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 3.5,
         "stimmen": 10,
         "personen": [
@@ -11930,7 +12583,9 @@
         "evt": "13.03.2012",
         "zyklus": "Streiter",
         "titel": "Die letzten Stunden von Sodom",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 3.22,
         "stimmen": 9,
         "personen": [
@@ -11953,7 +12608,9 @@
         "evt": "27.03.2012",
         "zyklus": "Streiter",
         "titel": "Im Land des Tyrannen",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.44,
         "stimmen": 9,
         "personen": [
@@ -11980,7 +12637,9 @@
         "evt": "10.04.2012",
         "zyklus": "Streiter",
         "titel": "Paris - verbotene Stadt",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.63,
         "stimmen": 8,
         "personen": [
@@ -12006,7 +12665,10 @@
         "evt": "24.04.2012",
         "zyklus": "Streiter",
         "titel": "Die Schlacht von Dapur",
-        "text": "Sascha Vennemann, Christian Schwarz",
+        "text": [
+            "Sascha Vennemann",
+            "Christian Schwarz"
+        ],
         "bewertung": 3.22,
         "stimmen": 9,
         "personen": [
@@ -12029,7 +12691,9 @@
         "evt": "08.05.2012",
         "zyklus": "Streiter",
         "titel": "In 80 Welten durch den Tag",
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "bewertung": 5,
         "stimmen": 8,
         "personen": [
@@ -12051,7 +12715,9 @@
         "evt": "22.05.2012",
         "zyklus": "Streiter",
         "titel": "G\u00f6tterd\u00e4mmerung",
-        "text": "Mia Zorn",
+        "text": [
+            "Mia Zorn"
+        ],
         "bewertung": 2.75,
         "stimmen": 8,
         "personen": [
@@ -12076,7 +12742,9 @@
         "evt": "05.06.2012",
         "zyklus": "Streiter",
         "titel": "Die H\u00f6lle auf Erden",
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "bewertung": 3.44,
         "stimmen": 9,
         "personen": [
@@ -12100,7 +12768,9 @@
         "evt": "19.06.2012",
         "zyklus": "Streiter",
         "titel": "Eine neue Chance",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 3.88,
         "stimmen": 8,
         "personen": [
@@ -12149,7 +12819,9 @@
         "evt": "03.07.2012",
         "zyklus": "Archivar",
         "titel": "Gefahr aus dem All",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 4.55,
         "stimmen": 11,
         "personen": [
@@ -12189,7 +12861,9 @@
         "evt": "17.07.2012",
         "zyklus": "Archivar",
         "titel": "Schlangenmenschen",
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "bewertung": 3.2,
         "stimmen": 10,
         "personen": [
@@ -12224,7 +12898,10 @@
         "evt": "31.07.2012",
         "zyklus": "Archivar",
         "titel": "Mit eisernem Willen",
-        "text": "Michelle Stern, Ansgar Back",
+        "text": [
+            "Michelle Stern",
+            "Ansgar Back"
+        ],
         "bewertung": 3.6,
         "stimmen": 10,
         "personen": [
@@ -12266,7 +12943,9 @@
         "evt": "14.08.2012",
         "zyklus": "Archivar",
         "titel": "Flucht aus dem Sanktuarium",
-        "text": "Mia Zorn",
+        "text": [
+            "Mia Zorn"
+        ],
         "bewertung": 2.67,
         "stimmen": 9,
         "personen": [
@@ -12297,7 +12976,9 @@
         "evt": "28.08.2012",
         "zyklus": "Archivar",
         "titel": "Die F\u00e4hrte der Roboter",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 3.78,
         "stimmen": 9,
         "personen": [
@@ -12325,7 +13006,9 @@
         "evt": "11.09.2012",
         "zyklus": "Archivar",
         "titel": "Fremdwelt",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.7,
         "stimmen": 10,
         "personen": [
@@ -12356,7 +13039,9 @@
         "evt": "25.09.2012",
         "zyklus": "Archivar",
         "titel": "Verschollen in der Zeit",
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "bewertung": 4,
         "stimmen": 10,
         "personen": [
@@ -12389,7 +13074,10 @@
         "evt": "09.10.2012",
         "zyklus": "Archivar",
         "titel": "Der vergessene Tod",
-        "text": "Michelle Stern, Ansgar Back",
+        "text": [
+            "Michelle Stern",
+            "Ansgar Back"
+        ],
         "bewertung": 4.25,
         "stimmen": 8,
         "personen": [
@@ -12431,7 +13119,9 @@
         "evt": "23.10.2012",
         "zyklus": "Archivar",
         "titel": "Im Zentrum der Gewalten",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3.8,
         "stimmen": 10,
         "personen": [
@@ -12460,7 +13150,9 @@
         "evt": "06.11.2012",
         "zyklus": "Archivar",
         "titel": "Die Beute des Archivars",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 4.5,
         "stimmen": 12,
         "personen": [
@@ -12486,7 +13178,9 @@
         "evt": "20.11.2012",
         "zyklus": "Archivar",
         "titel": "Der verlorene Sohn",
-        "text": "Andreas Suchanek",
+        "text": [
+            "Andreas Suchanek"
+        ],
         "bewertung": 3.88,
         "stimmen": 8,
         "personen": [
@@ -12518,7 +13212,10 @@
         "evt": "04.12.2012",
         "zyklus": "Archivar",
         "titel": "Facetten der Furcht",
-        "text": "Jo Zybell, Michael Sch\u00f6nenbr\u00f6cher",
+        "text": [
+            "Jo Zybell",
+            "Michael Sch\u00f6nenbr\u00f6cher"
+        ],
         "bewertung": 4,
         "stimmen": 8,
         "personen": [
@@ -12563,7 +13260,9 @@
         "evt": "18.12.2012",
         "zyklus": "Archivar",
         "titel": "Zombies in New York",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 4.5,
         "stimmen": 10,
         "personen": [
@@ -12591,7 +13290,9 @@
         "evt": "02.01.2013",
         "zyklus": "Archivar",
         "titel": "Alpha = Omega",
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "bewertung": 4.9,
         "stimmen": 10,
         "personen": [
@@ -12619,7 +13320,9 @@
         "evt": "15.01.2013",
         "zyklus": "Archivar",
         "titel": "Die elfte Plage",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 4.2,
         "stimmen": 10,
         "personen": [
@@ -12665,7 +13368,9 @@
         "evt": "29.01.2013",
         "zyklus": "Archivar",
         "titel": "Werdegang einer Daa'murin",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 3.82,
         "stimmen": 11,
         "personen": [
@@ -12707,7 +13412,9 @@
         "evt": "12.02.2013",
         "zyklus": "Archivar",
         "titel": "In der Todeszone",
-        "text": "Andreas Suchanek",
+        "text": [
+            "Andreas Suchanek"
+        ],
         "bewertung": 4,
         "stimmen": 11,
         "personen": [
@@ -12737,7 +13444,9 @@
         "evt": "26.02.2013",
         "zyklus": "Archivar",
         "titel": "H\u00f6hen und Tiefen",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 2.92,
         "stimmen": 13,
         "personen": [
@@ -12768,7 +13477,9 @@
         "evt": "12.03.2013",
         "zyklus": "Archivar",
         "titel": "Invasion der Nanobots",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3.2,
         "stimmen": 15,
         "personen": [
@@ -12814,7 +13525,9 @@
         "evt": "26.03.2013",
         "zyklus": "Archivar",
         "titel": "Der Agartha-Code",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3.33,
         "stimmen": 12,
         "personen": [
@@ -12858,7 +13571,9 @@
         "evt": "09.04.2013",
         "zyklus": "Archivar",
         "titel": "Ein zweites Leben",
-        "text": "Andreas Suchanek",
+        "text": [
+            "Andreas Suchanek"
+        ],
         "bewertung": 3.6,
         "stimmen": 10,
         "personen": [
@@ -12889,7 +13604,10 @@
         "evt": "23.04.2013",
         "zyklus": "Archivar",
         "titel": "Die Augure",
-        "text": "Michelle Stern, Francis Farmer",
+        "text": [
+            "Michelle Stern",
+            "Francis Farmer"
+        ],
         "bewertung": 4.36,
         "stimmen": 11,
         "personen": [
@@ -12932,7 +13650,9 @@
         "evt": "07.05.2013",
         "zyklus": "Archivar",
         "titel": "Letzte Hoffnung",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 4.27,
         "stimmen": 11,
         "personen": [
@@ -12964,7 +13684,9 @@
         "evt": "21.05.2013",
         "zyklus": "Archivar",
         "titel": "Zwischen den Welten",
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "bewertung": 4.27,
         "stimmen": 11,
         "personen": [
@@ -12993,7 +13715,9 @@
         "evt": "04.06.2013",
         "zyklus": "Archivar",
         "titel": "In der Dom\u00e4ne",
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "bewertung": 4.73,
         "stimmen": 11,
         "personen": [
@@ -13022,7 +13746,10 @@
         "evt": "18.06.2013",
         "zyklus": "Zeitsprung",
         "titel": "Der Kult",
-        "text": "Jo Zybell, Michael Sch\u00f6nenbr\u00f6cher",
+        "text": [
+            "Jo Zybell",
+            "Michael Sch\u00f6nenbr\u00f6cher"
+        ],
         "bewertung": 4.36,
         "stimmen": 14,
         "personen": [
@@ -13047,7 +13774,9 @@
         "evt": "02.07.2013",
         "zyklus": "Zeitsprung",
         "titel": "Das Auge im Himmel",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 2.92,
         "stimmen": 13,
         "personen": [
@@ -13077,7 +13806,9 @@
         "evt": "16.07.2013",
         "zyklus": "Zeitsprung",
         "titel": "Wulfanen",
-        "text": "Ansgar Back",
+        "text": [
+            "Ansgar Back"
+        ],
         "bewertung": 3.42,
         "stimmen": 12,
         "personen": [
@@ -13108,7 +13839,9 @@
         "evt": "30.07.2013",
         "zyklus": "Zeitsprung",
         "titel": "Androiden-Herrscher",
-        "text": "Andreas Suchanek",
+        "text": [
+            "Andreas Suchanek"
+        ],
         "bewertung": 3.64,
         "stimmen": 11,
         "personen": [
@@ -13152,7 +13885,9 @@
         "evt": "13.08.2013",
         "zyklus": "Zeitsprung",
         "titel": "Alte Wunden",
-        "text": "Mia Zorn",
+        "text": [
+            "Mia Zorn"
+        ],
         "bewertung": 3.62,
         "stimmen": 13,
         "personen": [
@@ -13204,7 +13939,9 @@
         "evt": "27.08.2013",
         "zyklus": "Zeitsprung",
         "titel": "J\u00e4ger und Gejagte",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 2.83,
         "stimmen": 12,
         "personen": [
@@ -13241,7 +13978,9 @@
         "evt": "10.09.2013",
         "zyklus": "Zeitsprung",
         "titel": "Fehlfunktion",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 4,
         "stimmen": 12,
         "personen": [
@@ -13265,7 +14004,9 @@
         "evt": "24.09.2013",
         "zyklus": "Zeitsprung",
         "titel": "Herrscher des Mars",
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "bewertung": 4.25,
         "stimmen": 12,
         "personen": [
@@ -13305,7 +14046,9 @@
         "evt": "08.10.2013",
         "zyklus": "Zeitsprung",
         "titel": "Rebellen des Mars",
-        "text": "Susan Schwartz",
+        "text": [
+            "Susan Schwartz"
+        ],
         "bewertung": 3.75,
         "stimmen": 12,
         "personen": [
@@ -13342,7 +14085,9 @@
         "evt": "22.10.2013",
         "zyklus": "Zeitsprung",
         "titel": "Die Nacht der \u00bbTriffids\u00ab",
-        "text": "Ansgar Back",
+        "text": [
+            "Ansgar Back"
+        ],
         "bewertung": 3.5,
         "stimmen": 12,
         "personen": [
@@ -13373,7 +14118,9 @@
         "evt": "05.11.2013",
         "zyklus": "Zeitsprung",
         "titel": "Statthalter des B\u00f6sen",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 4.33,
         "stimmen": 12,
         "personen": [
@@ -13402,7 +14149,9 @@
         "evt": "19.11.2013",
         "zyklus": "Zeitsprung",
         "titel": "Unter dem Eis",
-        "text": "Michelle Stern",
+        "text": [
+            "Michelle Stern"
+        ],
         "bewertung": 3.18,
         "stimmen": 11,
         "personen": [
@@ -13436,7 +14185,9 @@
         "evt": "03.12.2013",
         "zyklus": "Zeitsprung",
         "titel": "Das Wei\u00dfe Grab",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 4.18,
         "stimmen": 11,
         "personen": [
@@ -13467,7 +14218,9 @@
         "evt": "17.12.2013",
         "zyklus": "Zeitsprung",
         "titel": "Der Kurier der Kristianer",
-        "text": "Ronald M. Hahn",
+        "text": [
+            "Ronald M. Hahn"
+        ],
         "bewertung": 3.4,
         "stimmen": 10,
         "personen": [
@@ -13495,7 +14248,9 @@
         "evt": "31.12.2013",
         "zyklus": "Zeitsprung",
         "titel": "Hinter der Maske",
-        "text": "Andreas Suchanek",
+        "text": [
+            "Andreas Suchanek"
+        ],
         "bewertung": 3.8,
         "stimmen": 10,
         "personen": [
@@ -13530,7 +14285,10 @@
         "evt": "14.01.2014",
         "zyklus": "Zeitsprung",
         "titel": "Ein K\u00e4fig aus Zeit",
-        "text": "Oliver Fr\u00f6hlich, Oliver M\u00fcller",
+        "text": [
+            "Oliver Fr\u00f6hlich",
+            "Oliver M\u00fcller"
+        ],
         "bewertung": 4.55,
         "stimmen": 11,
         "personen": [
@@ -13553,7 +14311,9 @@
         "evt": "28.01.2014",
         "zyklus": "Zeitsprung",
         "titel": "1000 Jahre wie ein Tag",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 3.3,
         "stimmen": 10,
         "personen": [
@@ -13589,7 +14349,9 @@
         "evt": "11.02.2014",
         "zyklus": "Zeitsprung",
         "titel": "Techno-Amazonen",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 1.9,
         "stimmen": 10,
         "personen": [
@@ -13637,7 +14399,9 @@
         "evt": "25.02.2014",
         "zyklus": "Zeitsprung",
         "titel": "Die Gott-Maschine",
-        "text": "Andreas Suchanek",
+        "text": [
+            "Andreas Suchanek"
+        ],
         "bewertung": 3.67,
         "stimmen": 9,
         "personen": [
@@ -13665,7 +14429,10 @@
         "evt": "11.03.2014",
         "zyklus": "Zeitsprung",
         "titel": "Die Kunst des \u00dcberlebens",
-        "text": "Ansgar Back, Manfred Weinland",
+        "text": [
+            "Ansgar Back",
+            "Manfred Weinland"
+        ],
         "bewertung": 4.5,
         "stimmen": 10,
         "personen": [
@@ -13701,7 +14468,9 @@
         "evt": "25.03.2014",
         "zyklus": "Zeitsprung",
         "titel": "Feindkontakt",
-        "text": "Andreas Suchanek",
+        "text": [
+            "Andreas Suchanek"
+        ],
         "bewertung": 3.7,
         "stimmen": 10,
         "personen": [
@@ -13727,7 +14496,9 @@
         "evt": "08.04.2014",
         "zyklus": "Zeitsprung",
         "titel": "Der Duft der Erkenntnis",
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "bewertung": 4.33,
         "stimmen": 9,
         "personen": [
@@ -13755,7 +14526,10 @@
         "evt": "22.04.2014",
         "zyklus": "Zeitsprung",
         "titel": "Die Vulkantaucher",
-        "text": "Michelle Stern, Lucy Guth",
+        "text": [
+            "Michelle Stern",
+            "Lucy Guth"
+        ],
         "bewertung": 3.67,
         "stimmen": 9,
         "personen": [
@@ -13790,7 +14564,9 @@
         "evt": "06.05.2014",
         "zyklus": "Zeitsprung",
         "titel": "Der Herr der Seelen",
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "bewertung": 4.25,
         "stimmen": 8,
         "personen": [
@@ -13821,7 +14597,9 @@
         "evt": "20.05.2014",
         "zyklus": "Zeitsprung",
         "titel": "Heimkehr eines Toten",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 3.71,
         "stimmen": 7,
         "personen": [
@@ -13848,7 +14626,9 @@
         "evt": "03.06.2014",
         "zyklus": "Zeitsprung",
         "titel": "Memorial Day",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 4.57,
         "stimmen": 7,
         "personen": [
@@ -13886,7 +14666,9 @@
         "evt": "17.06.2014",
         "zyklus": "Zeitsprung",
         "titel": "Matthew Drax \u2013 vermisst",
-        "text": "Ansgar Back",
+        "text": [
+            "Ansgar Back"
+        ],
         "bewertung": 4.33,
         "stimmen": 9,
         "personen": [
@@ -13915,7 +14697,9 @@
         "evt": "01.07.2014",
         "zyklus": "Zeitsprung",
         "titel": "Auf dem Dach der Welt",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3.63,
         "stimmen": 8,
         "personen": [
@@ -13958,7 +14742,9 @@
         "evt": "15.07.2014",
         "zyklus": "Zeitsprung",
         "titel": "Das zweite Gesicht",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 4.13,
         "stimmen": 8,
         "personen": [
@@ -13983,7 +14769,10 @@
         "evt": "29.07.2014",
         "zyklus": "Zeitsprung",
         "titel": "Das Berserker-Gen",
-        "text": "Ansgar Back, Andreas Suchanek",
+        "text": [
+            "Ansgar Back",
+            "Andreas Suchanek"
+        ],
         "bewertung": 3,
         "stimmen": 6,
         "personen": [
@@ -14014,7 +14803,9 @@
         "evt": "12.08.2014",
         "zyklus": "Zeitsprung",
         "titel": "Projekt Drax",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 3.33,
         "stimmen": 6,
         "personen": [
@@ -14041,7 +14832,9 @@
         "evt": "26.08.2014",
         "zyklus": "Zeitsprung",
         "titel": "Das Schwarze Kloster",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 4,
         "stimmen": 7,
         "personen": [
@@ -14093,7 +14886,9 @@
         "evt": "09.09.2014",
         "zyklus": "Zeitsprung",
         "titel": "Kriegspl\u00e4ne",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3.43,
         "stimmen": 7,
         "personen": [
@@ -14123,7 +14918,9 @@
         "evt": "23.09.2014",
         "zyklus": "Zeitsprung",
         "titel": "Der Mann, der nicht sterben konnte",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 3,
         "stimmen": 7,
         "personen": [
@@ -14151,7 +14948,9 @@
         "evt": "07.10.2014",
         "zyklus": "Zeitsprung",
         "titel": "Auf der Jagd nach dem Ich",
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "bewertung": 4.43,
         "stimmen": 7,
         "personen": [
@@ -14178,7 +14977,9 @@
         "evt": "21.10.2014",
         "zyklus": "Zeitsprung",
         "titel": "Manege der Freaks",
-        "text": "Claudia Kern",
+        "text": [
+            "Claudia Kern"
+        ],
         "bewertung": 4.57,
         "stimmen": 7,
         "personen": [
@@ -14210,7 +15011,9 @@
         "evt": "04.11.2014",
         "zyklus": "Zeitsprung",
         "titel": "Feuer \u00fcber Japan",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 3,
         "stimmen": 5,
         "personen": [
@@ -14233,7 +15036,9 @@
         "evt": "18.11.2014",
         "zyklus": "Zeitsprung",
         "titel": "Feldversuche",
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "bewertung": 4.14,
         "stimmen": 7,
         "personen": [
@@ -14262,7 +15067,9 @@
         "evt": "02.12.2014",
         "zyklus": "Zeitsprung",
         "titel": "Der Grimm",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 3.71,
         "stimmen": 7,
         "personen": [
@@ -14288,7 +15095,9 @@
         "evt": "16.12.2014",
         "zyklus": "Zeitsprung",
         "titel": "Verloren im Sturm",
-        "text": "Ansgar Back",
+        "text": [
+            "Ansgar Back"
+        ],
         "bewertung": 4,
         "stimmen": 5,
         "personen": [
@@ -14312,7 +15121,9 @@
         "evt": "30.12.2014",
         "zyklus": "Zeitsprung",
         "titel": "Der Sturz des Titanen",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3,
         "stimmen": 5,
         "personen": [
@@ -14346,7 +15157,9 @@
         "evt": "13.01.2015",
         "zyklus": "Zeitsprung",
         "titel": "Daa'muren unter sich",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 3.2,
         "stimmen": 5,
         "personen": [
@@ -14371,7 +15184,9 @@
         "evt": "27.01.2015",
         "zyklus": "Zeitsprung",
         "titel": "Der Weg nach Agartha",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 3,
         "stimmen": 6,
         "personen": [
@@ -14402,7 +15217,9 @@
         "evt": "10.02.2015",
         "zyklus": "Zeitsprung",
         "titel": "Die \u00dcberlebenden",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 3.6,
         "stimmen": 5,
         "personen": [
@@ -14436,7 +15253,9 @@
         "evt": "24.02.2015",
         "zyklus": "Zeitsprung",
         "titel": "Blindflug",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.5,
         "stimmen": 6,
         "personen": [
@@ -14463,7 +15282,10 @@
         "evt": "10.03.2015",
         "zyklus": "Zeitsprung",
         "titel": "Die Welt im Chaos",
-        "text": "Andreas Suchanek, Nicole B\u00f6hm",
+        "text": [
+            "Andreas Suchanek",
+            "Nicole B\u00f6hm"
+        ],
         "bewertung": 3.2,
         "stimmen": 5,
         "personen": [
@@ -14493,7 +15315,9 @@
         "evt": "24.03.2015",
         "zyklus": "Zeitsprung",
         "titel": "Der Todsucher",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 2.4,
         "stimmen": 5,
         "personen": [
@@ -14534,7 +15358,9 @@
         "evt": "07.04.2015",
         "zyklus": "Zeitsprung",
         "titel": "Visionen des Untergangs",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3,
         "stimmen": 3,
         "personen": [
@@ -14569,7 +15395,9 @@
         "evt": "21.04.2015",
         "zyklus": "Zeitsprung",
         "titel": "Durch Zeit und Raum",
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "bewertung": 4.33,
         "stimmen": 3,
         "personen": [
@@ -14598,7 +15426,10 @@
         "evt": "05.05.2015",
         "zyklus": "Zeitsprung",
         "titel": "Exit",
-        "text": "Sascha Vennemann, Michael Sch\u00f6nenbr\u00f6cher",
+        "text": [
+            "Sascha Vennemann",
+            "Michael Sch\u00f6nenbr\u00f6cher"
+        ],
         "bewertung": 4.2,
         "stimmen": 5,
         "personen": [
@@ -14631,7 +15462,9 @@
         "evt": "19.05.2015",
         "zyklus": "Fremdwelt",
         "titel": "Transfer",
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "bewertung": 4.67,
         "stimmen": 3,
         "personen": [
@@ -14659,7 +15492,9 @@
         "evt": "02.06.2015",
         "zyklus": "Fremdwelt",
         "titel": "Neuland",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.25,
         "stimmen": 4,
         "personen": [
@@ -14677,7 +15512,9 @@
         "evt": "16.06.2015",
         "zyklus": "Fremdwelt",
         "titel": "Kaverne der vergessenen B\u00fccher",
-        "text": "Ansgar Back",
+        "text": [
+            "Ansgar Back"
+        ],
         "bewertung": 3.33,
         "stimmen": 3,
         "personen": [
@@ -14695,7 +15532,9 @@
         "evt": "30.06.2015",
         "zyklus": "Fremdwelt",
         "titel": "Xaanas Weg",
-        "text": "Jana Paradigi",
+        "text": [
+            "Jana Paradigi"
+        ],
         "bewertung": 4,
         "stimmen": 3,
         "personen": [
@@ -14714,7 +15553,9 @@
         "evt": "14.07.2015",
         "zyklus": "Fremdwelt",
         "titel": "Fette Tage in Toxx",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 3.67,
         "stimmen": 3,
         "personen": [
@@ -14731,7 +15572,9 @@
         "evt": "28.07.2015",
         "zyklus": "Fremdwelt",
         "titel": "Gefrorene Zeit",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3,
         "stimmen": 3,
         "personen": [
@@ -14750,7 +15593,9 @@
         "evt": "11.08.2015",
         "zyklus": "Fremdwelt",
         "titel": "Der dunkle Fluss",
-        "text": "Mia Zorn",
+        "text": [
+            "Mia Zorn"
+        ],
         "bewertung": 3,
         "stimmen": 3,
         "personen": [
@@ -14767,7 +15612,9 @@
         "evt": "25.08.2015",
         "zyklus": "Fremdwelt",
         "titel": "Verkehrte Welt",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 3,
         "stimmen": 3,
         "personen": [
@@ -14784,7 +15631,9 @@
         "evt": "08.09.2015",
         "zyklus": "Fremdwelt",
         "titel": "In der Kriegszone",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 4.25,
         "stimmen": 4,
         "personen": [
@@ -14801,7 +15650,9 @@
         "evt": "22.09.2015",
         "zyklus": "Fremdwelt",
         "titel": "Falsche G\u00f6tter",
-        "text": "Jana Paradigi",
+        "text": [
+            "Jana Paradigi"
+        ],
         "bewertung": 3.33,
         "stimmen": 3,
         "personen": [
@@ -14820,7 +15671,9 @@
         "evt": "06.10.2015",
         "zyklus": "Fremdwelt",
         "titel": "Der Turm der Herren",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 5,
         "stimmen": 3,
         "personen": [
@@ -14838,7 +15691,9 @@
         "evt": "20.10.2015",
         "zyklus": "Fremdwelt",
         "titel": "Aquus",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 4.33,
         "stimmen": 3,
         "personen": [
@@ -14857,7 +15712,10 @@
         "evt": "03.11.2015",
         "zyklus": "Fremdwelt",
         "titel": "Aus t\u00f6dlicher Tiefe",
-        "text": "Lucy Guth, Sascha Vennemann",
+        "text": [
+            "Lucy Guth",
+            "Sascha Vennemann"
+        ],
         "bewertung": 3.33,
         "stimmen": 3,
         "personen": [
@@ -14876,7 +15734,9 @@
         "evt": "17.11.2015",
         "zyklus": "Fremdwelt",
         "titel": "Unverhoffte Begegnung",
-        "text": "Jana Paradigi",
+        "text": [
+            "Jana Paradigi"
+        ],
         "bewertung": 4.33,
         "stimmen": 3,
         "personen": [
@@ -14895,7 +15755,9 @@
         "evt": "01.12.2015",
         "zyklus": "Fremdwelt",
         "titel": "Hort der Gestrandeten",
-        "text": "Ansgar Back",
+        "text": [
+            "Ansgar Back"
+        ],
         "bewertung": 4,
         "stimmen": 3,
         "personen": [
@@ -14914,7 +15776,9 @@
         "evt": "15.12.2015",
         "zyklus": "Fremdwelt",
         "titel": "Die magnetische Falle",
-        "text": "Wolf Binder",
+        "text": [
+            "Wolf Binder"
+        ],
         "bewertung": 3.33,
         "stimmen": 3,
         "personen": [
@@ -14936,7 +15800,9 @@
         "evt": "29.12.2015",
         "zyklus": "Fremdwelt",
         "titel": "Der letzte Friedenswahrer",
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "bewertung": 3.75,
         "stimmen": 4,
         "personen": [
@@ -14955,7 +15821,10 @@
         "evt": "12.01.2016",
         "zyklus": "Fremdwelt",
         "titel": "Binaar",
-        "text": "Oliver Fr\u00f6hlich, Wolf Binder",
+        "text": [
+            "Oliver Fr\u00f6hlich",
+            "Wolf Binder"
+        ],
         "bewertung": 2.67,
         "stimmen": 3,
         "personen": [
@@ -14973,7 +15842,9 @@
         "evt": "26.01.2016",
         "zyklus": "Fremdwelt",
         "titel": "Wege zur Macht",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 3.25,
         "stimmen": 4,
         "personen": [
@@ -14989,7 +15860,9 @@
         "evt": "09.02.2016",
         "zyklus": "Fremdwelt",
         "titel": "Das Schwarze Haus",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 3,
         "stimmen": 4,
         "personen": [
@@ -15007,7 +15880,9 @@
         "evt": "23.02.2016",
         "zyklus": "Fremdwelt",
         "titel": "Hinter dem Spiegel",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 4,
         "stimmen": 3,
         "personen": [
@@ -15025,7 +15900,9 @@
         "evt": "08.03.2016",
         "zyklus": "Fremdwelt",
         "titel": "Die Schwarmintelligenz",
-        "text": "Jana Paradigi",
+        "text": [
+            "Jana Paradigi"
+        ],
         "bewertung": 2.67,
         "stimmen": 3,
         "personen": [
@@ -15044,7 +15921,9 @@
         "evt": "22.03.2016",
         "zyklus": "Fremdwelt",
         "titel": "Der K\u00f6rperdieb",
-        "text": "Wolf Binder",
+        "text": [
+            "Wolf Binder"
+        ],
         "bewertung": 2.67,
         "stimmen": 3,
         "personen": [
@@ -15062,7 +15941,9 @@
         "evt": "05.04.2016",
         "zyklus": "Fremdwelt",
         "titel": "Romanze in Stahl",
-        "text": "Wolf Binder",
+        "text": [
+            "Wolf Binder"
+        ],
         "bewertung": 2.67,
         "stimmen": 3,
         "personen": [
@@ -15079,7 +15960,9 @@
         "evt": "19.04.2016",
         "zyklus": "Fremdwelt",
         "titel": "Menschenjagd",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 2.67,
         "stimmen": 3,
         "personen": [
@@ -15097,7 +15980,9 @@
         "evt": "03.05.2016",
         "zyklus": "Fremdwelt",
         "titel": "Zielpunkt: Erde",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 5,
         "stimmen": 4,
         "personen": [
@@ -15129,7 +16014,9 @@
         "evt": "17.05.2016",
         "zyklus": "Fremdwelt",
         "titel": "Der sterbende Planet",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 4.33,
         "stimmen": 3,
         "personen": [
@@ -15165,7 +16052,9 @@
         "evt": "31.05.2016",
         "zyklus": "Fremdwelt",
         "titel": "Exxus",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 2,
         "stimmen": 2,
         "personen": [
@@ -15185,7 +16074,9 @@
         "evt": "14.06.2016",
         "zyklus": "Fremdwelt",
         "titel": "Kampf um Exxus",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 2,
         "stimmen": 2,
         "personen": [
@@ -15204,7 +16095,9 @@
         "evt": "28.06.2016",
         "zyklus": "Fremdwelt",
         "titel": "Flucht von Exxus",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 2,
         "stimmen": 2,
         "personen": [
@@ -15223,7 +16116,9 @@
         "evt": "12.07.2016",
         "zyklus": "Fremdwelt",
         "titel": "Botan",
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "bewertung": 2.5,
         "stimmen": 2,
         "personen": [
@@ -15241,7 +16136,9 @@
         "evt": "26.07.2016",
         "zyklus": "Fremdwelt",
         "titel": "Im Gleichklang",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 2,
         "stimmen": 2,
         "personen": [
@@ -15260,7 +16157,9 @@
         "evt": "09.08.2016",
         "zyklus": "Fremdwelt",
         "titel": "Im Missklang",
-        "text": "Wolf Binder",
+        "text": [
+            "Wolf Binder"
+        ],
         "bewertung": 1.5,
         "stimmen": 2,
         "personen": [
@@ -15280,7 +16179,9 @@
         "evt": "23.08.2016",
         "zyklus": "Fremdwelt",
         "titel": "Der Saven-Konflikt",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 2,
         "stimmen": 2,
         "personen": [
@@ -15301,7 +16202,9 @@
         "evt": "06.09.2016",
         "zyklus": "Fremdwelt",
         "titel": "Asche \u00fcber Botan",
-        "text": "Ben Calvin Hary",
+        "text": [
+            "Ben Calvin Hary"
+        ],
         "bewertung": 2,
         "stimmen": 2,
         "personen": [
@@ -15321,7 +16224,9 @@
         "evt": "20.09.2016",
         "zyklus": "Fremdwelt",
         "titel": "Auf der Spur der Hydree",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 3,
         "stimmen": 2,
         "personen": [
@@ -15341,7 +16246,9 @@
         "evt": "04.10.2016",
         "zyklus": "Fremdwelt",
         "titel": "Die Legende",
-        "text": "Jana Paradigi",
+        "text": [
+            "Jana Paradigi"
+        ],
         "bewertung": 2.5,
         "stimmen": 2,
         "personen": [
@@ -15362,7 +16269,9 @@
         "evt": "18.10.2016",
         "zyklus": "Fremdwelt",
         "titel": "Angriff der Polatai",
-        "text": "Jana Paradigi",
+        "text": [
+            "Jana Paradigi"
+        ],
         "bewertung": 2.5,
         "stimmen": 2,
         "personen": [
@@ -15382,7 +16291,9 @@
         "evt": "02.11.2016",
         "zyklus": "Fremdwelt",
         "titel": "Die Katastrophe",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 3,
         "stimmen": 2,
         "personen": [
@@ -15398,7 +16309,9 @@
         "evt": "15.11.2016",
         "zyklus": "Fremdwelt",
         "titel": "Messis",
-        "text": "Ansgar Back",
+        "text": [
+            "Ansgar Back"
+        ],
         "bewertung": 2.5,
         "stimmen": 2,
         "personen": [
@@ -15416,7 +16329,9 @@
         "evt": "29.11.2016",
         "zyklus": "Fremdwelt",
         "titel": "Auf dem Dunkelmond",
-        "text": "Wolf Binder",
+        "text": [
+            "Wolf Binder"
+        ],
         "bewertung": 2,
         "stimmen": 2,
         "personen": [
@@ -15434,7 +16349,9 @@
         "evt": "13.12.2016",
         "zyklus": "Fremdwelt",
         "titel": "Im Auftrag des Mars",
-        "text": "Jana Paradigi",
+        "text": [
+            "Jana Paradigi"
+        ],
         "bewertung": 4,
         "stimmen": 2,
         "personen": [
@@ -15466,7 +16383,9 @@
         "evt": "27.12.2016",
         "zyklus": "Fremdwelt",
         "titel": "Ohne Balance",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 2.67,
         "stimmen": 3,
         "personen": [
@@ -15484,7 +16403,9 @@
         "evt": "10.01.2017",
         "zyklus": "Fremdwelt",
         "titel": "Die Erleuchteten",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 2.33,
         "stimmen": 3,
         "personen": [
@@ -15502,7 +16423,10 @@
         "evt": "24.01.2017",
         "zyklus": "Fremdwelt",
         "titel": "Das Pulsarium",
-        "text": "Oliver Fr\u00f6hlich, Madeleine Puljic",
+        "text": [
+            "Oliver Fr\u00f6hlich",
+            "Madeleine Puljic"
+        ],
         "bewertung": 3,
         "stimmen": 3,
         "personen": [
@@ -15520,7 +16444,9 @@
         "evt": "07.02.2017",
         "zyklus": "Fremdwelt",
         "titel": "Ein Besucher kehrt zur\u00fcck",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 5,
         "stimmen": 2,
         "personen": [
@@ -15557,7 +16483,10 @@
         "evt": "21.02.2017",
         "zyklus": "Fremdwelt",
         "titel": "Retter des Mars",
-        "text": "Christian Schwarz, Jana Paradigi",
+        "text": [
+            "Christian Schwarz",
+            "Jana Paradigi"
+        ],
         "bewertung": 4.5,
         "stimmen": 2,
         "personen": [
@@ -15591,7 +16520,9 @@
         "evt": "07.03.2017",
         "zyklus": "Fremdwelt",
         "titel": "Die finstere Seite",
-        "text": "Ansgar Back",
+        "text": [
+            "Ansgar Back"
+        ],
         "bewertung": 3.5,
         "stimmen": 2,
         "personen": [
@@ -15609,7 +16540,9 @@
         "evt": "21.03.2017",
         "zyklus": "Fremdwelt",
         "titel": "Die Offerte",
-        "text": "Ben Calvin Hary",
+        "text": [
+            "Ben Calvin Hary"
+        ],
         "bewertung": 4,
         "stimmen": 2,
         "personen": [
@@ -15627,7 +16560,9 @@
         "evt": "04.04.2017",
         "zyklus": "Fremdwelt",
         "titel": "Am Scheideweg",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 4,
         "stimmen": 2,
         "personen": [
@@ -15645,7 +16580,9 @@
         "evt": "18.04.2017",
         "zyklus": "Fremdwelt",
         "titel": "Das Schicksal der Erde",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 5,
         "stimmen": 2,
         "personen": [
@@ -15681,7 +16618,9 @@
         "evt": "02.05.2017",
         "zyklus": "Fremdwelt",
         "titel": "Nach der Flut",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 4.67,
         "stimmen": 3,
         "personen": [
@@ -15715,7 +16654,9 @@
         "evt": "16.05.2017",
         "zyklus": "Fremdwelt",
         "titel": "Gehetzt",
-        "text": "Jana Paradigi",
+        "text": [
+            "Jana Paradigi"
+        ],
         "bewertung": 4,
         "stimmen": 2,
         "personen": [
@@ -15731,7 +16672,10 @@
         "evt": "30.05.2017",
         "zyklus": "Fremdwelt",
         "titel": "Mit harter Hand",
-        "text": "Madeleine Puljic, Oliver Fr\u00f6hlich",
+        "text": [
+            "Madeleine Puljic",
+            "Oliver Fr\u00f6hlich"
+        ],
         "bewertung": 5,
         "stimmen": 4,
         "personen": [
@@ -15756,7 +16700,9 @@
         "evt": "13.06.2017",
         "zyklus": "Fremdwelt",
         "titel": "Barbarische Zeiten",
-        "text": "Wolf Binder",
+        "text": [
+            "Wolf Binder"
+        ],
         "bewertung": 3.33,
         "stimmen": 3,
         "personen": [
@@ -15772,7 +16718,9 @@
         "evt": "27.06.2017",
         "zyklus": "Fremdwelt",
         "titel": "Die \u00fcberleben d\u00fcrfen",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 3,
         "stimmen": 1,
         "personen": [
@@ -15804,7 +16752,10 @@
         "evt": "11.07.2017",
         "zyklus": "Fremdwelt",
         "titel": "Der verbotene Mond",
-        "text": "Ian Rolf Hill, Jana Paradigi",
+        "text": [
+            "Ian Rolf Hill",
+            "Jana Paradigi"
+        ],
         "bewertung": 2,
         "stimmen": 1,
         "personen": [
@@ -15833,7 +16784,9 @@
         "evt": "25.07.2017",
         "zyklus": "Fremdwelt",
         "titel": "Br\u00fcder im Genom",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 4,
         "stimmen": 1,
         "personen": [
@@ -15864,7 +16817,9 @@
         "evt": "08.08.2017",
         "zyklus": "Fremdwelt",
         "titel": "Die Silizier",
-        "text": "Ben Calvin Hary",
+        "text": [
+            "Ben Calvin Hary"
+        ],
         "bewertung": 4,
         "stimmen": 2,
         "personen": [
@@ -15881,7 +16836,9 @@
         "evt": "22.08.2017",
         "zyklus": "Fremdwelt",
         "titel": "Sp\u00e4te Rache",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 3.33,
         "stimmen": 3,
         "personen": [
@@ -15909,7 +16866,9 @@
         "evt": "05.09.2017",
         "zyklus": "Fremdwelt",
         "titel": "Die Stunde des Hydree",
-        "text": "Jana Paradigi",
+        "text": [
+            "Jana Paradigi"
+        ],
         "bewertung": 4.5,
         "stimmen": 2,
         "personen": [
@@ -15945,7 +16904,9 @@
         "evt": "19.09.2017",
         "zyklus": "Fremdwelt",
         "titel": "Durch das Inferno",
-        "text": "Wolf Binder",
+        "text": [
+            "Wolf Binder"
+        ],
         "bewertung": 4,
         "stimmen": 2,
         "personen": [
@@ -15979,7 +16940,10 @@
         "evt": "04.10.2017",
         "zyklus": "Fremdwelt",
         "titel": "Brennpunkt Meeraka",
-        "text": "Ansgar Back, Christian Schwarz",
+        "text": [
+            "Ansgar Back",
+            "Christian Schwarz"
+        ],
         "bewertung": 4,
         "stimmen": 2,
         "personen": [
@@ -16018,7 +16982,9 @@
         "evt": "17.10.2017",
         "zyklus": "Fremdwelt",
         "titel": "Die Retter",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3,
         "stimmen": 1,
         "personen": [
@@ -16067,7 +17033,9 @@
         "evt": "28.10.2017",
         "zyklus": "Fremdwelt",
         "titel": "Das Geisterdorf",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 2.5,
         "stimmen": 2,
         "personen": [
@@ -16085,7 +17053,9 @@
         "evt": "14.11.2017",
         "zyklus": "Fremdwelt",
         "titel": "Die Kinder des Wandlers",
-        "text": "Wolf Binder",
+        "text": [
+            "Wolf Binder"
+        ],
         "bewertung": 4.5,
         "stimmen": 2,
         "personen": [
@@ -16144,7 +17114,9 @@
         "evt": "28.11.2017",
         "zyklus": "Fremdwelt",
         "titel": "Ein grausamer Plan",
-        "text": "Wolf Binder",
+        "text": [
+            "Wolf Binder"
+        ],
         "bewertung": 4.5,
         "stimmen": 2,
         "personen": [
@@ -16202,7 +17174,9 @@
         "evt": "12.12.2017",
         "zyklus": "Fremdwelt",
         "titel": "Der gro\u00dfe Verrat",
-        "text": "Jana Paradigi",
+        "text": [
+            "Jana Paradigi"
+        ],
         "bewertung": 3,
         "stimmen": 1,
         "personen": [
@@ -16241,7 +17215,9 @@
         "evt": "23.12.2017",
         "zyklus": "Fremdwelt",
         "titel": "Der K\u00f6nig von Novis",
-        "text": "Ben Calvin Hary",
+        "text": [
+            "Ben Calvin Hary"
+        ],
         "bewertung": 4.5,
         "stimmen": 2,
         "personen": [
@@ -16260,7 +17236,9 @@
         "evt": "09.01.2018",
         "zyklus": "Fremdwelt",
         "titel": "Im Namen des HERRN",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 4,
         "stimmen": 2,
         "personen": [
@@ -16314,7 +17292,9 @@
         "evt": "23.01.2018",
         "zyklus": "Fremdwelt",
         "titel": "Der Abenteurer",
-        "text": "Timothy Stahl",
+        "text": [
+            "Timothy Stahl"
+        ],
         "bewertung": 4.33,
         "stimmen": 3,
         "personen": [
@@ -16360,7 +17340,9 @@
         "evt": "06.02.2018",
         "zyklus": "Fremdwelt",
         "titel": "Der Wahnsinn der Sieben",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.75,
         "stimmen": 4,
         "personen": [
@@ -16397,7 +17379,9 @@
         "evt": "20.02.2018",
         "zyklus": "Fremdwelt",
         "titel": "Im Auge des Orkans",
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "bewertung": 5,
         "stimmen": 3,
         "personen": [
@@ -16443,7 +17427,9 @@
         "evt": "06.03.2018",
         "zyklus": "Fremdwelt",
         "titel": "Die UFO-Sekte",
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "bewertung": 5,
         "stimmen": 3,
         "personen": [
@@ -16480,7 +17466,9 @@
         "evt": "20.03.2018",
         "zyklus": "Fremdwelt",
         "titel": "Sturzflug in die H\u00f6lle",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 5,
         "stimmen": 3,
         "personen": [
@@ -16528,7 +17516,9 @@
         "evt": "03.04.2018",
         "zyklus": "Fremdwelt",
         "titel": "Die neue Heimat",
-        "text": "Ben Calvin Hary",
+        "text": [
+            "Ben Calvin Hary"
+        ],
         "bewertung": 5,
         "stimmen": 3,
         "personen": [
@@ -16545,7 +17535,9 @@
         "evt": "17.04.2018",
         "zyklus": "Fremdwelt",
         "titel": "Die Saat",
-        "text": "Jana Paradigi",
+        "text": [
+            "Jana Paradigi"
+        ],
         "bewertung": 2.5,
         "stimmen": 2,
         "personen": [
@@ -16575,7 +17567,9 @@
         "evt": "02.05.2018",
         "zyklus": "Fremdwelt",
         "titel": "Die Aufst\u00e4ndischen",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 4.5,
         "stimmen": 2,
         "personen": [
@@ -16593,7 +17587,9 @@
         "evt": "15.05.2018",
         "zyklus": "Fremdwelt",
         "titel": "Falsche Paradiese",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 5,
         "stimmen": 2,
         "personen": [
@@ -16616,7 +17612,9 @@
         "evt": "29.05.2018",
         "zyklus": "Fremdwelt",
         "titel": "Das Juwel im Inneren",
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "bewertung": 5,
         "stimmen": 3,
         "personen": [
@@ -16634,7 +17632,9 @@
         "evt": "12.06.2018",
         "zyklus": "Fremdwelt",
         "titel": "Vorsto\u00df nach Cancriss",
-        "text": "Wolf Binder",
+        "text": [
+            "Wolf Binder"
+        ],
         "bewertung": 4.67,
         "stimmen": 3,
         "personen": [
@@ -16652,7 +17652,9 @@
         "evt": "26.06.2018",
         "zyklus": "Fremdwelt",
         "titel": "Die Sph\u00e4re",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 5,
         "stimmen": 2,
         "personen": [
@@ -16669,7 +17671,9 @@
         "evt": "10.07.2018",
         "zyklus": "Fremdwelt",
         "titel": "Im Herzen des Chaos",
-        "text": "Ansgar Back",
+        "text": [
+            "Ansgar Back"
+        ],
         "bewertung": 5,
         "stimmen": 2,
         "personen": [
@@ -16687,7 +17691,9 @@
         "evt": "24.07.2018",
         "zyklus": "Fremdwelt",
         "titel": "Der verschollene Prophet",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 4,
         "stimmen": 3,
         "personen": [
@@ -16705,7 +17711,9 @@
         "evt": "07.08.2018",
         "zyklus": "Fremdwelt",
         "titel": "Die kalte Sonne",
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "bewertung": 4.33,
         "stimmen": 3,
         "personen": [
@@ -16724,7 +17732,9 @@
         "evt": "21.08.2018",
         "zyklus": "Fremdwelt",
         "titel": "Welt ohne Hoffnung",
-        "text": "Jana Paradigi",
+        "text": [
+            "Jana Paradigi"
+        ],
         "bewertung": 3.5,
         "stimmen": 4,
         "personen": [
@@ -16760,7 +17770,9 @@
         "evt": "04.09.2018",
         "zyklus": "Fremdwelt",
         "titel": "Die Wurmloch-Architekten",
-        "text": "Ben Calvin Hary",
+        "text": [
+            "Ben Calvin Hary"
+        ],
         "bewertung": 3.67,
         "stimmen": 3,
         "personen": [
@@ -16778,7 +17790,9 @@
         "evt": "18.09.2018",
         "zyklus": "Fremdwelt",
         "titel": "Perfekte Welt",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3,
         "stimmen": 3,
         "personen": [
@@ -16796,7 +17810,9 @@
         "evt": "2.10.2018",
         "zyklus": "Fremdwelt",
         "titel": "Aruulas Opfer",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.5,
         "stimmen": 4,
         "personen": [
@@ -16815,7 +17831,9 @@
         "evt": "16.10.2018",
         "zyklus": "Fremdwelt",
         "titel": "Hinter dem Mentalschirm",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 2.67,
         "stimmen": 3,
         "personen": [
@@ -16837,7 +17855,9 @@
         "evt": "30.10.2018",
         "zyklus": "Fremdwelt",
         "titel": "R\u00fccksturz zur Erde",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 2.67,
         "stimmen": 3,
         "personen": [
@@ -16886,7 +17906,9 @@
         "evt": "13.11.2018",
         "zyklus": "Fremdwelt",
         "titel": "Hand in Hand",
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "bewertung": 4.33,
         "stimmen": 3,
         "personen": [
@@ -16922,7 +17944,10 @@
         "evt": "27.11.2018",
         "zyklus": "Fremdwelt",
         "titel": "Wilde Gestade",
-        "text": "Sascha Vennemann, Ben Calvin Hary",
+        "text": [
+            "Sascha Vennemann",
+            "Ben Calvin Hary"
+        ],
         "bewertung": 4,
         "stimmen": 3,
         "personen": [
@@ -16975,7 +18000,9 @@
         "evt": "11.12.2018",
         "zyklus": "Fremdwelt",
         "titel": "Die Mensch-Fabrik",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 4.25,
         "stimmen": 4,
         "personen": [
@@ -16997,7 +18024,10 @@
         "evt": "22.12.2018",
         "zyklus": "Fremdwelt",
         "titel": "Gott des Mars",
-        "text": "Jana Paradigi, Ramon M. Randle",
+        "text": [
+            "Jana Paradigi",
+            "Ramon M. Randle"
+        ],
         "bewertung": 2.67,
         "stimmen": 3,
         "personen": [
@@ -17034,7 +18064,9 @@
         "evt": "08.01.2019",
         "zyklus": "Fremdwelt",
         "titel": "Die Stadt der Drachen",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 3,
         "stimmen": 3,
         "personen": [
@@ -17076,7 +18108,9 @@
         "evt": "22.01.2019",
         "zyklus": "Fremdwelt",
         "titel": "Feuer und Wasser",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 4,
         "stimmen": 3,
         "personen": [
@@ -17116,7 +18150,9 @@
         "evt": "05.02.2019",
         "zyklus": "Fremdwelt",
         "titel": "Der Scheinplanet",
-        "text": "Ben Calvin Hary",
+        "text": [
+            "Ben Calvin Hary"
+        ],
         "bewertung": 5,
         "stimmen": 3,
         "personen": [
@@ -17141,7 +18177,10 @@
         "evt": "19.02.2019",
         "zyklus": "Fremdwelt",
         "titel": "Die Bergung",
-        "text": "Jana Paradigi, Ramon M. Randle",
+        "text": [
+            "Jana Paradigi",
+            "Ramon M. Randle"
+        ],
         "bewertung": 4,
         "stimmen": 4,
         "personen": [
@@ -17189,7 +18228,9 @@
         "evt": "05.03.2019",
         "zyklus": "Fremdwelt",
         "titel": "Kosmische Gewalten",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 4.67,
         "stimmen": 3,
         "personen": [
@@ -17239,7 +18280,9 @@
         "evt": "19.03.2019",
         "zyklus": "Parallelwelt",
         "titel": "Zeitsprung",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 4.5,
         "stimmen": 6,
         "personen": [
@@ -17286,7 +18329,9 @@
         "evt": "02.04.2019",
         "zyklus": "Parallelwelt",
         "titel": "Die Kolonie",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 3.83,
         "stimmen": 6,
         "personen": [
@@ -17337,7 +18382,9 @@
         "evt": "16.04.2019",
         "zyklus": "Parallelwelt",
         "titel": "Der Roswell-Zwischenfall",
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "bewertung": 4.5,
         "stimmen": 6,
         "personen": [
@@ -17374,7 +18421,9 @@
         "evt": "30.04.2019",
         "zyklus": "Parallelwelt",
         "titel": "Aufstieg des B\u00f6sen",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 3.5,
         "stimmen": 6,
         "personen": [
@@ -17419,7 +18468,9 @@
         "evt": "14.05.2019",
         "zyklus": "Parallelwelt",
         "titel": "Evolution",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 4.43,
         "stimmen": 7,
         "personen": [
@@ -17461,7 +18512,9 @@
         "evt": "28.05.2019",
         "zyklus": "Parallelwelt",
         "titel": "Am Ende der Nahrungskette",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 4.29,
         "stimmen": 7,
         "personen": [
@@ -17503,7 +18556,9 @@
         "evt": "11.06.2019",
         "zyklus": "Parallelwelt",
         "titel": "Priester der Unsterblichkeit",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.17,
         "stimmen": 6,
         "personen": [
@@ -17547,7 +18602,9 @@
         "evt": "25.06.2019",
         "zyklus": "Parallelwelt",
         "titel": "Hexenjagd 2.0",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 4.17,
         "stimmen": 6,
         "personen": [
@@ -17587,7 +18644,9 @@
         "evt": "09.07.2019",
         "zyklus": "Parallelwelt",
         "titel": "Undercover",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 3.17,
         "stimmen": 6,
         "personen": [
@@ -17637,7 +18696,9 @@
         "evt": "23.07.2019",
         "zyklus": "Parallelwelt",
         "titel": "Welt in Angst",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 4,
         "stimmen": 6,
         "personen": [
@@ -17693,7 +18754,10 @@
         "evt": "06.08.2019",
         "zyklus": "Parallelwelt",
         "titel": "Die Cesaren",
-        "text": "Jana Paradigi, Ramon M. Randle",
+        "text": [
+            "Jana Paradigi",
+            "Ramon M. Randle"
+        ],
         "bewertung": 3.6,
         "stimmen": 5,
         "personen": [
@@ -17729,7 +18793,10 @@
         "evt": "20.08.2019",
         "zyklus": "Parallelwelt",
         "titel": "Deus ex machina",
-        "text": "Jana Paradigi, Ramon M. Randle",
+        "text": [
+            "Jana Paradigi",
+            "Ramon M. Randle"
+        ],
         "bewertung": 2.5,
         "stimmen": 6,
         "personen": [
@@ -17764,7 +18831,9 @@
         "evt": "03.09.2019",
         "zyklus": "Parallelwelt",
         "titel": "Ganz neue Perspektiven",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.83,
         "stimmen": 6,
         "personen": [
@@ -17805,7 +18874,9 @@
         "evt": "17.09.2019",
         "zyklus": "Parallelwelt",
         "titel": "\u00dcber den Tod hinaus",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 4,
         "stimmen": 6,
         "personen": [
@@ -17845,7 +18916,9 @@
         "evt": "01.10.2019",
         "zyklus": "Parallelwelt",
         "titel": "Atemlose Jagd",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 2.86,
         "stimmen": 7,
         "personen": [
@@ -17898,7 +18971,9 @@
         "evt": "15.10.2019",
         "zyklus": "Parallelwelt",
         "titel": "Im Maar der D\u00e4monen",
-        "text": "Simon Borner",
+        "text": [
+            "Simon Borner"
+        ],
         "bewertung": 3.33,
         "stimmen": 6,
         "personen": [
@@ -17942,7 +19017,9 @@
         "evt": "29.10.2019",
         "zyklus": "Parallelwelt",
         "titel": "Das Sonnentor",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 2.86,
         "stimmen": 7,
         "personen": [
@@ -17988,7 +19065,9 @@
         "evt": "12.11.2019",
         "zyklus": "Parallelwelt",
         "titel": "Das fremde Ich",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3.57,
         "stimmen": 7,
         "personen": [
@@ -18033,7 +19112,9 @@
         "evt": "26.11.2019",
         "zyklus": "Parallelwelt",
         "titel": "Taratzen!",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 4.71,
         "stimmen": 7,
         "personen": [
@@ -18076,7 +19157,9 @@
         "evt": "10.12.2019",
         "zyklus": "Parallelwelt",
         "titel": "Das Portal",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.14,
         "stimmen": 7,
         "personen": [
@@ -18123,7 +19206,19 @@
         "evt": "21.12.2019",
         "zyklus": "Parallelwelt",
         "titel": "Verlorene Erinnerungen",
-        "text": "Ansgar Back, Wolf Binder, Oliver Fr\u00f6hlich, Lucy Guth, Ben Calvin Hary, Ian Rolf Hill, Jana Paradigi, Christian Schwarz, Sascha Vennemann, Manfred Weinland, Michael Sch\u00f6nenbr\u00f6cher",
+        "text": [
+            "Ansgar Back",
+            "Wolf Binder",
+            "Oliver Fr\u00f6hlich",
+            "Lucy Guth",
+            "Ben Calvin Hary",
+            "Ian Rolf Hill",
+            "Jana Paradigi",
+            "Christian Schwarz",
+            "Sascha Vennemann",
+            "Manfred Weinland",
+            "Michael Sch\u00f6nenbr\u00f6cher"
+        ],
         "bewertung": 3.44,
         "stimmen": 9,
         "personen": [
@@ -18169,7 +19264,9 @@
         "evt": "07.01.2020",
         "zyklus": "Parallelwelt",
         "titel": "Kurs ins Verderben",
-        "text": "Stefan Hensch",
+        "text": [
+            "Stefan Hensch"
+        ],
         "bewertung": 4.13,
         "stimmen": 8,
         "personen": [
@@ -18225,7 +19322,9 @@
         "evt": "21.01.2020",
         "zyklus": "Parallelwelt",
         "titel": "Zur\u00fcck am Kratersee",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 3.14,
         "stimmen": 7,
         "personen": [
@@ -18272,7 +19371,9 @@
         "evt": "04.02.2020",
         "zyklus": "Parallelwelt",
         "titel": "Crossover",
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "bewertung": 4,
         "stimmen": 10,
         "personen": [
@@ -18310,7 +19411,9 @@
         "evt": "18.02.2020",
         "zyklus": "Parallelwelt",
         "titel": "Lichtblicke",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.83,
         "stimmen": 6,
         "personen": [
@@ -18359,7 +19462,9 @@
         "evt": "03.03.2020",
         "zyklus": "Parallelwelt",
         "titel": "Die Glorreichen Drei",
-        "text": "Oliver M\u00fcller",
+        "text": [
+            "Oliver M\u00fcller"
+        ],
         "bewertung": 3.43,
         "stimmen": 7,
         "personen": [
@@ -18402,7 +19507,10 @@
         "evt": "17.03.2020",
         "zyklus": "Parallelwelt",
         "titel": "Rote Pest",
-        "text": "Jana Paradigi, Ramon M. Randle",
+        "text": [
+            "Jana Paradigi",
+            "Ramon M. Randle"
+        ],
         "bewertung": 4,
         "stimmen": 7,
         "personen": [
@@ -18445,7 +19553,9 @@
         "evt": "31.03.2020",
         "zyklus": "Parallelwelt",
         "titel": "Die bionetische Bombe",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 4.43,
         "stimmen": 7,
         "personen": [
@@ -18510,7 +19620,10 @@
         "evt": "14.04.2020",
         "zyklus": "Parallelwelt",
         "titel": "GR\u00dcN",
-        "text": "Sascha Vennemann, Lucy Guth",
+        "text": [
+            "Sascha Vennemann",
+            "Lucy Guth"
+        ],
         "bewertung": 4.56,
         "stimmen": 9,
         "personen": [
@@ -18552,7 +19665,9 @@
         "evt": "28.04.2020",
         "zyklus": "Parallelwelt",
         "titel": "Die G\u00f6tter von Ham'Bay",
-        "text": "Simon Borner",
+        "text": [
+            "Simon Borner"
+        ],
         "bewertung": 3.29,
         "stimmen": 7,
         "personen": [
@@ -18597,7 +19712,9 @@
         "evt": "12.05.2020",
         "zyklus": "Parallelwelt",
         "titel": "Kalte Krieger",
-        "text": "Stefan Hensch",
+        "text": [
+            "Stefan Hensch"
+        ],
         "bewertung": 3.43,
         "stimmen": 7,
         "personen": [
@@ -18641,7 +19758,9 @@
         "evt": "26.05.2020",
         "zyklus": "Parallelwelt",
         "titel": "Hinter feindlichen Linien",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3,
         "stimmen": 8,
         "personen": [
@@ -18691,7 +19810,9 @@
         "evt": "09.06.2020",
         "zyklus": "Parallelwelt",
         "titel": "Das 900.000-Jahre-Projekt",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 4,
         "stimmen": 7,
         "personen": [
@@ -18733,7 +19854,9 @@
         "evt": "23.06.2020",
         "zyklus": "Parallelwelt",
         "titel": "Krieger des Lichts",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 2.63,
         "stimmen": 8,
         "personen": [
@@ -18782,7 +19905,9 @@
         "evt": "07.07.2020",
         "zyklus": "Parallelwelt",
         "titel": "Melange",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.86,
         "stimmen": 7,
         "personen": [
@@ -18821,7 +19946,9 @@
         "evt": "21.07.2020",
         "zyklus": "Parallelwelt",
         "titel": "Im Rausch der Sinne",
-        "text": "Stefan Hensch",
+        "text": [
+            "Stefan Hensch"
+        ],
         "bewertung": 3.38,
         "stimmen": 8,
         "personen": [
@@ -18861,7 +19988,9 @@
         "evt": "04.08.2020",
         "zyklus": "Parallelwelt",
         "titel": "H\u00f6llenschlund",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 4.29,
         "stimmen": 7,
         "personen": [
@@ -18903,7 +20032,9 @@
         "evt": "18.08.2020",
         "zyklus": "Parallelwelt",
         "titel": "Die Bestienmacher",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 3.13,
         "stimmen": 8,
         "personen": [
@@ -18953,7 +20084,9 @@
         "evt": "01.09.2020",
         "zyklus": "Parallelwelt",
         "titel": "Die Stunde des Despoten",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 4.63,
         "stimmen": 8,
         "personen": [
@@ -18995,7 +20128,9 @@
         "evt": "15.09.2020",
         "zyklus": "Parallelwelt",
         "titel": "Das Buch Koolob",
-        "text": "Simon Borner",
+        "text": [
+            "Simon Borner"
+        ],
         "bewertung": 4.14,
         "stimmen": 7,
         "personen": [
@@ -19036,7 +20171,9 @@
         "evt": "29.09.2020",
         "zyklus": "Parallelwelt",
         "titel": "Der Giftplanet",
-        "text": "Oliver M\u00fcller",
+        "text": [
+            "Oliver M\u00fcller"
+        ],
         "bewertung": 4.3,
         "stimmen": 10,
         "personen": [
@@ -19077,7 +20214,9 @@
         "evt": "13.10.2020",
         "zyklus": "Parallelwelt",
         "titel": "Genese",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.63,
         "stimmen": 8,
         "personen": [
@@ -19121,7 +20260,9 @@
         "evt": "27.10.2020",
         "zyklus": "Parallelwelt",
         "titel": "Auf Blut gebaut",
-        "text": "Stefan Hensch",
+        "text": [
+            "Stefan Hensch"
+        ],
         "bewertung": 3.25,
         "stimmen": 8,
         "personen": [
@@ -19175,7 +20316,9 @@
         "evt": "10.11.2020",
         "zyklus": "Parallelwelt",
         "titel": "Die Insel des Atlas",
-        "text": "Simon Borner",
+        "text": [
+            "Simon Borner"
+        ],
         "bewertung": 4.5,
         "stimmen": 8,
         "personen": [
@@ -19230,7 +20373,9 @@
         "evt": "24.11.2020",
         "zyklus": "Parallelwelt",
         "titel": "Mit Z\u00e4hnen und Klauen",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 4,
         "stimmen": 7,
         "personen": [
@@ -19282,7 +20427,10 @@
         "evt": "08.12.2020",
         "zyklus": "Parallelwelt",
         "titel": "Entscheidungen",
-        "text": "Jana Paradigi, Ramon M. Randle",
+        "text": [
+            "Jana Paradigi",
+            "Ramon M. Randle"
+        ],
         "bewertung": 4.14,
         "stimmen": 7,
         "personen": [
@@ -19339,7 +20487,9 @@
         "evt": "22.12.2020",
         "zyklus": "Parallelwelt",
         "titel": "Magische Allianzen",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 4.14,
         "stimmen": 7,
         "personen": [
@@ -19389,7 +20539,9 @@
         "evt": "05.01.2021",
         "zyklus": "Parallelwelt",
         "titel": "Zombie-D\u00e4mmerung",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3,
         "stimmen": 7,
         "personen": [
@@ -19431,7 +20583,9 @@
         "evt": "19.01.2021",
         "zyklus": "Parallelwelt",
         "titel": "Der Feind, mein Verb\u00fcndeter",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 4.14,
         "stimmen": 7,
         "personen": [
@@ -19472,7 +20626,9 @@
         "evt": "02.02.2021",
         "zyklus": "Parallelwelt",
         "titel": "Der Welten-Kollaps",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.8,
         "stimmen": 5,
         "personen": [
@@ -19517,7 +20673,9 @@
         "evt": "16.02.2021",
         "zyklus": "Weltenriss",
         "titel": "Dunkle Gegenwart",
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "bewertung": 4.56,
         "stimmen": 9,
         "personen": [
@@ -19544,7 +20702,9 @@
         "evt": "02.03.2021",
         "zyklus": "Weltenriss",
         "titel": "Dunkle Vergangenheit",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 4.63,
         "stimmen": 8,
         "personen": [
@@ -19560,7 +20720,9 @@
         "evt": "16.03.2021",
         "zyklus": "Weltenriss",
         "titel": "Vasraas Rache",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.78,
         "stimmen": 9,
         "personen": [
@@ -19579,7 +20741,9 @@
         "evt": "30.03.2021",
         "zyklus": "Weltenriss",
         "titel": "Vorsto\u00df der Dunklen",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 2.63,
         "stimmen": 8,
         "personen": [
@@ -19602,7 +20766,9 @@
         "evt": "13.04.2021",
         "zyklus": "Weltenriss",
         "titel": "Haaley",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 4.1,
         "stimmen": 10,
         "personen": [
@@ -19620,7 +20786,9 @@
         "evt": "27.04.2021",
         "zyklus": "Weltenriss",
         "titel": "Das Echo des Wandlers",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 4.11,
         "stimmen": 9,
         "personen": [
@@ -19645,7 +20813,10 @@
         "evt": "11.05.2021",
         "zyklus": "Weltenriss",
         "titel": "Ein Fremder im Kollektiv",
-        "text": "Ro Demaar, Michael Sch\u00f6nenbr\u00f6cher",
+        "text": [
+            "Ro Demaar",
+            "Michael Sch\u00f6nenbr\u00f6cher"
+        ],
         "bewertung": 3.44,
         "stimmen": 9,
         "personen": [
@@ -19672,7 +20843,9 @@
         "evt": "25.05.2021",
         "zyklus": "Weltenriss",
         "titel": "Der Sklavenh\u00e4ndler",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.63,
         "stimmen": 8,
         "personen": [
@@ -19700,7 +20873,9 @@
         "evt": "08.06.2021",
         "zyklus": "Weltenriss",
         "titel": "In Feindesland",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 3.56,
         "stimmen": 9,
         "personen": [
@@ -19718,7 +20893,9 @@
         "evt": "22.06.2021",
         "zyklus": "Weltenriss",
         "titel": "Der Schatz im Kratersee",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 4.13,
         "stimmen": 8,
         "personen": [
@@ -19741,7 +20918,10 @@
         "evt": "06.07.2021",
         "zyklus": "Weltenriss",
         "titel": "Gesandte des Mars",
-        "text": "Jana Paradigi, Ramon M. Randle",
+        "text": [
+            "Jana Paradigi",
+            "Ramon M. Randle"
+        ],
         "bewertung": 3.56,
         "stimmen": 9,
         "personen": [
@@ -19776,7 +20956,9 @@
         "evt": "20.07.2021",
         "zyklus": "Weltenriss",
         "titel": "Kampf um die Wolkenstadt",
-        "text": "Stefan Hensch",
+        "text": [
+            "Stefan Hensch"
+        ],
         "bewertung": 3.63,
         "stimmen": 8,
         "personen": [
@@ -19793,7 +20975,9 @@
         "evt": "03.08.2021",
         "zyklus": "Weltenriss",
         "titel": "Spiel um Macht",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.75,
         "stimmen": 8,
         "personen": [
@@ -19811,7 +20995,9 @@
         "evt": "17.08.2021",
         "zyklus": "Weltenriss",
         "titel": "Das Orakel",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 4.5,
         "stimmen": 10,
         "personen": [
@@ -19833,7 +21019,9 @@
         "evt": "31.08.2021",
         "zyklus": "Weltenriss",
         "titel": "Operation Dark Force",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.5,
         "stimmen": 6,
         "personen": [
@@ -19859,7 +21047,10 @@
         "evt": "14.09.2021",
         "zyklus": "Weltenriss",
         "titel": "Irrwege",
-        "text": "Jana Paradigi, Ramon M. Randle",
+        "text": [
+            "Jana Paradigi",
+            "Ramon M. Randle"
+        ],
         "bewertung": 3.13,
         "stimmen": 8,
         "personen": [
@@ -19892,7 +21083,9 @@
         "evt": "28.09.2021",
         "zyklus": "Weltenriss",
         "titel": "Im Schatten des Schafotts",
-        "text": "Oliver M\u00fcller",
+        "text": [
+            "Oliver M\u00fcller"
+        ],
         "bewertung": 3.33,
         "stimmen": 9,
         "personen": [
@@ -19913,7 +21106,9 @@
         "evt": "12.10.2021",
         "zyklus": "Weltenriss",
         "titel": "Die Erkundung der Welt",
-        "text": "Simon Borner",
+        "text": [
+            "Simon Borner"
+        ],
         "bewertung": 3.67,
         "stimmen": 6,
         "personen": [
@@ -19934,7 +21129,9 @@
         "evt": "26.10.2021",
         "zyklus": "Weltenriss",
         "titel": "Das Dunkle Herz",
-        "text": "Stefan Hensch",
+        "text": [
+            "Stefan Hensch"
+        ],
         "bewertung": 4,
         "stimmen": 6,
         "personen": [
@@ -19954,7 +21151,9 @@
         "evt": "09.11.2021",
         "zyklus": "Weltenriss",
         "titel": "Die Brut",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.86,
         "stimmen": 7,
         "personen": [
@@ -19982,7 +21181,9 @@
         "evt": "23.11.2021",
         "zyklus": "Weltenriss",
         "titel": "B\u00f6se",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 3.78,
         "stimmen": 9,
         "personen": [
@@ -20011,7 +21212,10 @@
         "evt": "07.12.2021",
         "zyklus": "Weltenriss",
         "titel": "Wer Zwietracht s\u00e4t",
-        "text": "Lucy Guth, Oliver M\u00fcller",
+        "text": [
+            "Lucy Guth",
+            "Oliver M\u00fcller"
+        ],
         "bewertung": 4.11,
         "stimmen": 9,
         "personen": [
@@ -20031,7 +21235,9 @@
         "evt": "21.12.2021",
         "zyklus": "Weltenriss",
         "titel": "Zerschmettert",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.78,
         "stimmen": 9,
         "personen": [
@@ -20051,7 +21257,9 @@
         "evt": "04.01.2022",
         "zyklus": "Weltenriss",
         "titel": "Die schlafende Stadt",
-        "text": "Stefan Hensch",
+        "text": [
+            "Stefan Hensch"
+        ],
         "bewertung": 3.56,
         "stimmen": 9,
         "personen": [
@@ -20072,7 +21280,9 @@
         "evt": "18.01.2022",
         "zyklus": "Weltenriss",
         "titel": "Flucht aus der Dunkelwelt",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 4.25,
         "stimmen": 8,
         "personen": [
@@ -20093,7 +21303,9 @@
         "evt": "01.02.2022",
         "zyklus": "Weltenriss",
         "titel": "Zwischen den Sternen",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 4,
         "stimmen": 8,
         "personen": [
@@ -20118,7 +21330,9 @@
         "evt": "15.02.2022",
         "zyklus": "Weltenriss",
         "titel": "Die letzte Bastion",
-        "text": "Jana Paradigi",
+        "text": [
+            "Jana Paradigi"
+        ],
         "bewertung": 3,
         "stimmen": 8,
         "personen": [
@@ -20159,7 +21373,9 @@
         "evt": "01.03.2022",
         "zyklus": "Weltenriss",
         "titel": "THE WALKING MATT",
-        "text": "Simon Borner",
+        "text": [
+            "Simon Borner"
+        ],
         "bewertung": 3.25,
         "stimmen": 8,
         "personen": [
@@ -20185,7 +21401,9 @@
         "evt": "15.03.2022",
         "zyklus": "Weltenriss",
         "titel": "Griff nach dem Mars",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.25,
         "stimmen": 8,
         "personen": [
@@ -20216,7 +21434,9 @@
         "evt": "29.03.2022",
         "zyklus": "Weltenriss",
         "titel": "Nirgendwo in Agartha",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 2.5,
         "stimmen": 8,
         "personen": [
@@ -20237,7 +21457,9 @@
         "evt": "12.04.2022",
         "zyklus": "Weltenriss",
         "titel": "Fern der Erde",
-        "text": "Stefan Hensch",
+        "text": [
+            "Stefan Hensch"
+        ],
         "bewertung": 2.33,
         "stimmen": 9,
         "personen": [
@@ -20271,7 +21493,9 @@
         "evt": "26.04.2022",
         "zyklus": "Weltenriss",
         "titel": "Smythe vs. Smythe",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 2.5,
         "stimmen": 8,
         "personen": [
@@ -20297,7 +21521,9 @@
         "evt": "10.05.2022",
         "zyklus": "Weltenriss",
         "titel": "Das Geheimnis im Eis",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 3,
         "stimmen": 9,
         "personen": [
@@ -20329,7 +21555,9 @@
         "evt": "24.05.2022",
         "zyklus": "Weltenriss",
         "titel": "Die Schuld der Pancinowa",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3,
         "stimmen": 9,
         "personen": [
@@ -20349,7 +21577,9 @@
         "evt": "07.06.2022",
         "zyklus": "Weltenriss",
         "titel": "Das Wurmloch-Gambit",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 2.56,
         "stimmen": 9,
         "personen": [
@@ -20381,7 +21611,9 @@
         "evt": "21.06.2022",
         "zyklus": "Weltenriss",
         "titel": "Sein oder Nichtsein",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.86,
         "stimmen": 7,
         "personen": [
@@ -20404,7 +21636,9 @@
         "evt": "05.07.2022",
         "zyklus": "Weltenriss",
         "titel": "Triple Trouble",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.2,
         "stimmen": 10,
         "personen": [
@@ -20423,7 +21657,9 @@
         "evt": "19.07.2022",
         "zyklus": "Weltenriss",
         "titel": "K\u00f6rper gesucht",
-        "text": "Oliver M\u00fcller",
+        "text": [
+            "Oliver M\u00fcller"
+        ],
         "bewertung": 3.22,
         "stimmen": 9,
         "personen": [
@@ -20445,7 +21681,9 @@
         "evt": "02.08.2022",
         "zyklus": "Weltenriss",
         "titel": "Der Dunkle Ruf",
-        "text": "Michael Edelbrock",
+        "text": [
+            "Michael Edelbrock"
+        ],
         "bewertung": 4.56,
         "stimmen": 9,
         "personen": [
@@ -20471,7 +21709,9 @@
         "evt": "16.08.2022",
         "zyklus": "Weltenriss",
         "titel": "Mission Fl\u00e4chenr\u00e4umer",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.4,
         "stimmen": 10,
         "personen": [
@@ -20500,7 +21740,9 @@
         "evt": "30.08.2022",
         "zyklus": "Weltenriss",
         "titel": "Der Medusa-Effekt",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.2,
         "stimmen": 10,
         "personen": [
@@ -20529,7 +21771,9 @@
         "evt": "13.09.2022",
         "zyklus": "Weltenriss",
         "titel": "Nachbeben",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3.5,
         "stimmen": 10,
         "personen": [
@@ -20547,7 +21791,10 @@
         "evt": "27.09.2022",
         "zyklus": "Weltenriss",
         "titel": "Rulfans R\u00fcckkehr",
-        "text": "Ian Rolf Hill, Lara M\u00f6ller",
+        "text": [
+            "Ian Rolf Hill",
+            "Lara M\u00f6ller"
+        ],
         "bewertung": 4.33,
         "stimmen": 9,
         "personen": [
@@ -20564,7 +21811,10 @@
         "evt": "11.10.2022",
         "zyklus": "Weltenriss",
         "titel": "Die letzte Schlacht",
-        "text": "Ian Rolf Hill, Lara M\u00f6ller",
+        "text": [
+            "Ian Rolf Hill",
+            "Lara M\u00f6ller"
+        ],
         "bewertung": 4,
         "stimmen": 9,
         "personen": [
@@ -20582,7 +21832,9 @@
         "evt": "25.10.2022",
         "zyklus": "Weltenriss",
         "titel": "Ersch\u00fctterungen",
-        "text": "Michael Edelbrock",
+        "text": [
+            "Michael Edelbrock"
+        ],
         "bewertung": 4,
         "stimmen": 9,
         "personen": [
@@ -20602,7 +21854,9 @@
         "evt": "08.11.2022",
         "zyklus": "Weltenriss",
         "titel": "Ausflug ins Grauen",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 2.4,
         "stimmen": 10,
         "personen": [
@@ -20625,7 +21879,9 @@
         "evt": "22.11.2022",
         "zyklus": "Weltenriss",
         "titel": "Auf der Jagd nach dem roten Diamanten",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 3.5,
         "stimmen": 10,
         "personen": [
@@ -20655,7 +21911,9 @@
         "evt": "06.12.2022",
         "zyklus": "Weltenriss",
         "titel": "Wege des Wahnsinns",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 4.25,
         "stimmen": 8,
         "personen": [
@@ -20686,7 +21944,10 @@
         "evt": "20.12.2022",
         "zyklus": "Weltenriss",
         "titel": "Countdown",
-        "text": "Simon Borner, Oliver M\u00fcller",
+        "text": [
+            "Simon Borner",
+            "Oliver M\u00fcller"
+        ],
         "bewertung": 2.78,
         "stimmen": 9,
         "personen": [
@@ -20724,7 +21985,9 @@
         "evt": "03.01.2023",
         "zyklus": "Weltenriss",
         "titel": "Endspiel",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.13,
         "stimmen": 8,
         "personen": [
@@ -20772,7 +22035,9 @@
         "evt": "17.01.2023",
         "zyklus": "Amraka",
         "titel": "Amraka",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.83,
         "stimmen": 18,
         "personen": [
@@ -20812,7 +22077,9 @@
         "evt": "31.01.2023",
         "zyklus": "Amraka",
         "titel": "Der Tempel",
-        "text": "Lara M\u00f6ller",
+        "text": [
+            "Lara M\u00f6ller"
+        ],
         "bewertung": 3.78,
         "stimmen": 18,
         "personen": [
@@ -20851,7 +22118,9 @@
         "evt": "14.02.2023",
         "zyklus": "Amraka",
         "titel": "Das Auge des Jaguars",
-        "text": "Michael Edelbrock",
+        "text": [
+            "Michael Edelbrock"
+        ],
         "bewertung": 4.22,
         "stimmen": 18,
         "personen": [
@@ -20907,7 +22176,9 @@
         "evt": "28.02.2023",
         "zyklus": "Amraka",
         "titel": "In der Gr\u00fcnen H\u00f6lle",
-        "text": "Michael Edelbrock",
+        "text": [
+            "Michael Edelbrock"
+        ],
         "bewertung": 4.06,
         "stimmen": 17,
         "personen": [
@@ -20964,7 +22235,9 @@
         "evt": "14.03.2023",
         "zyklus": "Amraka",
         "titel": "Als die Erde unterging",
-        "text": "Michael M. Thurner",
+        "text": [
+            "Michael M. Thurner"
+        ],
         "bewertung": 3.33,
         "stimmen": 18,
         "personen": [
@@ -21006,7 +22279,9 @@
         "evt": "28.03.2023",
         "zyklus": "Amraka",
         "titel": "Mabuta \u2013 der vielbeinige Gott",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 2.71,
         "stimmen": 17,
         "personen": [
@@ -21045,7 +22320,9 @@
         "evt": "11.04.2023",
         "zyklus": "Amraka",
         "titel": "Tod aus den Wassern",
-        "text": "Kolja van Horn",
+        "text": [
+            "Kolja van Horn"
+        ],
         "bewertung": 3.87,
         "stimmen": 15,
         "personen": [
@@ -21092,7 +22369,9 @@
         "evt": "25.04.2023",
         "zyklus": "Amraka",
         "titel": "Das Haus auf dem H\u00fcgel",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 4.4,
         "stimmen": 15,
         "personen": [
@@ -21129,7 +22408,9 @@
         "evt": "09.05.2023",
         "zyklus": "Amraka",
         "titel": "Spiel um \u00d6l",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3.07,
         "stimmen": 15,
         "personen": [
@@ -21184,7 +22465,9 @@
         "evt": "23.05.2023",
         "zyklus": "Amraka",
         "titel": "Matt & Drugs & Rock'n'Roll",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 2.79,
         "stimmen": 14,
         "personen": [
@@ -21224,7 +22507,9 @@
         "evt": "06.06.2023",
         "zyklus": "Amraka",
         "titel": "Auferstehung des B\u00f6sen",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 2.36,
         "stimmen": 14,
         "personen": [
@@ -21273,7 +22558,9 @@
         "evt": "20.06.2023",
         "zyklus": "Amraka",
         "titel": "Konvoi der Verlorenen",
-        "text": "Michael Edelbrock",
+        "text": [
+            "Michael Edelbrock"
+        ],
         "bewertung": 3.93,
         "stimmen": 15,
         "personen": [
@@ -21317,7 +22604,9 @@
         "evt": "04.07.2023",
         "zyklus": "Amraka",
         "titel": "K\u00f6nigin der Ameisen",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.14,
         "stimmen": 14,
         "personen": [
@@ -21358,7 +22647,9 @@
         "evt": "18.07.2023",
         "zyklus": "Amraka",
         "titel": "Aant-Matt and the Haaley",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.07,
         "stimmen": 15,
         "personen": [
@@ -21396,7 +22687,9 @@
         "evt": "01.08.2023",
         "zyklus": "Amraka",
         "titel": "Das Tier in mir",
-        "text": "Kolja van Horn",
+        "text": [
+            "Kolja van Horn"
+        ],
         "bewertung": 2.87,
         "stimmen": 15,
         "personen": [
@@ -21437,7 +22730,9 @@
         "evt": "15.08.2023",
         "zyklus": "Amraka",
         "titel": "Das Lazarus-Ph\u00e4nomen",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.13,
         "stimmen": 16,
         "personen": [
@@ -21483,7 +22778,9 @@
         "evt": "29.08.2023",
         "zyklus": "Amraka",
         "titel": "Dak'kar",
-        "text": "Michael Edelbrock",
+        "text": [
+            "Michael Edelbrock"
+        ],
         "bewertung": 4.38,
         "stimmen": 13,
         "personen": [
@@ -21536,7 +22833,9 @@
         "evt": "09.09.2023",
         "zyklus": "Amraka",
         "titel": "Fluch und Segen",
-        "text": "Michael Edelbrock",
+        "text": [
+            "Michael Edelbrock"
+        ],
         "bewertung": 3.8,
         "stimmen": 15,
         "personen": [
@@ -21585,7 +22884,9 @@
         "evt": "23.09.2023",
         "zyklus": "Amraka",
         "titel": "Der Weg der Daa'muren",
-        "text": "Jo Zybell",
+        "text": [
+            "Jo Zybell"
+        ],
         "bewertung": 3.93,
         "stimmen": 14,
         "personen": [
@@ -21628,7 +22929,9 @@
         "evt": "07.10.2023",
         "zyklus": "Amraka",
         "titel": "Totgesagte leben l\u00e4nger",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 4,
         "stimmen": 13,
         "personen": [
@@ -21663,7 +22966,9 @@
         "evt": "21.10.2023",
         "zyklus": "Amraka",
         "titel": "Der Anschlag",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.15,
         "stimmen": 13,
         "personen": [
@@ -21709,7 +23014,9 @@
         "evt": "04.11.2023",
         "zyklus": "Amraka",
         "titel": "Im Reich der Nocturno",
-        "text": "Lara M\u00f6ller",
+        "text": [
+            "Lara M\u00f6ller"
+        ],
         "bewertung": 3.14,
         "stimmen": 14,
         "personen": [
@@ -21755,7 +23062,9 @@
         "evt": "18.11.2023",
         "zyklus": "Amraka",
         "titel": "Die Verwandlung",
-        "text": "Sascha Vennemann",
+        "text": [
+            "Sascha Vennemann"
+        ],
         "bewertung": 3.23,
         "stimmen": 13,
         "personen": [
@@ -21796,7 +23105,9 @@
         "evt": "02.12.2023",
         "zyklus": "Amraka",
         "titel": "Das Verderben w\u00e4chst",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 2.92,
         "stimmen": 12,
         "personen": [
@@ -21832,7 +23143,9 @@
         "evt": "16.12.2023",
         "zyklus": "Amraka",
         "titel": "Die ferne Stimme",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 3.42,
         "stimmen": 12,
         "personen": [
@@ -21869,7 +23182,9 @@
         "evt": "30.12.2023",
         "zyklus": "Amraka",
         "titel": "Das Ende der Suche",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 2.27,
         "stimmen": 11,
         "personen": [
@@ -21903,7 +23218,9 @@
         "evt": "13.01.2024",
         "zyklus": "Amraka",
         "titel": "Zeit des Sterbens",
-        "text": "Oliver M\u00fcller",
+        "text": [
+            "Oliver M\u00fcller"
+        ],
         "bewertung": 3.78,
         "stimmen": 9,
         "personen": [
@@ -21946,7 +23263,9 @@
         "evt": "27.01.2024",
         "zyklus": "Amraka",
         "titel": "Schwestern im Geiste",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.18,
         "stimmen": 11,
         "personen": [
@@ -21982,7 +23301,9 @@
         "evt": "10.02.2024",
         "zyklus": "Amraka",
         "titel": "Die Gestade der Zeit",
-        "text": "Michael Edelbrock",
+        "text": [
+            "Michael Edelbrock"
+        ],
         "bewertung": 4,
         "stimmen": 9,
         "personen": [
@@ -22026,7 +23347,9 @@
         "evt": "24.02.2024",
         "zyklus": "Amraka",
         "titel": "Die Narren von Manaus",
-        "text": "Kolja van Horn",
+        "text": [
+            "Kolja van Horn"
+        ],
         "bewertung": 3,
         "stimmen": 10,
         "personen": [
@@ -22073,7 +23396,9 @@
         "evt": "09.03.2024",
         "zyklus": "Amraka",
         "titel": "Der Flug des Kondors",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 2,
         "stimmen": 9,
         "personen": [
@@ -22100,7 +23425,10 @@
         "evt": "23.03.2024",
         "zyklus": "Amraka",
         "titel": "Maddrax, \u00fcbernehmen sie!",
-        "text": "Simon Borner, Michael Sch\u00f6nenbr\u00f6cher",
+        "text": [
+            "Simon Borner",
+            "Michael Sch\u00f6nenbr\u00f6cher"
+        ],
         "bewertung": 3.78,
         "stimmen": 9,
         "personen": [
@@ -22146,7 +23474,9 @@
         "evt": "06.04.2024",
         "zyklus": "Amraka",
         "titel": "Nosfera an die Macht!",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.33,
         "stimmen": 9,
         "personen": [
@@ -22206,7 +23536,9 @@
         "evt": "20.04.2024",
         "zyklus": "Amraka",
         "titel": "Magie oder Wissenschaft?",
-        "text": "Lucy Guth",
+        "text": [
+            "Lucy Guth"
+        ],
         "bewertung": 4,
         "stimmen": 11,
         "personen": [
@@ -22262,7 +23594,9 @@
         "evt": "04.05.2024",
         "zyklus": "Amraka",
         "titel": "Heimkehr einer Legende",
-        "text": "Michael Edelbrock",
+        "text": [
+            "Michael Edelbrock"
+        ],
         "bewertung": 4.18,
         "stimmen": 11,
         "personen": [
@@ -22317,7 +23651,9 @@
         "evt": "18.05.2024",
         "zyklus": "Amraka",
         "titel": "Die Androidenfalle",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.5,
         "stimmen": 12,
         "personen": [
@@ -22374,7 +23710,9 @@
         "evt": "01.06.2024",
         "zyklus": "Amraka",
         "titel": "Verbranntes Land",
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "bewertung": 2.7,
         "stimmen": 10,
         "personen": [
@@ -22421,7 +23759,9 @@
         "evt": "15.06.2024",
         "zyklus": "Amraka",
         "titel": "Die Dino-Offensive",
-        "text": "Ian Rolf Hill",
+        "text": [
+            "Ian Rolf Hill"
+        ],
         "bewertung": 3.4,
         "stimmen": 10,
         "personen": [
@@ -22460,7 +23800,9 @@
         "evt": "29.06.2024",
         "zyklus": "Amraka",
         "titel": "Neustart",
-        "text": "Oliver M\u00fcller",
+        "text": [
+            "Oliver M\u00fcller"
+        ],
         "bewertung": 3.3,
         "stimmen": 10,
         "personen": [
@@ -22504,9 +23846,11 @@
         "evt": "13.07.2024",
         "zyklus": "Amraka",
         "titel": "Im Untergrund",
-        "text": "Ian Rolf Hill",
-        "bewertung": 3.14,
-        "stimmen": 7,
+        "text": [
+            "Ian Rolf Hill"
+        ],
+        "bewertung": 3.25,
+        "stimmen": 8,
         "personen": [
             "Ashley Mara",
             "Aran Kormak",
@@ -22561,9 +23905,11 @@
         "evt": "27.07.2024",
         "zyklus": "Amraka",
         "titel": "Gefahrvolle Reise",
-        "text": "Sascha Vennemann",
-        "bewertung": 4.38,
-        "stimmen": 8,
+        "text": [
+            "Sascha Vennemann"
+        ],
+        "bewertung": 4.11,
+        "stimmen": 9,
         "personen": [
             "Julian Springs",
             "Mortimer Springs",
@@ -22613,7 +23959,9 @@
         "evt": "10.08.2024",
         "zyklus": "Amraka",
         "titel": "Prometheus 2.0",
-        "text": "Michael Edelbrock",
+        "text": [
+            "Michael Edelbrock"
+        ],
         "bewertung": 4.5,
         "stimmen": 4,
         "personen": [

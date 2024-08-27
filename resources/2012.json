@@ -6,7 +6,9 @@
         "serie": "2012 - Jahr der Apokalypse",
         "bewertung": 3.67,
         "stimmen": 6,
-        "text": "Hubert Haensel",
+        "text": [
+            "Hubert Haensel"
+        ],
         "personen": [
             "Tom Ericson"
         ],
@@ -23,7 +25,9 @@
         "serie": "2012 - Jahr der Apokalypse",
         "bewertung": 3.5,
         "stimmen": 6,
-        "text": "Christian Schwarz",
+        "text": [
+            "Christian Schwarz"
+        ],
         "personen": [
             "Tom Ericson"
         ],
@@ -39,7 +43,9 @@
         "serie": "2012 - Jahr der Apokalypse",
         "bewertung": 3.33,
         "stimmen": 6,
-        "text": "Hubert Haensel",
+        "text": [
+            "Hubert Haensel"
+        ],
         "personen": [
             "Thomas Ericson (Apokalypse-2012-Welt)",
             "Mann in Wei\u00df"
@@ -54,7 +60,9 @@
         "serie": "2012 - Jahr der Apokalypse",
         "bewertung": 4.29,
         "stimmen": 7,
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "personen": null,
         "orte": null,
         "schlagworte": null
@@ -66,7 +74,9 @@
         "serie": "2012 - Jahr der Apokalypse",
         "bewertung": 3.83,
         "stimmen": 6,
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "personen": [
             "Francisco Hern\u00e1ndez de C\u00f3rdoba"
         ],
@@ -80,7 +90,9 @@
         "serie": "2012 - Jahr der Apokalypse",
         "bewertung": 4,
         "stimmen": 6,
-        "text": "Manfred Weinland",
+        "text": [
+            "Manfred Weinland"
+        ],
         "personen": null,
         "orte": null,
         "schlagworte": null
@@ -92,7 +104,9 @@
         "serie": "2012 - Jahr der Apokalypse",
         "bewertung": 4.83,
         "stimmen": 6,
-        "text": "Timothy Stahl",
+        "text": [
+            "Timothy Stahl"
+        ],
         "personen": [
             "Tom Ericson",
             "Alejandro Su\u00e1rez",
@@ -108,7 +122,9 @@
         "serie": "2012 - Jahr der Apokalypse",
         "bewertung": 5,
         "stimmen": 6,
-        "text": "Timothy Stahl",
+        "text": [
+            "Timothy Stahl"
+        ],
         "personen": null,
         "orte": null,
         "schlagworte": null
@@ -120,7 +136,9 @@
         "serie": "2012 - Jahr der Apokalypse",
         "bewertung": 4.83,
         "stimmen": 6,
-        "text": "Timothy Stahl",
+        "text": [
+            "Timothy Stahl"
+        ],
         "personen": null,
         "orte": null,
         "schlagworte": null
@@ -132,7 +150,9 @@
         "serie": "2012 - Jahr der Apokalypse",
         "bewertung": 4.67,
         "stimmen": 6,
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "personen": null,
         "orte": null,
         "schlagworte": null
@@ -144,7 +164,9 @@
         "serie": "2012 - Jahr der Apokalypse",
         "bewertung": 5,
         "stimmen": 6,
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "personen": null,
         "orte": null,
         "schlagworte": null
@@ -156,7 +178,9 @@
         "serie": "2012 - Jahr der Apokalypse",
         "bewertung": 5,
         "stimmen": 6,
-        "text": "Oliver Fr\u00f6hlich",
+        "text": [
+            "Oliver Fr\u00f6hlich"
+        ],
         "personen": null,
         "orte": null,
         "schlagworte": null
