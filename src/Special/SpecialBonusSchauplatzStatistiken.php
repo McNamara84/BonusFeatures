@@ -8,7 +8,7 @@ use MediaWiki\Title\Title;
 
 class SpecialBonusSchauplatzStatistiken extends SpecialPage
 {
-    private $requiredPoints = 2000;
+    private $requiredPoints = 1000;
 
     function __construct()
     {
@@ -60,7 +60,7 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
             // Füge den Link zur BonusFeatures-Seite am Anfang hinzu
             $output->addWikiTextAsContent("[[Spezial:BonusFeatures|Zurück zur Übersicht der Bonus-Features]]\n\n");
 
-            $output->addWikiTextAsContent("Diese Seite bietet Statitiken zu den Schauplätzen der MADDRAX-Serie. Sie basieren auf den Daten des Maddraxikons und werden wöchentlich aktualisiert um den Server nicht zu überlasten. Die Auflistung der Häufigste Schauplätze enthält eine vollständige Liste aller Schauplätze. Die beliebtesten Schauplätze enthalten nur Schauplätze, die in mindestens 5 Romanen vorkommen. Die Durchschnittsbewertung basiert auf den Bewertungen der einzelnen Schauplätze.");
+            $output->addWikiTextAsContent("Für nur 1.000 Punkte bietet diese Seite Statitiken zu den Schauplätzen der MADDRAX-Serie. Diese basieren auf den Daten des Maddraxikons und werden wöchentlich aktualisiert um den Server nicht zu überlasten. Die Auflistung der Häufigste Schauplätze enthält eine vollständige Liste aller Schauplätze. Die beliebtesten Schauplätze enthalten nur Schauplätze, die in mindestens 5 Romanen vorkommen. Die Durchschnittsbewertung basiert auf den Bewertungen der einzelnen Schauplätze.");
 
             // Füge die Maddraxiversum-Tabelle hinzu
             $output->addWikiTextAsContent("== Maddraxiversum ==\n");
@@ -77,17 +77,17 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
 
             foreach ($headings as $heading) {
                 $output->addWikiTextAsContent("== $heading ==\n");
-                if ($heading === "Hauptserie" && $userPoints >= 2000) {
+                if ($heading === "Hauptserie" && $userPoints >= 1000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('maddrax'));
-                } elseif ($heading === "Hardcover" && $userPoints >= 2000) {
+                } elseif ($heading === "Hardcover" && $userPoints >= 1000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('hardcover'));
-                } elseif ($heading === "Mission Mars" && $userPoints >= 2000) {
+                } elseif ($heading === "Mission Mars" && $userPoints >= 1000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('missionmars'));
-                } elseif ($heading === "Das Volk der Tiefe" && $userPoints >= 2000) {
+                } elseif ($heading === "Das Volk der Tiefe" && $userPoints >= 1000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('dasvolkdertiefe'));
-                } elseif ($heading === "2012" && $userPoints >= 2000) {
+                } elseif ($heading === "2012" && $userPoints >= 1000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('2012'));
-                } elseif ($heading === "Die Abenteuer" && $userPoints >= 2000) {
+                } elseif ($heading === "Die Abenteuer" && $userPoints >= 1000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('dieabenteurer'));
                 }
             }

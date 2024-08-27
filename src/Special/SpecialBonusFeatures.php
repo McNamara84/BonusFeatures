@@ -50,37 +50,65 @@ class SpecialBonusFeatures extends SpecialPage
             [
                 'title' => 'Belohnung 1: Statistiken - Schauplätze',
                 'description' => 'Als Belohnung für deine ersten Schritte hier im Maddraxikon erhältst du Zugriff auf die ausführlichen Statistiken zu Handlunnsorten der Serie. Hier findest du alle Informationen zu den Schauplätzen der Maddrax-Romane.',
-                'requiredPoints' => 2000,
+                'requiredPoints' => 1000,
                 'linkText' => 'Zu den Schauplatz-Statistiken',
                 'linkUrl' => 'BonusSchauplatzStatistiken'
             ],
             [
                 'title' => 'Belohnung 2: Hörbücher vorab',
-                'description' => 'Erhalte Zugriff auf die neuesten, unveröffentlichten EARDRAX-Fanhörbücher. Hier wird immer mindestens ein unveröffentlichtes Hörbuch angeboten - noch bevor es auf YouTube erscheint!',
-                'requiredPoints' => 4000,
+                'description' => 'Erhalte Zugriff auf die neuesten, unveröffentlichten EARDRAX-Fanhörbücher. Mit 2.000 Punkten kannst du dir hier mindestens ein unveröffentlichtes Maddrax-Hörbuch anhören - noch bevor es auf YouTube erscheint!',
+                'requiredPoints' => 2000,
                 'linkText' => 'Zur Hörbuch-Vorschau',
                 'linkUrl' => 'BonusHoerbuch'
             ],
             [
                 'title' => 'Belohnung 3: Statistiken - Personen',
-                'description' => 'Erhalte mit 8.000 Punkten Zugriff auf die ausführlichen Statistiken zu den Charakteren der Serie. Welche Charaktere kamen häufiger vor? Welche sind die beliebtesten? Hier findest du alle Informationen zu den Charakteren der Maddrax-Romane.',
-                'requiredPoints' => 8000,
+                'description' => 'Erhalte mit 4.000 Punkten Zugriff auf die ausführlichen Statistiken zu den Charakteren der Serie. Welche Charaktere kamen häufiger vor? Welche sind die beliebtesten? Hier findest du alle Informationen zu den Charakteren der Maddrax-Romane.',
+                'requiredPoints' => 4000,
                 'linkText' => 'Zu den Personen-Statistiken',
                 'linkUrl' => 'BonusPersonenStatistiken'
             ],
             [
-                'title' => 'Belohnung 4: Statistiken - Autoren',
-                'description' => 'Wer hat am meisten Romane im Maddraxiversum verfasst? Welcher Autor schreibt die am besten bewerteten Romane? Mit 16.000 Punkten erhältst du Zugriff auf die ausführlichen Statistiken zu den Autoren der Serie.',
-                'requiredPoints' => 16000,
+                'title' => 'Belohnung 4: Statistiken - Romane',
+                'description' => 'IN ARBEIT: Welcher Roman wurde am häufigsten bewertet? Welcher ist der bestbewertete Roman? Mit 6.000 Punkten erhältst du Zugriff auf die ausführlichen Statistiken zu den Romanen der Serie.',
+                'requiredPoints' => 6000,
+                'linkText' => 'Zu den Roman-Statistiken',
+                'linkUrl' => 'BonusRomaneStatistiken'
+            ],
+            [
+                'title' => 'Belohnung 5: Statistiken - Autoren',
+                'description' => 'Wer hat am meisten Romane im Maddraxiversum verfasst? Welcher Autor schreibt die am besten bewerteten Romane? Mit 8.000 Punkten erhältst du Zugriff auf die ausführlichen Statistiken zu den Autoren der Serie.',
+                'requiredPoints' => 8000,
                 'linkText' => 'Zu den Autoren-Statistiken',
                 'linkUrl' => 'BonusAutorenStatistiken'
             ],
             [
-                'title' => 'Belohnung 5: Klemmbaustein-Anleitung - Prototyp XP-1',
+                'title' => 'Belohnung 6: Klemmbaustein-Anleitung - Prototyp XP-1',
                 'description' => 'IN ARBEIT: Mit 32.000 Punkten erhältst du Zugriff auf die Anleitung zum Bau des Prototyp XP-1 aus Klemmbausteinen. Bau Dir dein eigenes Modell des Prototyp XP-1!',
-                'requiredPoints' => 32000,
+                'requiredPoints' => 10000,
                 'linkText' => 'Zum Download',
                 'linkUrl' => 'BonusProtoAnleitung'
+            ],
+            [
+                'title' => 'Belohnung 7: Karten - Kartenwerk Erde',
+                'description' => 'IN ARBEIT',
+                'requiredPoints' => 20000,
+                'linkText' => 'Zur Karte der Erde',
+                'linkUrl' => 'BonusMapdraxErde'
+            ],
+            [
+                'title' => 'Belohnung 8: Statistiken - Zyklen',
+                'description' => 'IN ARBEIT',
+                'requiredPoints' => 30000,
+                'linkText' => 'Zu den Zyklen-Statistiken',
+                'linkUrl' => 'BonusZyklenStatistiken'
+            ],
+            [
+                'title' => 'Belohnung 9: 3D-Druck - Druckdateien für Prototyp XP-1',
+                'description' => 'IN ARBEIT',
+                'requiredPoints' => 40000,
+                'linkText' => 'Zu den Roman-Statistiken',
+                'linkUrl' => 'BonusRomaneStatistiken'
             ],
             // TODO: Weitere Belohnungen hinzufügen
         ];

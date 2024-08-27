@@ -8,7 +8,7 @@ use MediaWiki\Title\Title;
 
 class SpecialBonusPersonenStatistiken extends SpecialPage
 {
-    private $requiredPoints = 8000;
+    private $requiredPoints = 4000;
 
     function __construct()
     {
@@ -77,17 +77,17 @@ class SpecialBonusPersonenStatistiken extends SpecialPage
 
             foreach ($headings as $heading) {
                 $output->addWikiTextAsContent("== $heading ==\n");
-                if ($heading === "Hauptserie" && $userPoints >= 8000) {
+                if ($heading === "Hauptserie" && $userPoints >= 4000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('maddrax'));
-                } elseif ($heading === "Hardcover" && $userPoints >= 8000) {
+                } elseif ($heading === "Hardcover" && $userPoints >= 4000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('hardcover'));
-                } elseif ($heading === "Mission Mars" && $userPoints >= 8000) {
+                } elseif ($heading === "Mission Mars" && $userPoints >= 4000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('missionmars'));
-                } elseif ($heading === "Das Volk der Tiefe" && $userPoints >= 8000) {
+                } elseif ($heading === "Das Volk der Tiefe" && $userPoints >= 4000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('dasvolkdertiefe'));
-                } elseif ($heading === "2012" && $userPoints >= 8000) {
+                } elseif ($heading === "2012" && $userPoints >= 4000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('2012'));
-                } elseif ($heading === "Die Abenteuer" && $userPoints >= 8000) {
+                } elseif ($heading === "Die Abenteuer" && $userPoints >= 4000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('dieabenteurer'));
                 }
             }

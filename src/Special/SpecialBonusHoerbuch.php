@@ -60,7 +60,10 @@ class SpecialBonusHoerbuch extends SpecialPage
             'YQNNkggPIAY', // F28T1
             'Y2wSPocYNX4', // F28T2
             'fPJed3NoM28', // F28T3
-            'Td1cGqTw76Y'  // F28T4
+            'Td1cGqTw76Y', // F28T4
+            'r_ZCYVtfF8M', // F29T1
+            'rxKfwIhHhlI', // F29T2
+            'WP2a-X04lMw', // F29T3
         ];
 
         foreach ($videos as $videoId) {
