@@ -6,13 +6,13 @@ use SpecialPage;
 use MediaWiki\MediaWikiServices;
 use MediaWiki\Title\Title;
 
-class SpecialBonusSchauplatzStatistiken extends SpecialPage
+class SpecialBonusPersonenStatistiken extends SpecialPage
 {
-    private $requiredPoints = 2000;
+    private $requiredPoints = 8000;
 
     function __construct()
     {
-        parent::__construct('BonusSchauplatzStatistiken');
+        parent::__construct('BonusPersonenStatistiken');
     }
 
     private function logInfo($message, $context = [])
@@ -41,7 +41,7 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
             $user = $this->getUser();
             $userPoints = $this->getUserPoints($user);
 
-            $this->logInfo('User accessed BonusSchauplatzStatistiken', [
+            $this->logInfo('User accessed BonusPersonenStatistiken', [
                 'user' => $user->getName(),
                 'points' => $userPoints
             ]);
@@ -54,13 +54,13 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
             $output->addModules('ext.bonusFeatures.tableUpdate');
             $output->addJsConfigVars('bonusFeatures', [
                 'updateUrl' => $this->getPageTitle()->getLocalURL(),
-                'statisticType' => 'schauplatz'
+                'statisticType' => 'person'
             ]);
 
             // Füge den Link zur BonusFeatures-Seite am Anfang hinzu
             $output->addWikiTextAsContent("[[Spezial:BonusFeatures|Zurück zur Übersicht der Bonus-Features]]\n\n");
 
-            $output->addWikiTextAsContent("Diese Seite bietet Statitiken zu den Schauplätzen der MADDRAX-Serie. Sie basieren auf den Daten des Maddraxikons und werden wöchentlich aktualisiert um den Server nicht zu überlasten. Die Auflistung der Häufigste Schauplätze enthält eine vollständige Liste aller Schauplätze. Die beliebtesten Schauplätze enthalten nur Schauplätze, die in mindestens 5 Romanen vorkommen. Die Durchschnittsbewertung basiert auf den Bewertungen der einzelnen Schauplätze.");
+            $output->addWikiTextAsContent("Diese Seite bietet Statistiken zu den Personen der MADDRAX-Serie. Sie basieren auf den Daten des Maddraxikons und werden wöchentlich aktualisiert um den Server nicht zu überlasten. Die Auflistung der Häufigste Personen enthält eine vollständige Liste aller Personen. Die beliebtesten Personen enthalten nur Personen, die in mindestens 5 Romanen vorkommen. Die Durchschnittsbewertung basiert auf den Bewertungen der einzelnen Romane, in denen die Personen vorkommen.");
 
             // Füge die Maddraxiversum-Tabelle hinzu
             $output->addWikiTextAsContent("== Maddraxiversum ==\n");
@@ -77,17 +77,17 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
 
             foreach ($headings as $heading) {
                 $output->addWikiTextAsContent("== $heading ==\n");
-                if ($heading === "Hauptserie" && $userPoints >= 2000) {
+                if ($heading === "Hauptserie" && $userPoints >= 8000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('maddrax'));
-                } elseif ($heading === "Hardcover" && $userPoints >= 2000) {
+                } elseif ($heading === "Hardcover" && $userPoints >= 8000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('hardcover'));
-                } elseif ($heading === "Mission Mars" && $userPoints >= 2000) {
+                } elseif ($heading === "Mission Mars" && $userPoints >= 8000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('missionmars'));
-                } elseif ($heading === "Das Volk der Tiefe" && $userPoints >= 2000) {
+                } elseif ($heading === "Das Volk der Tiefe" && $userPoints >= 8000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('dasvolkdertiefe'));
-                } elseif ($heading === "2012" && $userPoints >= 2000) {
+                } elseif ($heading === "2012" && $userPoints >= 8000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('2012'));
-                } elseif ($heading === "Die Abenteuer" && $userPoints >= 2000) {
+                } elseif ($heading === "Die Abenteuer" && $userPoints >= 8000) {
                     $output->addWikiTextAsContent($this->getSeriesTable('dieabenteurer'));
                 }
             }
@@ -96,7 +96,7 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
             $output->addWikiTextAsContent("\n\n[[Spezial:BonusFeatures|Zurück zur Übersicht der Bonus-Features]]");
 
         } catch (\Exception $e) {
-            $this->logError('Error in BonusSchauplatzStatistiken: {message}', [
+            $this->logError('Error in BonusPersonenStatistiken: {message}', [
                 'message' => $e->getMessage(),
                 'file' => $e->getFile(),
                 'line' => $e->getLine(),
@@ -116,8 +116,9 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
             $request = $this->getRequest();
             $prefix = $request->getVal('prefix');
             $page = $request->getInt('page', 1);
+            $statisticType = $request->getVal('statisticType');
 
-            $data = $this->getTableData($prefix, $page);
+            $data = $this->getTableData($prefix, $page, $statisticType);
 
             $this->getOutput()->disable();
             header('Content-Type: application/json');
@@ -132,8 +133,9 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
         exit;
     }
 
-    public function getTableData($prefix, $page)
+    public function getTableData($prefix, $page, $statisticType)
     {
+        error_log("getTableData called with prefix: $prefix, page: $page, statisticType: $statisticType");
         $parts = explode('-', $prefix);
         $series = $parts[0];
         $type = $parts[1];
@@ -151,8 +153,8 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
             $jsonFiles = [$series];
         }
 
-        $ortsHaeufigkeit = [];
-        $ortsBewertungen = [];
+        $personenHaeufigkeit = [];
+        $personenBewertungen = [];
 
         foreach ($jsonFiles as $file) {
             $jsonFile = __DIR__ . '/../../resources/' . $file . '.json';
@@ -176,48 +178,48 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
 
             foreach ($data as $roman) {
                 // Zähle Häufigkeit für alle Romane
-                foreach ($roman['orte'] as $ort) {
-                    if (!isset($ortsHaeufigkeit[$ort])) {
-                        $ortsHaeufigkeit[$ort] = 0;
+                foreach ($roman['personen'] as $person) {
+                    if (!isset($personenHaeufigkeit[$person])) {
+                        $personenHaeufigkeit[$person] = 0;
                     }
-                    $ortsHaeufigkeit[$ort]++;
+                    $personenHaeufigkeit[$person]++;
                 }
 
                 // Berücksichtige Bewertungen nur für Romane mit mindestens 5 Stimmen
                 if ($roman['stimmen'] >= 5) {
-                    foreach ($roman['orte'] as $ort) {
-                        if (!isset($ortsBewertungen[$ort])) {
-                            $ortsBewertungen[$ort] = ['sum' => 0, 'count' => 0];
+                    foreach ($roman['personen'] as $person) {
+                        if (!isset($personenBewertungen[$person])) {
+                            $personenBewertungen[$person] = ['sum' => 0, 'count' => 0];
                         }
-                        $ortsBewertungen[$ort]['sum'] += $roman['bewertung'];
-                        $ortsBewertungen[$ort]['count']++;
+                        $personenBewertungen[$person]['sum'] += $roman['bewertung'];
+                        $personenBewertungen[$person]['count']++;
                     }
                 }
             }
         }
 
         if ($type === 'haeufigkeit') {
-            arsort($ortsHaeufigkeit);
-            $tableData = $ortsHaeufigkeit;
-            $headers = ['Ort', 'Häufigkeit'];
-            $rowCallback = function ($ort, $haeufigkeit) {
-                return [$this->createWikiLink($ort), $haeufigkeit];
+            arsort($personenHaeufigkeit);
+            $tableData = $personenHaeufigkeit;
+            $headers = ['Person', 'Häufigkeit'];
+            $rowCallback = function ($person, $haeufigkeit) {
+                return [$this->createWikiLink($person), $haeufigkeit];
             };
         } elseif ($type === 'bewertung') {
-            // Entferne Orte mit weniger als 5 bewerteten Romanen für die Bewertungstabelle
-            $ortsBewertungen = array_filter($ortsBewertungen, function ($bewertung) {
+            // Entferne Personen mit weniger als 5 bewerteten Romanen für die Bewertungstabelle
+            $personenBewertungen = array_filter($personenBewertungen, function ($bewertung) {
                 return $bewertung['count'] >= 5;
             });
 
             $durchschnittsBewertungen = [];
-            foreach ($ortsBewertungen as $ort => $bewertung) {
-                $durchschnittsBewertungen[$ort] = $bewertung['sum'] / $bewertung['count'];
+            foreach ($personenBewertungen as $person => $bewertung) {
+                $durchschnittsBewertungen[$person] = $bewertung['sum'] / $bewertung['count'];
             }
             arsort($durchschnittsBewertungen);
             $tableData = $durchschnittsBewertungen;
-            $headers = ['Ort', 'Durchschnittliche Bewertung', 'Anzahl der bewerteten Romane'];
-            $rowCallback = function ($ort, $bewertung) use ($ortsBewertungen) {
-                return [$this->createWikiLink($ort), number_format($bewertung, 2), $ortsBewertungen[$ort]['count']];
+            $headers = ['Person', 'Durchschnittliche Bewertung', 'Anzahl der bewerteten Romane'];
+            $rowCallback = function ($person, $bewertung) use ($personenBewertungen) {
+                return [$this->createWikiLink($person), number_format($bewertung, 2), $personenBewertungen[$person]['count']];
             };
         } else {
             return ['error' => 'Ungültiger Präfix'];
@@ -228,7 +230,7 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
         $totalPages = ceil($totalItems / $itemsPerPage);
 
         $paginatedTable = $this->getPaginatedTable($prefix, $headers, $tableData, $rowCallback, $page);
-
+        error_log("Returning data: " . json_encode(array_slice($tableData, 0, 5)));
         return [
             'tableHtml' => $paginatedTable,
             'totalItems' => $totalItems,
@@ -237,15 +239,15 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
         ];
     }
 
-    private function createWikiLink($ort)
+    private function createWikiLink($person)
     {
-        $title = Title::newFromText($ort);
+        $title = Title::newFromText($person);
         if ($title !== null) {
             $url = $title->getLocalURL();
-            $linkText = htmlspecialchars($ort);
+            $linkText = htmlspecialchars($person);
             return "<a href=\"$url\">$linkText</a>";
         }
-        return htmlspecialchars($ort);
+        return htmlspecialchars($person);
     }
 
     private function getUserPoints($user)
@@ -273,16 +275,16 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
     {
         $output = "";
 
-        // Tabelle für Häufigste Schauplätze
-        $output .= "=== Häufigste Schauplätze ===\n";
+        // Tabelle für Häufigste Personen
+        $output .= "=== Häufigste Personen ===\n";
         $output .= "<div id='{$series}-haeufigkeit-section'>\n";
         $output .= "<div id='{$series}-haeufigkeit-container'></div>\n";
         $output .= "</div>\n";
 
         $output .= "\n\n"; // Füge etwas Abstand zwischen den Tabellen hinzu
 
-        // Tabelle für beliebteste Schauplätze
-        $output .= "=== Beliebteste Schauplätze ===\n";
+        // Tabelle für beliebteste Personen
+        $output .= "=== Beliebteste Personen ===\n";
         $output .= "<div id='{$series}-bewertung-section'>\n";
         $output .= "<div id='{$series}-bewertung-container'></div>\n";
         $output .= "</div>\n";
@@ -294,16 +296,16 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
     {
         $output = "";
 
-        // Container für Häufigste Schauplätze
-        $output .= "=== Häufigste Schauplätze ===\n";
+        // Container für Häufigste Personen
+        $output .= "=== Häufigste Personen ===\n";
         $output .= "<div id='maddraxiversum-haeufigkeit-section'>\n";
         $output .= "<div id='maddraxiversum-haeufigkeit-container'></div>\n";
         $output .= "</div>\n";
 
         $output .= "\n\n"; // Füge etwas Abstand zwischen den Tabellen hinzu
 
-        // Container für beliebteste Schauplätze
-        $output .= "=== Beliebteste Schauplätze ===\n";
+        // Container für beliebteste Personen
+        $output .= "=== Beliebteste Personen ===\n";
         $output .= "<div id='maddraxiversum-bewertung-section'>\n";
         $output .= "<div id='maddraxiversum-bewertung-container'></div>\n";
         $output .= "</div>\n";
@@ -350,28 +352,5 @@ class SpecialBonusSchauplatzStatistiken extends SpecialPage
         $output .= "</div>\n";
 
         return $output;
-    }
-
-    private function getNavLinks($prefix, $currentPage, $totalPages)
-    {
-        $links = [];
-
-        if ($currentPage > 1) {
-            $links[] = "<a href='#' data-prefix='{$prefix}' data-page='" . ($currentPage - 1) . "'>< Vorherige</a>";
-        }
-
-        for ($i = max(1, $currentPage - 2); $i <= min($totalPages, $currentPage + 2); $i++) {
-            if ($i == $currentPage) {
-                $links[] = "'''{$i}'''";
-            } else {
-                $links[] = "<a href='#' data-prefix='{$prefix}' data-page='{$i}'>{$i}</a>";
-            }
-        }
-
-        if ($currentPage < $totalPages) {
-            $links[] = "<a href='#' data-prefix='{$prefix}' data-page='" . ($currentPage + 1) . "'>Nächste ></a>";
-        }
-
-        return implode(" • ", $links);
     }
 }

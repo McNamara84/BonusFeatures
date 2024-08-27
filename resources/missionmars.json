@@ -2,68 +2,106 @@
     {
         "nummer": 1,
         "titel": "Die Ankunft",
-        "evt": null,
+        "evt": "10.05.2005",
         "zyklus": "Mars (Zyklus)",
         "bewertung": 5,
         "stimmen": 8,
         "text": "Wolfgang Hohlbein",
         "personen": [
+            "John Carter",
+            "Han Suo Kang",
+            "Madelaine Saintdemar",
+            "Enrico Bergmann",
+            "Irena Batrikowa",
+            "Jenna Elisabeth Braxton",
+            "Estela Gonzales",
             "Marianne Angelis",
-            "Akina Tsuyoshi",
-            "Irena Batrikowa"
+            "Pramjib Khalid",
+            "Akina Tsuyoshi"
         ],
         "orte": [
-            "BRADBURY"
+            "BRADBURY",
+            "Mars"
         ],
         "schlagworte": null
     },
     {
         "nummer": 2,
         "titel": "Gestrandet",
-        "evt": null,
+        "evt": "24.05.2005",
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.71,
         "stimmen": 7,
         "text": "Claudia Kern",
         "personen": [
-            "Marianne Angelis",
+            "John Carter",
+            "Han Suo Kang",
+            "Jenna Elisabeth Braxton",
+            "Estela Gonzales",
+            "Pramjib Khalid",
+            "Madelaine Saintdemar",
             "Akina Tsuyoshi",
-            "Irena Batrikowa"
+            "Marianne Angelis",
+            "Irena Batrikowa",
+            "Enrico Bergmann"
         ],
         "orte": [
-            "Mars"
+            "Mars",
+            "BRADBURY"
         ],
         "schlagworte": null
     },
     {
         "nummer": 3,
         "titel": "\u00dcberleben",
-        "evt": null,
+        "evt": "07.06.2005",
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.43,
         "stimmen": 7,
         "text": "Susan Schwartz",
         "personen": [
+            "Akina Tsuyoshi",
+            "John Carter",
             "Leonie Angelis",
             "Marianne Angelis",
-            "Akina Tsuyoshi"
+            "Madelaine Saintdemar",
+            "Estela Gonzales",
+            "Han Suo Kang",
+            "Jenna Elisabeth Braxton",
+            "Pramjib Khalid",
+            "Ich\u00edban Carter",
+            "Alan Carter",
+            "D\u00e9sir\u00e9e Saintdemar"
         ],
         "orte": [
-            "Mars"
+            "Mars",
+            "Bradbury",
+            "Aqua Norte"
         ],
         "schlagworte": null
     },
     {
         "nummer": 4,
         "titel": "Artefakte",
-        "evt": null,
+        "evt": "21.06.2005",
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.43,
         "stimmen": 7,
         "text": "Frank Thys",
         "personen": [
             "Michael Tsuyoshi",
-            "Sharice Angelis"
+            "Sharice Angelis",
+            "Kim Gonzales",
+            "Akiro Braxton",
+            "Jos\u00e9 Gonzales",
+            "Jeffrey Saintdemar",
+            "Natasha Angelis",
+            "Ben Braxton",
+            "Shao Tsuyoshi",
+            "Maria Gonzales",
+            "Michelle Saintdemar",
+            "Roberto Gonzales",
+            "Jefferson Angelis"
         ],
         "orte": [
             "Bradbury",
@@ -74,16 +112,26 @@
     {
         "nummer": 5,
         "titel": "Invasion!",
-        "evt": null,
+        "evt": "05.07.2005",
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.29,
         "stimmen": 7,
         "text": "Frank Thys",
         "personen": [
+            "Pascal Saintdemar",
             "Michael Tsuyoshi",
-            "Sharice Angelis"
+            "Sharice Angelis",
+            "Ben Braxton",
+            "Shao Tsuyoshi",
+            "Maria Gonzales",
+            "Jeffrey Saintdemar",
+            "Natasha Angelis",
+            "David Jefferson",
+            "Akiro Braxton",
+            "Jos\u00e9 Gonzales"
         ],
         "orte": [
+            "Bradbury",
             "Anlage der Alten"
         ],
         "schlagworte": null
@@ -91,43 +139,63 @@
     {
         "nummer": 6,
         "titel": "Der Vorsto\u00df",
-        "evt": null,
+        "evt": "19.07.2005",
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.29,
         "stimmen": 7,
         "text": "Frank Thys",
         "personen": [
             "Michael Tsuyoshi",
-            "Sharice Angelis"
+            "Sharice Angelis",
+            "Natasha Angelis",
+            "David Jefferson",
+            "Akiro Braxton",
+            "Jos\u00e9 Gonzales",
+            "Jeffrey Saintdemar",
+            "Chantal Saintdemar"
         ],
         "orte": [
-            "Anlage der Alten"
+            "Bradbury",
+            "Anlage der Alten",
+            "Bahnsystem der Hydree",
+            "Tunnelfeldanlage"
         ],
         "schlagworte": null
     },
     {
         "nummer": 7,
         "titel": "Die Brut",
-        "evt": null,
+        "evt": "02.08.2005",
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4,
         "stimmen": 7,
         "text": "Timothy Stahl",
         "personen": [
+            "Eiila Angelis",
+            "Barton Angelis",
             "Shola Angelis",
             "Darven Angelis",
-            "Eiila Angelis"
+            "Kord Saintdemar",
+            "Ley Saintdemar",
+            "Cari Saintdemar",
+            "Marlee Saintdemar",
+            "Pa Saintdemar",
+            "Varga",
+            "Allan Braxton",
+            "Rondo Gonzales",
+            "Ino Tsuyoshi"
         ],
         "orte": [
             "Vegas",
-            "Otmanu"
+            "Otmanu",
+            "Museum zum Gedenken an die Erde"
         ],
         "schlagworte": null
     },
     {
         "nummer": 8,
         "titel": "Inferno",
-        "evt": null,
+        "evt": "16.08.2005",
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.29,
         "stimmen": 7,
@@ -135,77 +203,131 @@
         "personen": [
             "Shola Angelis",
             "Darven Angelis",
-            "Rondo Gonzales"
+            "Allan Braxton",
+            "Rondo Gonzales",
+            "Kord Saintdemar",
+            "Varga",
+            "Raban Tsuyoshi",
+            "Mikael Tsuyoshi",
+            "Pa Saintdemar",
+            "Cari Saintdemar",
+            "Ley Saintdemar",
+            "Lyra Braxton",
+            "Maury",
+            "Ino"
         ],
         "orte": [
             "Otmanu",
-            "Vegas"
+            "Vegas",
+            "Angelis-Farm",
+            "Elysium"
         ],
         "schlagworte": null
     },
     {
         "nummer": 9,
         "titel": "Bruderkrieg",
-        "evt": null,
+        "evt": "30.08.2005",
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.29,
         "stimmen": 7,
         "text": "Timothy Stahl",
         "personen": [
-            "Baummutter",
             "Darven Angelis",
-            "Eiila Angelis",
             "Shola Angelis",
-            "Rondo Gonzales"
+            "Nureeni",
+            "Rondo Gonzales",
+            "Lyvia Braxton",
+            "Raban Tsuyoshi",
+            "Cari Saintdemar",
+            "Ley Saintdemar",
+            "Nive",
+            "Eiila Angelis",
+            "Maury",
+            "Ino"
         ],
         "orte": [
-            "Wald"
+            "Phoenix",
+            "Wald",
+            "Vegas",
+            "Otmanu",
+            "Friedhof der Fr\u00fchen",
+            "Ratskammer",
+            "Baummutter"
         ],
         "schlagworte": null
     },
     {
         "nummer": 10,
         "titel": "Aufbruch",
-        "evt": null,
+        "evt": "13.09.2005",
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.43,
         "stimmen": 7,
         "text": "Susan Schwartz",
         "personen": [
-            "Maya Joy Tsuyoshi",
+            "Vera Akinora Tsuyoshi",
             "John Carter Tsuyoshi",
-            "Windt\u00e4nzer",
-            "Leto Jolar Angelis"
+            "Maya Joy Tsuyoshi",
+            "Jarro Fachhid Gonzales",
+            "Lorres Rauld Gonzales",
+            "Leto Jolar Angelis",
+            "Julia Mory Saintdemar",
+            "Mer\u00fa Viveca Saintdemar",
+            "Reana Lete Angelis",
+            "Sondo Kang Braxton",
+            "Beta Khalem Braxton",
+            "Fedor Lux",
+            "Windt\u00e4nzer"
         ],
         "orte": [
-            "Mars"
+            "Elysium",
+            "Ratsgeb\u00e4ude",
+            "Wald",
+            "Hope",
+            "Phoenix",
+            "Bradbury",
+            "Utopia",
+            "Elysium Mons",
+            "Olympus Mons"
         ],
         "schlagworte": null
     },
     {
         "nummer": 11,
         "titel": "Die Basis",
-        "evt": null,
+        "evt": "27.09.2005",
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.43,
         "stimmen": 7,
         "text": "Susan Schwartz",
         "personen": [
             "Maya Joy Tsuyoshi",
-            "Lorres Rauld Gonzales",
-            "Leto Jolar Angelis",
+            "Leto Angelis",
+            "Lorres Gonzales",
+            "Jawie Tsuyoshi",
+            "Albo Saklid",
+            "Rayna Braxton",
             "Anjani Gonzales",
-            "Albo Saklid"
+            "Clarice Braxton",
+            "Roy Braxton",
+            "Saramy Saintdemar",
+            "Paul Gardiner",
+            "Lars Engstr\u00f6m",
+            "John Carter Tsuyoshi",
+            "Windt\u00e4nzer"
         ],
         "orte": [
-            "CARTER"
+            "CARTER",
+            "Mond",
+            "Mondstation"
         ],
         "schlagworte": null
     },
     {
         "nummer": 12,
         "titel": "R\u00fcckkehr",
-        "evt": null,
+        "evt": "11.10.2005",
         "zyklus": "Mars (Zyklus)",
         "bewertung": 4.43,
         "stimmen": 7,
@@ -213,15 +335,24 @@
         "personen": [
             "Maya Joy Tsuyoshi",
             "Lorres Rauld Gonzales",
-            "Albo Saklid",
             "Leto Jolar Angelis",
-            "Anjani Gonzales",
-            "Roy Braxton",
+            "Albo Saklid",
             "Jawie Tsuyoshi",
-            "Clarice Braxton"
+            "Roy Braxton",
+            "Clarice Braxton",
+            "Rayna Braxton",
+            "Saramy Saintdemar",
+            "Anjani Gonzales",
+            "Vera Akinora",
+            "Conner"
         ],
         "orte": [
-            "Schottland"
+            "Mond",
+            "Mondstation",
+            "Schottland",
+            "Northwestern Highlands",
+            "Urquhart Castle",
+            "Loch Ness"
         ],
         "schlagworte": null
     }

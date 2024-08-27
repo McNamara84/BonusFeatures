@@ -2,6 +2,9 @@
   "use strict";
 
   function loadTableData(prefix, page = 1) {
+    var statisticType = mw.config.get("bonusFeatures").statisticType;
+    console.log("Loading table data for statisticType:", statisticType);
+
     $.ajax({
       url: mw.util.wikiScript("api"),
       data: {
@@ -9,6 +12,7 @@
         format: "json",
         prefix: prefix,
         page: page,
+        statisticType: statisticType,
       },
       dataType: "json",
       success: function (response) {
@@ -31,6 +35,13 @@
 
             // Initialize tablesorter
             $("#table-" + prefix).tablesorter();
+
+            // Optional: Spezifische Aktionen basierend auf dem Statistiktyp
+            if (statisticType === "schauplatz") {
+              console.log("Schauplatz-spezifische Aktionen können hier hinzugefügt werden");
+            } else if (statisticType === "person") {
+              console.log("Personen-spezifische Aktionen können hier hinzugefügt werden");
+            }
           } else {
             // Wenn keine Daten vorhanden sind, entferne den gesamten Section-Container
             $("#" + prefix + "-section").remove();
